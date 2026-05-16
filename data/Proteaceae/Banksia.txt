@@ -1,0 +1,212 @@
+Banksia.acanthopoda
+Banksia.aculeata{Prickly Banksia}
+Banksia.acuminata
+Banksia.aemula{Wallum Banksia}
+Banksia.alliacea
+Banksia.anatona{Cactus Dryandra}
+Banksia.aquilonia{Northern Banksia}
+Banksia.arborea{Yilgarn dryandra}
+Banksia.arctotidis
+Banksia.armata{Prickly Dryandra}
+Banksia.ashbyi{Ashby's banksia}
+Banksia.attenuata{Candlestick Banksia}
+Banksia.audax
+Banksia.aurantia{Orange Dryandra}
+Banksia.baueri{Woolly Banksia}
+Banksia.baxteri{Bird's-Nest Banksia}
+Banksia.bella{Wongan dryandra}
+Banksia.benthamiana
+Banksia.bipinnatifida
+Banksia.biterax
+Banksia.blechnifolia
+Banksia.borealis
+Banksia.brevidentata
+Banksia.brownii{Feather-Leaved Banksia}
+Banksia.brunnea
+Banksia.burdettii{Burdett's banksia}
+Banksia.caleyi{Red Lantern Banksia}
+Banksia.calophylla
+Banksia.candolleana{Propeller Banksia}
+Banksia.canei{Mountain Banksia}
+Banksia.carlinoides{Pink Dryandra}
+Banksia.catoglypta
+Banksia.chamaephyton{Fishbone Banksia}
+Banksia.cirsioides
+Banksia.coccinea{Scarlet Banksia}
+Banksia.collina{Hill Banksia}
+Banksia.columnaris
+Banksia.comosa
+Banksia.concinna
+Banksia.conferta{Glasshouse Banksia}
+Banksia.corvijuga
+Banksia.croajingolensis{Gippsland banksia}
+Banksia.cuneata{Matchstick Banksia}
+Banksia.cunninghamii{Cunningham's Banksia}
+Banksia.cynaroides
+Banksia.cypholoba
+Banksia.dallanneyi{Couch Honeypot}
+Banksia.densa
+Banksia.dentata{Tropical Banksia}
+Banksia.dolichostyla{Ironcaps Banksia}
+Banksia.drummondii{Drummond's Dryandra}
+Banksia.dryandroides{Dryandra-Leaved Banksia}
+Banksia.echinata
+Banksia.elderiana{Swordfish Banksia}
+Banksia.elegans{Elegant Banksia}
+Banksia.epica
+Banksia.epimicta
+Banksia.ericifolia{Heath-Leaved Banksia}
+Banksia.erythrocephala
+Banksia.falcata{Prickly Dryandra}
+Banksia.fasciculata
+Banksia.fililoba
+Banksia.foliolata
+Banksia.foliosissima
+Banksia.formosa{Showy Dryandra}
+Banksia.fraseri
+Banksia.fuscobractea{Dark-Bract Banksia}
+Banksia.gardneri{Prostrate Banksia}
+Banksia.glaucifolia
+Banksia.goodii{Good's Banksia}
+Banksia.grandis{Bull Banksia}
+Banksia.grossa
+Banksia.heliantha{Oak-Leaved Dryandra}
+Banksia.hewardiana
+Banksia.hiemalis
+Banksia.hirta
+Banksia.hookeriana{Hooker's Banksia}
+Banksia.horrida{Prickly Dryandra}
+Banksia.idiogenes
+Banksia.ilicifolia{Holly-Leaved Banksia}
+Banksia.incana{Hoary Banksia}
+Banksia.insulanemorecincta
+Banksia.integrifolia{Coast Banksia}
+Banksia.ionthocarpa
+Banksia.kippistiana
+Banksia.laevigata{Tennis Ball Banksia}
+Banksia.lanata{Coomallo banksia}
+Banksia.laricina{Rose Banksia}
+Banksia.lemanniana{Lemann's banksia}
+Banksia.lepidorhiza
+Banksia.leptophylla{Slender-Leaved Banksia}
+Banksia.lindleyana{Porcupine Banksia}
+Banksia.littoralis{Swamp Banksia}
+Banksia.lullfitzii
+Banksia.marginata{Silver Banksia}
+Banksia.media{Southern Plains Banksia}
+Banksia.meganotia
+Banksia.meisneri{Meisner's banksia}
+Banksia.menziesii{Menzies' banksia}
+Banksia.micrantha
+Banksia.mimica{Summer Honeypot}
+Banksia.montana{Stirling Range dryandra}
+Banksia.mucronulata{Swordfish Dryandra}
+Banksia.nana{Dwarf Dryandra}
+Banksia.neoanglica{New England banksia}
+Banksia.nivea{Honeypot Dryandra}
+Banksia.nobilis
+Banksia.nutans{Nodding Banksia}
+Banksia.oblongifolia{Rusty Banksia}
+Banksia.obovata
+Banksia.obtusa
+Banksia.occidentalis{Red Swamp Banksia}
+Banksia.octotriginta
+Banksia.oligantha{Wagin banksia}
+Banksia.oreophila{Western Mountain Banksia}
+Banksia.ornata{Desert Banksia}
+Banksia.pallida
+Banksia.paludosa{Marsh Banksia}
+Banksia.parva
+Banksia.pellaeifolia
+Banksia.penicillata
+Banksia.petiolaris
+Banksia.pilostylis
+Banksia.plagiocarpa{Blue Banksia}
+Banksia.platycarpa
+Banksia.plumosa
+Banksia.polycephala
+Banksia.porrecta
+Banksia.praemorsa{Cut-Leaved Banksia}
+Banksia.prionophylla
+Banksia.prionotes{Acorn Banksia}
+Banksia.prolata
+Banksia.proteoides
+Banksia.pseudoplumosa
+Banksia.pteridifolia
+Banksia.pulchella{Teasel Banksia}
+Banksia.purdieana
+Banksia.quercifolia{Oak-Leaved Banksia}
+Banksia.recurvistylis
+Banksia.repens{Creeping Banksia}
+Banksia.robur{Swamp Banksia}
+Banksia.rosserae
+Banksia.rufa
+Banksia.rufistylis
+Banksia.saxicola{Rock Banksia}
+Banksia.scabrella{Burma Road banksia}
+Banksia.sceptrum{Sceptre Banksia}
+Banksia.sclerophylla
+Banksia.seminuda{River Banksia}
+Banksia.seneciifolia
+Banksia.serra
+Banksia.serrata{Old Man Banksia}
+Banksia.serratuloides
+Banksia.sessilis{Parrot Bush}
+Banksia.shanklandiorum
+Banksia.shuttleworthiana
+Banksia.solandri{Stirling Range banksia}
+Banksia.speciosa{Showy Banksia}
+Banksia.sphaerocarpa{Fox Banksia}
+Banksia.spinulosa{Hairpin Banksia}
+Banksia.splendida
+Banksia.squarrosa
+Banksia.stenoprion
+Banksia.strictifolia
+Banksia.stuposa
+Banksia.subpinnatifida
+Banksia.subulata
+Banksia.telmatiaea{Swamp Fox Banksia}
+Banksia.tenuis
+Banksia.tortifolia
+Banksia.tricuspis{Lesueur banksia}
+Banksia.tridentata
+Banksia.trifontinalis
+Banksia.undata
+Banksia.verticillata{Granite Banksia}
+Banksia.vestita
+Banksia.victoriae{Woolly Orange Banksia}
+Banksia.vincentia
+Banksia.violacea{Violet Banksia}
+Banksia.viscida
+Banksia.wonganensis
+Banksia.xylothemelia
+Banksia.zygocephala
+Banksia.spinulosa(Birthday Candles)
+Banksia.canei(Celia Rosser)
+Banksia.spinulosa(Cherry Candles)
+Banksia[ericifolia|spinulosa](Giant Candles)
+Banksia.ericifolia(Golden Girl)
+Banksia.spinulosa(Goldenlighthouse)
+Banksia.spinulosa(Honey Pots)
+Banksia.spinulosa:var.cunninghamii(Lemon Glow)
+Banksia.ericifolia(Limelight)
+Banksia.paludosa(Little Pal)
+Banksia.serrata(Pygmy Possum)
+Banksia.ericifolia(Red Rover)
+Banksia.integrifolia(Roller Coaster)
+Banksia.serrata(Superman)
+Banksia.coccinea(Waite Crimson)
+Banksia.hookeriana(Waite Orange)
+Banksia.spinulosa:var.cunninghamii(Black Magic)
+Banksia[spinulosa|ericifolia](Bird Song)
+Banksia.ericifolia(Bulli Baby)
+Banksia.spinulosa(Coastal Cushion)
+Banksia.spinulosa(Dwarf Red)
+Banksia.ericifolia(Little Eric)
+Banksia.integrifolia(Sentinel)
+Banksia[spinulosa|collina](Stumpy Gold)
+Banksia.coccinea(Waite Flame)
+Banksia[](Yellow Wing)
+Banksia.menziesii(Menzies Dwarf)
+Banksia.ericifolia(White Candles)
+Banksia.ericifolia(Kanangra Gold)
