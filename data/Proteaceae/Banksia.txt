@@ -27,12 +27,15 @@ Banksia.burdettii{Burdett's banksia}
 Banksia.caleyi{Red Lantern Banksia}
 Banksia.calophylla
 Banksia.candolleana{Propeller Banksia}
+Banksia.canei(Celia Rosser)
 Banksia.canei{Mountain Banksia}
 Banksia.carlinoides{Pink Dryandra}
 Banksia.catoglypta
 Banksia.chamaephyton{Fishbone Banksia}
 Banksia.cirsioides
 Banksia.coccinea{Scarlet Banksia}
+Banksia.coccinea(Waite Crimson)
+Banksia.coccinea(Waite Flame)
 Banksia.collina{Hill Banksia}
 Banksia.columnaris
 Banksia.comosa
@@ -55,7 +58,15 @@ Banksia.elderiana{Swordfish Banksia}
 Banksia.elegans{Elegant Banksia}
 Banksia.epica
 Banksia.epimicta
+Banksia.ericifolia(Bulli Baby)
+Banksia.ericifolia(Golden Girl)
 Banksia.ericifolia{Heath-Leaved Banksia}
+Banksia.ericifolia(Kanangra Gold)
+Banksia.ericifolia(Limelight)
+Banksia.ericifolia(Little Eric)
+Banksia.ericifolia(Red Rover)
+Banksia[ericifolia|spinulosa](Giant Candles)
+Banksia.ericifolia(White Candles)
 Banksia.erythrocephala
 Banksia.falcata{Prickly Dryandra}
 Banksia.fasciculata
@@ -75,12 +86,15 @@ Banksia.hewardiana
 Banksia.hiemalis
 Banksia.hirta
 Banksia.hookeriana{Hooker's Banksia}
+Banksia.hookeriana(Waite Orange)
 Banksia.horrida{Prickly Dryandra}
 Banksia.idiogenes
 Banksia.ilicifolia{Holly-Leaved Banksia}
 Banksia.incana{Hoary Banksia}
 Banksia.insulanemorecincta
 Banksia.integrifolia{Coast Banksia}
+Banksia.integrifolia(Roller Coaster)
+Banksia.integrifolia(Sentinel)
 Banksia.ionthocarpa
 Banksia.kippistiana
 Banksia.laevigata{Tennis Ball Banksia}
@@ -97,6 +111,7 @@ Banksia.media{Southern Plains Banksia}
 Banksia.meganotia
 Banksia.meisneri{Meisner's banksia}
 Banksia.menziesii{Menzies' banksia}
+Banksia.menziesii(Menzies Dwarf)
 Banksia.micrantha
 Banksia.mimica{Summer Honeypot}
 Banksia.montana{Stirling Range dryandra}
@@ -115,6 +130,7 @@ Banksia.oligantha{Wagin banksia}
 Banksia.oreophila{Western Mountain Banksia}
 Banksia.ornata{Desert Banksia}
 Banksia.pallida
+Banksia.paludosa(Little Pal)
 Banksia.paludosa{Marsh Banksia}
 Banksia.parva
 Banksia.pellaeifolia
@@ -150,6 +166,8 @@ Banksia.seminuda{River Banksia}
 Banksia.seneciifolia
 Banksia.serra
 Banksia.serrata{Old Man Banksia}
+Banksia.serrata(Pygmy Possum)
+Banksia.serrata(Superman)
 Banksia.serratuloides
 Banksia.sessilis{Parrot Bush}
 Banksia.shanklandiorum
@@ -157,7 +175,18 @@ Banksia.shuttleworthiana
 Banksia.solandri{Stirling Range banksia}
 Banksia.speciosa{Showy Banksia}
 Banksia.sphaerocarpa{Fox Banksia}
+Banksia.spinulosa(Birthday Candles)
+Banksia.spinulosa(Cherry Candles)
+Banksia.spinulosa(Coastal Cushion)
+Banksia[spinulosa|collina](Stumpy Gold)
+Banksia.spinulosa(Dwarf Red)
+Banksia[spinulosa|ericifolia](Bird Song)
+Banksia.spinulosa(Goldenlighthouse)
 Banksia.spinulosa{Hairpin Banksia}
+Banksia.spinulosa(Honey Pots)
+Banksia.spinulosa(Palerang Purple)
+Banksia.spinulosa:var.cunninghamii(Black Magic)
+Banksia.spinulosa:var.cunninghamii(Lemon Glow)
 Banksia.splendida
 Banksia.squarrosa
 Banksia.stenoprion
@@ -180,33 +209,5 @@ Banksia.violacea{Violet Banksia}
 Banksia.viscida
 Banksia.wonganensis
 Banksia.xylothemelia
-Banksia.zygocephala
-Banksia.spinulosa(Birthday Candles)
-Banksia.canei(Celia Rosser)
-Banksia.spinulosa(Cherry Candles)
-Banksia[ericifolia|spinulosa](Giant Candles)
-Banksia.ericifolia(Golden Girl)
-Banksia.spinulosa(Goldenlighthouse)
-Banksia.spinulosa(Honey Pots)
-Banksia.spinulosa:var.cunninghamii(Lemon Glow)
-Banksia.ericifolia(Limelight)
-Banksia.paludosa(Little Pal)
-Banksia.serrata(Pygmy Possum)
-Banksia.ericifolia(Red Rover)
-Banksia.integrifolia(Roller Coaster)
-Banksia.serrata(Superman)
-Banksia.coccinea(Waite Crimson)
-Banksia.hookeriana(Waite Orange)
-Banksia.spinulosa:var.cunninghamii(Black Magic)
-Banksia[spinulosa|ericifolia](Bird Song)
-Banksia.ericifolia(Bulli Baby)
-Banksia.spinulosa(Coastal Cushion)
-Banksia.spinulosa(Dwarf Red)
-Banksia.ericifolia(Little Eric)
-Banksia.integrifolia(Sentinel)
-Banksia[spinulosa|collina](Stumpy Gold)
-Banksia.coccinea(Waite Flame)
 Banksia[](Yellow Wing)
-Banksia.menziesii(Menzies Dwarf)
-Banksia.ericifolia(White Candles)
-Banksia.ericifolia(Kanangra Gold)
+Banksia.zygocephala

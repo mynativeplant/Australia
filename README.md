@@ -34,7 +34,7 @@ Australian plants are stored in `data/`, grouped first by family and then by gen
 
 The helper script `scripts/init-family-layout.py` recreates the family directory tree and can also create a genus file inside a family directory.
 
-Each `.txt` file may contain comments. A comment is any line that starts with a blank character, such as a space or tab. Every other line must contain a plant name and must pass the parser test.
+Each `{GENUS}.txt` file may contain comments. A comment is any record whose first byte is `#`, or any blank record. All other records must contain a parsable plant record.
 
 ## Data Model
 
