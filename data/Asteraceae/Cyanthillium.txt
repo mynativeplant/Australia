@@ -1,0 +1,7 @@
+Cyanthillium.cinereum{Little ironweed}
+Cyanthillium.gracilis
+Cyanthillium.patulum
+Cyanthillium.cinereum:var.cinereum
+Cyanthillium.cinereum:var.lanatum
+Cyanthillium.cinereum:var.pinnatifidum
+Cyanthillium.gracile

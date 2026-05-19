@@ -1,0 +1,81 @@
+Dampiera.adpressa
+Dampiera.alata{Winged-Stem Dampiera}
+Dampiera.altissima{Tall Dampiera}
+Dampiera.angulata
+Dampiera.anonyma
+Dampiera.atriplicina
+Dampiera.candicans
+Dampiera.carinata
+Dampiera.cervula
+Dampiera.cinerea
+Dampiera.conospermoides
+Dampiera.coronata
+Dampiera.decurrens
+Dampiera.deltoidea
+Dampiera.dentata
+Dampiera.discolor
+Dampiera.diversifolia
+Dampiera.dysantha{shrubby Dampiera}
+Dampiera.eriantha
+Dampiera.eriocephala
+Dampiera.fasciculata
+Dampiera.ferruginea
+Dampiera.fitzgeraldensis
+Dampiera.fusca
+Dampiera.galbraithiana
+Dampiera.glabrescens
+Dampiera.haematotricha
+Dampiera.hederacea{Karri Dampiera}
+Dampiera.heteroptera
+Dampiera.incana
+Dampiera.juncea{rush-like dampiera}
+Dampiera.krauseana
+Dampiera.lanceolata
+Dampiera.latealata
+Dampiera.lavandulacea
+Dampiera.leptoclada
+Dampiera.lindleyi
+Dampiera.linearis{Common Dampiera}
+Dampiera.loranthifolia
+Dampiera.luteifolia
+Dampiera.marifolia{Velvet Dampiera}
+Dampiera.metallorum
+Dampiera.obliqua
+Dampiera.oligophylla{Sparse-leaved Dampiera}
+Dampiera.orchardii
+Dampiera.parvifolia
+Dampiera.pedunculata
+Dampiera.plumosa
+Dampiera.prasiolitica
+Dampiera.purpurea{Purple Dampiera}
+Dampiera.ramosa
+Dampiera.rosmarinifolia{Native Rosemary}
+Dampiera.roycei
+Dampiera.sacculata
+Dampiera.salahae
+Dampiera.scaevolina
+Dampiera.scottiana
+Dampiera.sericantha
+Dampiera.spicigera{Spiked Dampiera}
+Dampiera.stenophylla
+Dampiera.stenostachya
+Dampiera.stricta{Blue Dampiera}
+Dampiera.sylvestris
+Dampiera.tenuicaulis
+Dampiera.tephrea
+Dampiera.teres
+Dampiera.tomentosa
+Dampiera.trigona
+Dampiera.triloba
+Dampiera.wellsiana
+Dampiera.haematotricha:subsp.dura
+Dampiera.haematotricha:subsp.haematotricha
+Dampiera.incana:var.fuscescens
+Dampiera.incana:var.incana
+Dampiera.lanceolata:var.insularis
+Dampiera.lanceolata:var.intermedia
+Dampiera.lanceolata:var.lanceolata
+Dampiera.luteiflora
+Dampiera.tenuicaulis:var.curvula
+Dampiera.tenuicaulis:var.tenuicaulis
+Dampiera[](Mallee Skies)

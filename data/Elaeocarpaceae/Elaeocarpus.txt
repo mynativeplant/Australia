@@ -1,0 +1,34 @@
+Elaeocarpus.angustifolius
+Elaeocarpus.arnhemicus
+Elaeocarpus.bancroftii{Johnstone River-almond}
+Elaeocarpus.carbinensis
+Elaeocarpus.carolinae
+Elaeocarpus.coorangooloo
+Elaeocarpus.culminicola{Michael's Quandong}
+Elaeocarpus.elliffii
+Elaeocarpus.eumundi{Smooth-leaved Quandong}
+Elaeocarpus.ferruginiflorus
+Elaeocarpus.foveolatus
+Elaeocarpus.grahamii
+Elaeocarpus.holopetalus{Black Olive Berry}
+Elaeocarpus.hylobroma
+Elaeocarpus.johnsonii
+Elaeocarpus.kirtonii{Brown-hearted Quandong}
+Elaeocarpus.largiflorens
+Elaeocarpus.linsmithii
+Elaeocarpus.obovatus
+Elaeocarpus.reticulatus{Ash Quandong}
+Elaeocarpus.ruminatus{Brown Quandong}
+Elaeocarpus.sedentarius
+Elaeocarpus.sericopetalus
+Elaeocarpus.stellaris
+Elaeocarpus.thelmae
+Elaeocarpus.williamsianus{hairy quandong}
+Elaeocarpus.costatus
+Elaeocarpus.grandis
+Elaeocarpus.largiflorens:subsp.largiflorens
+Elaeocarpus.largiflorens:subsp.retinervis
+Elaeocarpus.michaelii
+Elaeocarpus.miegei
+Elaeocarpus.obovatus:subsp.obovatus
+Elaeocarpus.obovatus:subsp.umbratilis

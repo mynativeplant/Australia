@@ -1,0 +1,10 @@
+Sphenotoma.capitatum
+Sphenotoma.dracophylloides
+Sphenotoma.drummondii{Mountain Paper-heath}
+Sphenotoma.gracile{Swamp Paper-heath}
+Sphenotoma.parviflorum
+Sphenotoma.squarrosum
+Sphenotoma.capitata
+Sphenotoma.gracilis
+Sphenotoma.parviflora
+Sphenotoma.squarrosa

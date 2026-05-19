@@ -1,0 +1,67 @@
+Tecticornia.annelida
+Tecticornia.arborea
+Tecticornia.arbuscula{Shrubby Glasswort}
+Tecticornia.auriculata
+Tecticornia.australasica
+Tecticornia.bibenda
+Tecticornia.bulbosa{Large-articled Samphire}
+Tecticornia.calyptrata
+Tecticornia.chartacea
+Tecticornia.crotalus
+Tecticornia.cupuliformis
+Tecticornia.cymbiformis
+Tecticornia.dactylifera
+Tecticornia.disarticulata
+Tecticornia.doliiformis
+Tecticornia.enodis
+Tecticornia.entrichoma
+Tecticornia.fimbriata
+Tecticornia.flabelliformis
+Tecticornia.fontinalis
+Tecticornia.globulifera
+Tecticornia.halocnemoides
+Tecticornia.indefessa
+Tecticornia.indica
+Tecticornia.laevigata
+Tecticornia.lepidosperma
+Tecticornia.leptoclada
+Tecticornia.loriae
+Tecticornia.lylei
+Tecticornia.medullosa
+Tecticornia.medusa
+Tecticornia.mellaria
+Tecticornia.moniliformis
+Tecticornia.nitida
+Tecticornia.papillata
+Tecticornia.peltata
+Tecticornia.pergranulata
+Tecticornia.pluriflora
+Tecticornia.pruinosa
+Tecticornia.pterygosperma
+Tecticornia.sparagosa
+Tecticornia.syncarpa{fused glasswort}
+Tecticornia.tenuis
+Tecticornia.triandra{Desert Glasswort}
+Tecticornia.undulata
+Tecticornia.uniflora
+Tecticornia.verrucosa
+Tecticornia.willisii{Spencer’s Samphire}
+Tecticornia.et
+Tecticornia.halocnemoides:subsp.catenulata
+Tecticornia.halocnemoides:subsp.caudata
+Tecticornia.halocnemoides:subsp.halocnemoides
+Tecticornia.halocnemoides:subsp.longispicata
+Tecticornia.halocnemoides:subsp.tenuis
+Tecticornia.indica:subsp.bidens
+Tecticornia.indica:subsp.indica
+Tecticornia.indica:subsp.julacea
+Tecticornia.indica:subsp.leiostachya
+Tecticornia.leptoclada:subsp.inclusa
+Tecticornia.leptoclada:subsp.leptoclada
+Tecticornia.mellarium
+Tecticornia.pergranulata:subsp.divaricata
+Tecticornia.pergranulata:subsp.elongata
+Tecticornia.pergranulata:subsp.pergranulata
+Tecticornia.pergranulata:subsp.queenslandica
+Tecticornia.pterygosperma:subsp.denticulata
+Tecticornia.pterygosperma:subsp.pterygosperma

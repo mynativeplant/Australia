@@ -1,0 +1,3 @@
+Codonocarpus.attenuatus{bell-fruit-tree}
+Codonocarpus.cotinifolius{bell-fruit-tree}
+Codonocarpus.pyramidalis{Camel Poison}

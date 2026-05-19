@@ -1,0 +1,3 @@
+Xanthium.ambrosioides{Argentine Cocklebur}
+Xanthium.orientale
+Xanthium.spinosum{spiny burrweed}

@@ -1,0 +1,5 @@
+Bauera.capitata{clustered bauera}
+Bauera.rubioides{dog-rose}
+Bauera.sessiliflora{Grampians Bauera}
+Bauera.microphylla
+Bauera[rubiodes|sessiliflora]{River Rose}

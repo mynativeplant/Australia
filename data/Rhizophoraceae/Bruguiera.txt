@@ -1,0 +1,9 @@
+Bruguiera.cylindrica{Bakau Putih}
+Bruguiera.dungarra
+Bruguiera.exaristata{rib fruited orange mangrove}
+Bruguiera.gymnorhiza{Oriental Mangrove}
+Bruguiera.parviflora{Smallflower Bruguiera}
+Bruguiera.sexangula{upriver orange mangrove}
+Bruguiera[bruguiera|Bruguiera[rhynchopetala|?]]
+Bruguiera[bruguiera|dungarra]
+Bruguiera[bruguiera|hainesii]

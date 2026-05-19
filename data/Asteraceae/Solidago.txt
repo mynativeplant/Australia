@@ -1,0 +1,4 @@
+Solidago.altissima{late goldenrod}
+Solidago.canadensis{Canada goldenrod}
+Solidago.chilensis{Anise Goldenrod}
+Solidago.virgaurea

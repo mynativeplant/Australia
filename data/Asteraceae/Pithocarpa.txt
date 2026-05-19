@@ -1,0 +1,7 @@
+Pithocarpa.achilleoides
+Pithocarpa.cordata
+Pithocarpa.corymbulosa
+Pithocarpa.pulchella{Beautiful Pithocarpa}
+Pithocarpa.ramosa
+Pithocarpa.pulchella:var.melanostigma
+Pithocarpa.pulchella:var.pulchella

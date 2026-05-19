@@ -1,0 +1,21 @@
+Psychotria.coelospermum
+Psychotria.dallachiana
+Psychotria.daphnoides{Smooth Psychotria}
+Psychotria.exigua
+Psychotria.fitzalanii
+Psychotria.interstans
+Psychotria.loniceroides
+Psychotria.nesophila
+Psychotria.poliostemma
+Psychotria.simmondsiana{small psychotria}
+Psychotria.submontana
+Psychotria.carronis
+Psychotria.coelosperma
+Psychotria.daphnoides:var.angustifolia
+Psychotria.daphnoides:var.daphnoides
+Psychotria.daphnoides:var.pubescens
+Psychotria.hebecarpa
+Psychotria.lorentzii
+Psychotria.simmondsiana:var.exigua
+Psychotria.simmondsiana:var.glabrescens
+Psychotria.simmondsiana:var.simmondsiana

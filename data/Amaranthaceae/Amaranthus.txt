@@ -1,0 +1,26 @@
+Amaranthus.albus{tumble pigweed}
+Amaranthus.blitum{livid amaranth}
+Amaranthus.caudatus{Inca-wheat}
+Amaranthus.centralis
+Amaranthus.clementii
+Amaranthus.cochleitepalus
+Amaranthus.cruentus{blood amaranth}
+Amaranthus.cuspidifolius
+Amaranthus.deflexus{Perennial Pigweed}
+Amaranthus.dubius{Spleen Amaranth}
+Amaranthus.graecizans
+Amaranthus.grandiflorus
+Amaranthus.hybridus{hybrid amaranth}
+Amaranthus.induratus
+Amaranthus.interruptus
+Amaranthus.macrocarpus
+Amaranthus.mitchellii{Mitchell's Amaranth}
+Amaranthus.muricatus{Rough-fruited Amaranth}
+Amaranthus.powellii{Powell's smooth amaranth}
+Amaranthus.quitensis{Mucronate Amaranth}
+Amaranthus.retroflexus{common amaranth}
+Amaranthus.rhombeus
+Amaranthus.spinosus{spiny amaranth}
+Amaranthus.tricolor{Chinese amaranth}
+Amaranthus.undulatus
+Amaranthus.viridis{green amaranth}

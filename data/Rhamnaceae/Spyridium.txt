@@ -1,0 +1,69 @@
+Spyridium.bifidum
+Spyridium.bracteatum
+Spyridium.burragorang
+Spyridium.buxifolium
+Spyridium.cinereum
+Spyridium.coactilifolium{butterfly spyridium}
+Spyridium.coalitum
+Spyridium.cordatum
+Spyridium.daltonii
+Spyridium.daphnoides{Spoon-leaved spyridium}
+Spyridium.denticuliferum
+Spyridium.eriocephalum{heath spyridium}
+Spyridium.erymnocladum
+Spyridium.fontis-woodii{Woods Well Spyridium}
+Spyridium.furculentum
+Spyridium.glabrisepalum
+Spyridium.glaucum
+Spyridium.globulosum{basket bush}
+Spyridium.gunnii
+Spyridium.halmaturinum{Kangaroo Island Spyridium}
+Spyridium.kalganense
+Spyridium.latifolium
+Spyridium.lawrencii
+Spyridium.leucopogon
+Spyridium.longicor
+Spyridium.majoranifolium
+Spyridium.microcephalum
+Spyridium.minutum
+Spyridium.montanum
+Spyridium.mucronatum
+Spyridium.nitidum
+Spyridium.obcordatum
+Spyridium.obovatum
+Spyridium.oligocephalum
+Spyridium.parvifolium{Australian dusty miller}
+Spyridium.phlebophyllum
+Spyridium.phylicoides
+Spyridium.polycephalum
+Spyridium.ramosissimum
+Spyridium.riparium
+Spyridium.scabridum
+Spyridium.scortechinii{Corroboree}
+Spyridium.spadiceum
+Spyridium.spathulatum
+Spyridium.stenophyllum
+Spyridium.subochreatum{Velvet spyridium}
+Spyridium.thymifolium{Thyme-leaved spyridium}
+Spyridium.tricolor
+Spyridium.ulicinum
+Spyridium.undulifolium
+Spyridium.vexilliferum{Winged Spyridium}
+Spyridium.villosum
+Spyridium.bifidum:subsp.bifidum
+Spyridium.bifidum:subsp.wanillae
+Spyridium.eriocephalum:var.eriocephalum
+Spyridium.eriocephalum:var.glabrisepalum
+Spyridium.lawrencei
+Spyridium.mucronatum:subsp.mucronatum
+Spyridium.mucronatum:subsp.multiflorum
+Spyridium.mucronatum:subsp.recurvum
+Spyridium.obovatum:var.obovatum
+Spyridium.obovatum:var.velutinum
+Spyridium.stenophyllum:subsp.renovatum
+Spyridium.stenophyllum:subsp.stenophyllum
+Spyridium.vexilliferum:var.latifolium
+Spyridium.vexilliferum:var.vexilliferum
+Spyridium.waterhousei
+Spyridium[](Edna Walling Nimbus){Dusty Miller}
+Spyridium[spyridium|ramosissimum]

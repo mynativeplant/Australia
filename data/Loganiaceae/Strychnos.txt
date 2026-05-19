@@ -1,0 +1,5 @@
+Strychnos.axillaris{strychninebush}
+Strychnos.lucida{strychninebush}
+Strychnos.minor
+Strychnos.psilosperma{Strychnine Tree}
+Strychnos.arborea

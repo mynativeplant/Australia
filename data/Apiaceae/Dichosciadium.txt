@@ -1,0 +1,3 @@
+Dichosciadium.ranunculaceum{wreath pennywort}
+Dichosciadium.ranunculaceum:var.ranunculaceum
+Dichosciadium.ranunculaceum:var.tasmanicum

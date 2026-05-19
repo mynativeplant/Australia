@@ -1,0 +1,11 @@
+Atractocarpus.benthamianus
+Atractocarpus.chartaceus{narrow-leaved gardenia}
+Atractocarpus.fitzalanii{Brown Gardenia}
+Atractocarpus.hirtus{hairy gardenia}
+Atractocarpus.merikin{Mountain gardenia}
+Atractocarpus.sessilis{Brown Randia}
+Atractocarpus.benthamianus:subsp.benthamianus
+Atractocarpus.benthamianus:subsp.glaber
+Atractocarpus.fitzalanii:subsp.fitzalanii
+Atractocarpus.fitzalanii:subsp.tenuipes
+Atractocarpus.stipularis

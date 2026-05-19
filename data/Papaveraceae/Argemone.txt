@@ -1,0 +1,3 @@
+Argemone.mexicana{Mexican prickly-poppy}
+Argemone.ochroleuca{White-flowered Mexican Poppy}
+Argemone.subfusiformis{American-poppy}

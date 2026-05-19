@@ -1,0 +1,11 @@
+Centaurea.aspera
+Centaurea.benedicta{Our Lady's thistle}
+Centaurea.calcitrapa{pouzin's star-thistle}
+Centaurea.cineraria{Dusty Miller}
+Centaurea.eriophora{Woolly Star-thistle}
+Centaurea.jacea{brown knapweed}
+Centaurea.melitensis{Maltese centaury}
+Centaurea.nigra{Common Knapweed}
+Centaurea.paniculata
+Centaurea.solstitialis{Peygamber çiçeği}
+Centaurea.stoebe{spotted knapweed}

@@ -1,0 +1,7 @@
+Argentipallium.blandowskianum{woolly everlasting}
+Argentipallium.dealbatum{Silver Everlasting}
+Argentipallium.niveum
+Argentipallium.obtusifolium{Blunt everlasting}
+Argentipallium.spiceri
+Argentipallium.tephrodes
+Argentipallium[argentipallium|spiceri]

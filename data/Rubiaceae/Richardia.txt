@@ -1,0 +1,4 @@
+Richardia.brasiliensis{Brazilian calla-lily}
+Richardia.humistrata{Peelton Richardia}
+Richardia.scabra{Mexican-clover}
+Richardia.stellaris{field madder}

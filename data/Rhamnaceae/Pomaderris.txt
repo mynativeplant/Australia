@@ -1,0 +1,97 @@
+Pomaderris.adnata
+Pomaderris.andromedifolia
+Pomaderris.angustifolia
+Pomaderris.apetala
+Pomaderris.argyrophylla{silver pomaderris}
+Pomaderris.aspera{hazel pomaderris}
+Pomaderris.aurea
+Pomaderris.betulina
+Pomaderris.bodalla
+Pomaderris.brevifolia
+Pomaderris.briagolensis
+Pomaderris.brogoensis
+Pomaderris.brunnea
+Pomaderris.buchanensis
+Pomaderris.canescens
+Pomaderris.cinerea
+Pomaderris.clivicola
+Pomaderris.cocoparrana
+Pomaderris.coomingalensis
+Pomaderris.costata
+Pomaderris.cotoneaster
+Pomaderris.crassifolia
+Pomaderris.delicata
+Pomaderris.discolor
+Pomaderris.elachophylla
+Pomaderris.elliptica{yellow-dogwood}
+Pomaderris.eriocephala{woolly-headed pomaderris}
+Pomaderris.flabellaris
+Pomaderris.forrestiana
+Pomaderris.gilmourii
+Pomaderris.grandis
+Pomaderris.graniticola
+Pomaderris.halmaturina
+Pomaderris.helianthemifolia
+Pomaderris.humilis
+Pomaderris.intermedia{Golden Pomaderris}
+Pomaderris.lanigera{Woolly Pomaderris}
+Pomaderris.ledifolia
+Pomaderris.ligustrina
+Pomaderris.mediora
+Pomaderris.multiflora
+Pomaderris.myrtilloides
+Pomaderris.nitidula{shining pomaderris}
+Pomaderris.notata
+Pomaderris.obcordata{wedge-leaved pomaderris}
+Pomaderris.oblongifolia
+Pomaderris.oraria
+Pomaderris.pallida
+Pomaderris.paniculosa
+Pomaderris.parrisiae
+Pomaderris.pauciflora
+Pomaderris.phylicifolia
+Pomaderris.pilifera
+Pomaderris.precaria
+Pomaderris.prunifolia
+Pomaderris.queenslandica
+Pomaderris.racemosa
+Pomaderris.reperta
+Pomaderris.rotundifolia
+Pomaderris.sericea{Silky Pomaderris}
+Pomaderris.subcapitata
+Pomaderris.subplicata
+Pomaderris.tropica
+Pomaderris.vacciniifolia
+Pomaderris.vellea
+Pomaderris.velutina
+Pomaderris.virgata
+Pomaderris.viridis
+Pomaderris.walshii
+Pomaderris.wendlandiana{Rusty Pomaderris}
+Pomaderris.andromedifolia:subsp.andromedifolia
+Pomaderris.andromedifolia:subsp.confusa
+Pomaderris.apetala:subsp.apetala
+Pomaderris.apetala:subsp.maritima
+Pomaderris.betulina:subsp.actensis
+Pomaderris.betulina:subsp.betulina
+Pomaderris.elliptica:var.diemenica
+Pomaderris.elliptica:var.elliptica
+Pomaderris.ferruginea
+Pomaderris.gilmourii:var.cana
+Pomaderris.gilmourii:var.gilmourii
+Pomaderris.halmaturina:subsp.continentis
+Pomaderris.halmaturina:subsp.halmaturina
+Pomaderris.helianthemifolia:subsp.helianthemifolia
+Pomaderris.helianthemifolia:subsp.hispida
+Pomaderris.helianthemifolia:subsp.minor
+Pomaderris.ligustrina:subsp.latifolia
+Pomaderris.ligustrina:subsp.ligustrina
+Pomaderris.oraria:subsp.calcicola
+Pomaderris.oraria:subsp.oraria
+Pomaderris.paniculosa:subsp.paniculosa
+Pomaderris.paniculosa:subsp.paralia
+Pomaderris.phylicifolia:subsp.ericoides
+Pomaderris.phylicifolia:subsp.phylicifolia
+Pomaderris.pilifera:subsp.pilifera
+Pomaderris.pilifera:subsp.talpicutica
+Pomaderris.prunifolia:var.prunifolia

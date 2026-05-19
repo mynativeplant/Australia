@@ -1,0 +1,2 @@
+Reynoutria.japonica{Japanese knotweed}
+Reynoutria.sachalinensis{Sachaline knotweed}

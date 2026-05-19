@@ -1,0 +1,6 @@
+Kardomia.granitica
+Kardomia.jucunda
+Kardomia.odontocalyx
+Kardomia.prominens
+Kardomia.silvestris{Woodland Babingtonia}
+Kardomia.squarrulosa

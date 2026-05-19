@@ -1,0 +1,4 @@
+Papaver.dubium{Long-Headed Poppy}
+Papaver.rhoeas{Common Poppy}
+Papaver.setigerum{Poppy of Troy}
+Papaver.somniferum{garden poppy}

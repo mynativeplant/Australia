@@ -1,0 +1,13 @@
+Stemodia.anisata
+Stemodia.debilis
+Stemodia.flaccida
+Stemodia.florulenta{bluerod}
+Stemodia.glabella{smooth bluerod}
+Stemodia.grossa
+Stemodia.kingii
+Stemodia.lathraia
+Stemodia.linophylla
+Stemodia.lythrifolia
+Stemodia.pubescens
+Stemodia.tephropelina
+Stemodia.viscosa

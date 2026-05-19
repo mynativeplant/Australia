@@ -1,0 +1,6 @@
+Gaultheria.appressa{wax-berry}
+Gaultheria.depressa{Mountain Snowberry}
+Gaultheria.hispida{copperleaf snowberry}
+Gaultheria.lanceolata
+Gaultheria.tasmanica
+Gaultheria.viridicarpa

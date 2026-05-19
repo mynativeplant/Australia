@@ -1,0 +1,6 @@
+Callicarpa.brevistyla
+Callicarpa.candicans{great wooly Malayan lilac}
+Callicarpa.caudata
+Callicarpa.longifolia{White-berried Malayan Lilac}
+Callicarpa.pedunculata{velvetleaf}
+Callicarpa.thozetii

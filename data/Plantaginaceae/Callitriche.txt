@@ -1,0 +1,10 @@
+Callitriche.brachycarpa
+Callitriche.brutia
+Callitriche.hamulata{Intermediate Water-Starwort}
+Callitriche.muelleri{round water-starwort}
+Callitriche.sonderi
+Callitriche.stagnalis{pond water-starwort}
+Callitriche.umbonata
+Callitriche.antarctica
+Callitriche.palustris
+Callitriche.palustris:var.palustris

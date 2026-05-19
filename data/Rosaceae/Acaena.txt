@@ -1,0 +1,12 @@
+Acaena.agnipila{Australian sheep's bur}
+Acaena.anserinifolia{Bronze Pirri-Pirri-Bur}
+Acaena.anserovina
+Acaena.echinata{sheepbur}
+Acaena.montana
+Acaena.novae-zelandiae{Pirri-Pirri Bur}
+Acaena.ovina{Sheep's-bur}
+Acaena.magellanica
+Acaena.minor
+Acaena.pallida
+Acaena[acaena|anserovina]
+Acaena[acaena|ovina]

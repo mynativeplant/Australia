@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Native Plant - Plants</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f4f0e7;
+      --bg-accent: #dde8cf;
+      --card: rgba(255, 255, 255, 0.88);
+      --card-border: rgba(54, 78, 45, 0.14);
+      --text: #1f2f1c;
+      --muted: #5d6d57;
+      --accent: #416837;
+      --accent-strong: #2d5224;
+      --shadow: 0 24px 60px rgba(41, 59, 31, 0.14);
+      --chip: rgba(63, 106, 53, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(221, 236, 205, 0.95), transparent 38%),
+        radial-gradient(circle at right 18%, rgba(170, 203, 149, 0.32), transparent 26%),
+        linear-gradient(180deg, var(--bg) 0%, #fbf8f0 100%);
+    }
+
+    main {
+      min-height: 100vh;
+      display: grid;
+      place-items: start center;
+      padding: clamp(1rem, 3vw, 2rem);
+    }
+
+    .panel {
+      width: min(1100px, 100%);
+      margin: 2rem 0;
+      padding: clamp(1.5rem, 3.5vw, 3rem);
+      border: 1px solid var(--card-border);
+      border-radius: 28px;
+      background: var(--card);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    .topbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2.1rem, 5vw, 4rem);
+      line-height: 0.95;
+      letter-spacing: -0.04em;
+    }
+
+    .page-title {
+      margin: 0;
+    }
+
+    .lede {
+      margin: 1rem 0 0;
+      max-width: 68ch;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1rem;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
+    .actions {
+      display: flex;
+      flex: 1 1 auto;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    .genus-nav {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+    }
+
+    .button,
+    .link-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 3rem;
+      padding: 0.75rem 1rem;
+      border-radius: 14px;
+      border: 0;
+      font: inherit;
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: 700;
+      cursor: pointer;
+      text-decoration: none;
+    }
+
+    .button {
+      background: linear-gradient(180deg, var(--accent) 0%, var(--accent-strong) 100%);
+      color: #fff;
+      box-shadow: 0 12px 24px rgba(45, 82, 36, 0.2);
+    }
+
+    .link-button {
+      background: rgba(63, 106, 53, 0.08);
+      color: var(--accent-strong);
+      border: 1px solid rgba(63, 106, 53, 0.18);
+    }
+
+    .summary {
+      margin-top: 1.5rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--muted);
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.4rem 0.75rem;
+      border-radius: 999px;
+      background: #111;
+      color: #fff;
+      font-size: 0.88rem;
+      font-weight: 700;
+    }
+
+    .status {
+      min-height: 1.5rem;
+      margin: 1rem 0 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    .status.error {
+      color: #8a3b2f;
+    }
+
+    .meta {
+      margin-top: 1.25rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem 1rem;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    .meta a {
+      color: var(--accent-strong);
+    }
+
+    .grid {
+      margin-top: 2rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .plant-card {
+      padding: 1.1rem 1.15rem;
+      border: 1px solid rgba(63, 106, 53, 0.16);
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.76);
+      scroll-margin-top: 1.25rem;
+    }
+
+    .plant-card.plant-card-species {
+      background: rgba(244, 242, 228, 0.98);
+    }
+
+    .plant-card.plant-card-hybrid {
+      background: rgba(236, 245, 236, 0.98);
+    }
+
+    .plant-card.plant-card-cultivar {
+      background: rgba(244, 238, 246, 0.98);
+    }
+
+    .plant-head {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: baseline;
+      justify-content: space-between;
+    }
+
+    .plant-title {
+      margin: 0;
+      font-size: 1.15rem;
+      line-height: 1.35;
+      letter-spacing: -0.02em;
+    }
+
+    .plant-title a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .plant-title a:hover,
+    .plant-title a:focus-visible {
+      color: var(--accent-strong);
+      text-decoration: underline;
+      text-underline-offset: 0.12em;
+    }
+
+    .plant-raw {
+      margin: 0.4rem 0 0;
+      font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace;
+      font-size: 0.85rem;
+      color: var(--muted);
+      word-break: break-word;
+    }
+
+    .badges {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.8rem;
+    }
+
+    .badge {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.3rem 0.55rem;
+      border-radius: 999px;
+      background: rgba(63, 106, 53, 0.08);
+      color: var(--accent-strong);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .section {
+      margin-top: 1rem;
+      display: grid;
+      gap: 0.55rem;
+    }
+
+    .section-title {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.82rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .stack {
+      display: grid;
+      gap: 0.45rem;
+    }
+
+    .stack-item {
+      padding: 0.55rem 0.7rem;
+      border-radius: 12px;
+      background: rgba(63, 106, 53, 0.06);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.92rem;
+      color: var(--text);
+    }
+
+    .stack-link {
+      color: inherit;
+      text-decoration: none;
+      display: inline-block;
+      width: 100%;
+    }
+
+    .stack-link:hover,
+    .stack-link:focus-visible {
+      color: var(--accent-strong);
+      text-decoration: underline;
+      text-underline-offset: 0.12em;
+    }
+
+    .nested {
+      margin-top: 1rem;
+      padding-left: 1rem;
+      border-left: 2px solid rgba(63, 106, 53, 0.16);
+      display: grid;
+      gap: 0.75rem;
+    }
+
+    .empty {
+      padding: 1.5rem;
+      border: 1px dashed rgba(63, 106, 53, 0.22);
+      border-radius: 18px;
+      font-family: Arial, Helvetica, sans-serif;
+      color: var(--muted);
+      background: rgba(255, 255, 255, 0.55);
+    }
+
+    .bottom-actions {
+      margin-top: 1.25rem;
+      display: flex;
+      justify-content: flex-end;
+    }
+
+    #bottom-button {
+      margin-left: auto;
+    }
+
+    @media (max-width: 640px) {
+      .panel {
+        border-radius: 24px;
+      }
+
+      .plant-head {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="panel" aria-labelledby="page-title">
+      <!--#include virtual="/header.html" -->
+      <div class="topbar">
+        <div>
+          <h1 id="page-title" class="page-title">Plant list</h1>
+          <div class="summary" id="summary" hidden></div>
+        </div>
+        <div class="actions">
+          <div class="genus-nav" id="genus-nav" hidden>
+            <a class="link-button" id="previous-genus-link" href="#">Previous genus</a>
+            <a class="link-button" id="next-genus-link" href="#">Next genus</a>
+          </div>
+          <a class="link-button" href="/index.shtml">Change selection</a>
+          <button class="link-button" id="bottom-button" type="button">Bottom</button>
+        </div>
+      </div>
+
+      <p class="status" id="status" aria-live="polite"></p>
+
+      <div class="meta" id="meta" hidden></div>
+      <div class="grid" id="plants"></div>
+      <div class="bottom-actions">
+        <button class="link-button" id="top-button" type="button">Top</button>
+      </div>
+      <!--#include virtual="/footer.html" -->
+    </section>
+  </main>
+
+  <script>
+    (function () {
+      const status = document.getElementById("status");
+      const summary = document.getElementById("summary");
+      const meta = document.getElementById("meta");
+      const plantsContainer = document.getElementById("plants");
+      const topButton = document.getElementById("top-button");
+      const bottomButton = document.getElementById("bottom-button");
+      const genusNav = document.getElementById("genus-nav");
+      const previousGenusLink = document.getElementById("previous-genus-link");
+      const nextGenusLink = document.getElementById("next-genus-link");
+      const params = new URLSearchParams(window.location.search);
+      const family = params.get("family") || window.sessionStorage.getItem("mnpSelectedFamily") || "";
+      const genus = params.get("genera") || params.get("genus") || window.sessionStorage.getItem("mnpSelectedGenus") || "";
+
+      function escapeHtml(value) {
+        return String(value)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/\"/g, "&quot;");
+      }
+
+      function setStatus(message, isError) {
+        status.textContent = message;
+        status.className = isError ? "status error" : "status";
+      }
+
+      function setMetaItems(items) {
+        meta.hidden = false;
+        meta.innerHTML = items.filter(Boolean).join("");
+      }
+
+      function setGenusNavigation(previousGenus, nextGenus) {
+        const hasPrevious = Boolean(previousGenus);
+        const hasNext = Boolean(nextGenus);
+
+        if (!hasPrevious && !hasNext) {
+          genusNav.hidden = true;
+          return;
+        }
+
+        genusNav.hidden = false;
+
+        if (hasPrevious) {
+          previousGenusLink.hidden = false;
+          previousGenusLink.href = `/index_plants.shtml?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(previousGenus)}`;
+          previousGenusLink.textContent = `Previous genus: ${previousGenus}`;
+        } else {
+          previousGenusLink.hidden = true;
+        }
+
+        if (hasNext) {
+          nextGenusLink.hidden = false;
+          nextGenusLink.href = `/index_plants.shtml?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(nextGenus)}`;
+          nextGenusLink.textContent = `Next genus: ${nextGenus}`;
+        } else {
+          nextGenusLink.hidden = true;
+        }
+      }
+
+      function scrollToTop() {
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+
+      function scrollToBottom() {
+        window.scrollTo({ top: document.documentElement.scrollHeight, behavior: "smooth" });
+      }
+
+      function valueOrEmpty(value) {
+        return value == null || value === "" ? "" : String(value);
+      }
+
+      function plantFragmentId(plant) {
+        const id = valueOrEmpty(plant && typeof plant === "object" ? plant.id : "");
+        return id ? `plant-${encodeURIComponent(id)}` : "";
+      }
+
+      function referenceFragmentId(plant) {
+        const rootId = valueOrEmpty(
+          plant && typeof plant === "object" ? (plant["root-id"] ?? plant.root_id) : ""
+        );
+        if (rootId) {
+          return `plant-${encodeURIComponent(rootId)}`;
+        }
+        return plantFragmentId(plant);
+      }
+
+      function formatPlantName(plant) {
+        if (!plant || typeof plant !== "object") {
+          return valueOrEmpty(plant);
+        }
+
+        return valueOrEmpty(plant.display_name) || valueOrEmpty(plant.tradname) || valueOrEmpty(plant.raw) || "Unnamed plant";
+      }
+
+      function renderValueList(items, linkify) {
+        return items
+          .filter((item) => item !== null && item !== undefined && String(item).trim() !== "")
+          .map((item) => {
+            const label = escapeHtml(formatPlantName(item));
+            if (!linkify || !item || typeof item !== "object") {
+              return `<div class="stack-item">${label}</div>`;
+            }
+
+            const fragmentId = referenceFragmentId(item);
+            if (!fragmentId) {
+              return `<div class="stack-item">${label}</div>`;
+            }
+
+            return `<div class="stack-item"><a class="stack-link" href="#${fragmentId}">${label}</a></div>`;
+          })
+          .join("");
+      }
+
+      function renderPlant(plant) {
+        const article = [];
+        const type = valueOrEmpty(plant.type);
+        const wikislug = valueOrEmpty(plant.wikislug);
+        const parents = Array.isArray(plant.parents) ? plant.parents : [];
+        const children = Array.isArray(plant.children) ? plant.children : [];
+        const cultivars = Array.isArray(plant.cultivars) ? plant.cultivars : [];
+        const botanicalName = formatPlantName(plant);
+        const rawName = valueOrEmpty(plant.raw);
+        const fragmentId = plantFragmentId(plant);
+        const titleHref = wikislug
+          ? (wikislug.startsWith("http") ? wikislug : `https://en.wikipedia.org/wiki/${encodeURIComponent(wikislug)}`)
+          : "";
+        const titleTarget = wikislug ? ' target="_blank" rel="noopener noreferrer"' : "";
+        const typeClass = `plant-card-${String(type || "").toLowerCase()}`;
+
+        article.push(`<article class="plant-card ${typeClass}"${fragmentId ? ` id="${fragmentId}"` : ""}>`);
+        article.push('<div class="plant-head">');
+        if (titleHref) {
+          article.push(`<h2 class="plant-title"><a href="${escapeHtml(titleHref)}"${titleTarget}>${escapeHtml(botanicalName)}</a></h2>`);
+        } else {
+          article.push(`<h2 class="plant-title">${escapeHtml(botanicalName)}</h2>`);
+        }
+        if (type) {
+          article.push(`<span class="badge">${escapeHtml(type)}</span>`);
+        }
+        article.push("</div>");
+
+        if (rawName && rawName !== botanicalName) {
+          article.push(`<p class="plant-raw">${escapeHtml(rawName)}</p>`);
+        }
+
+        if (parents.length) {
+          article.push('<div class="section">');
+          article.push('<p class="section-title">Parents</p>');
+          article.push(`<div class="stack">${renderValueList(parents, true)}</div>`);
+          article.push("</div>");
+        }
+
+        if (children.length) {
+          article.push('<div class="section">');
+          article.push('<p class="section-title">Children</p>');
+          article.push(`<div class="stack">${renderValueList(children, true)}</div>`);
+          article.push("</div>");
+        }
+
+        if (cultivars.length) {
+          article.push('<div class="section">');
+          article.push('<p class="section-title">Cultivars</p>');
+          article.push(`<div class="stack">${renderValueList(cultivars, false)}</div>`);
+          article.push("</div>");
+        }
+
+        article.push("</article>");
+        return article.join("");
+      }
+
+      function renderPlants(plants) {
+        plantsContainer.innerHTML = plants.map(renderPlant).join("");
+      }
+
+      topButton.addEventListener("click", scrollToTop);
+      bottomButton.addEventListener("click", scrollToBottom);
+
+      if (!family || !genus) {
+        setStatus("Missing family or genus in the page URL.", true);
+        return;
+      }
+
+      document.title = `My Native Plant - ${family} / ${genus}`;
+      summary.hidden = false;
+      summary.innerHTML = `<span class="chip">Family: ${escapeHtml(family)}</span><span class="chip">Genus: ${escapeHtml(genus)}</span>`;
+      setMetaItems([
+        `<span>Source: <a href="/webservice/list-plants?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(genus)}">webservice/list-plants</a></span>`,
+      ]);
+
+      setStatus("Loading plants...");
+
+      fetch(`/webservice/list-plants?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(genus)}`, {
+        headers: { Accept: "application/json" },
+      })
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`Request failed with status ${response.status}`);
+          }
+          return response.json();
+        })
+        .then((payload) => {
+          const plants = Array.isArray(payload.plants) ? payload.plants.slice() : [];
+          setStatus(`${plants.length} plant${plants.length === 1 ? "" : "s"} loaded.`);
+
+          if (valueOrEmpty(payload.result) && payload.result !== "OK") {
+            setStatus(payload.result, true);
+          }
+
+          if (Array.isArray(payload.errors) && payload.errors.length) {
+            const warning = `Parsed with ${payload.errors.length} recoverable error${payload.errors.length === 1 ? "" : "s"}.`;
+            setStatus(warning, true);
+          }
+
+          const metaItems = [
+            `<span>Source: <a href="/webservice/list-plants?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(genus)}">webservice/list-plants</a></span>`,
+          ];
+          if (valueOrEmpty(payload.github_path)) {
+            metaItems.push(
+              `<span>GitHub: <a href="${escapeHtml(payload.github_path)}" rel="noopener noreferrer">source path</a></span>`
+            );
+          }
+          setGenusNavigation(valueOrEmpty(payload.previous_genus), valueOrEmpty(payload.next_genus));
+          if (Array.isArray(payload.errors) && payload.errors.length) {
+            metaItems.push(`<span>Errors: ${escapeHtml(payload.errors.length)}</span>`);
+          }
+          setMetaItems(metaItems);
+
+          if (!plants.length) {
+            plantsContainer.innerHTML = '<div class="empty">No plants were returned for this genus.</div>';
+            return;
+          }
+
+          renderPlants(plants);
+        })
+        .catch((error) => {
+          setStatus(`Could not load plants: ${error.message}`, true);
+          plantsContainer.innerHTML = '<div class="empty">Plants could not be loaded.</div>';
+        });
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+Gaudium.blakelyi
+Gaudium.brevipes{Slender Teatree}
+Gaudium.confertum
+Gaudium.coriaceum{Mallee Teatree}
+Gaudium.deanei
+Gaudium.divaricatum
+Gaudium.glaucescens{blue-green tea tree}
+Gaudium.jingera
+Gaudium.laevigatum{Australian myrtle}
+Gaudium.lamellatum{Flaky-barked Teatree}
+Gaudium.microcarpum{small-fruited may}
+Gaudium.multicaule{silver tea tree}
+Gaudium.myrsinoides{Heath Teatree}
+Gaudium.namadgiense{Namadgi teatree}
+Gaudium.neglectum
+Gaudium.parvifolium{Small-leaf Tea-tree}
+Gaudium.polyanthum
+Gaudium.semibaccatum{soft-fruited tea tree}
+Gaudium.sericatum
+Gaudium.subglabratum
+Gaudium.trinervium{Paperbark Tea Tree}
+Gaudium.venustum

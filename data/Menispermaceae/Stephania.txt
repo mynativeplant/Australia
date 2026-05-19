@@ -1,0 +1,8 @@
+Stephania.aculeata
+Stephania.bancroftii
+Stephania.japonica{ivyweed}
+Stephania.renifolia
+Stephania.tuberosa{pumpkin vine}
+Stephania.japonica:var.discolor
+Stephania.japonica:var.japonica
+Stephania.japonica:var.timoriensis

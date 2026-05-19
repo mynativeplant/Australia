@@ -1,0 +1,3 @@
+Zinnia.angustifolia{narrowleaf zinnia}
+Zinnia.elegans{Young's helleborine}
+Zinnia.peruviana{Peruvian zinnia}

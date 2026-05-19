@@ -1,0 +1,17 @@
+Prunus.amygdalus{Almond}
+Prunus.armeniaca{apricot}
+Prunus.avium{bird cherry}
+Prunus.brachystachya
+Prunus.cerasifera{cherry plum}
+Prunus.cerasus
+Prunus.domestica{Plum}
+Prunus.grisea
+Prunus.laurocerasus{cherry laurel}
+Prunus.lusitanica{Portugal laurel}
+Prunus.mahaleb{St. Lucie cherry}
+Prunus.munsoniana{Creek Plum}
+Prunus.persica
+Prunus.salicina{Asian Plum}
+Prunus.serotina{black cherry}
+Prunus.spinosa
+Prunus.turneriana{almondbark}

@@ -1,0 +1,3 @@
+Cosmos.bipinnatus{garden cosmos}
+Cosmos.caudatus{Foxtail}
+Cosmos.sulphureus{Poppy}

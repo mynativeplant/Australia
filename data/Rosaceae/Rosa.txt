@@ -1,0 +1,6 @@
+Rosa.bracteata{Macartney's rose}
+Rosa.canina{canker rose}
+Rosa.chinensis{China Rose}
+Rosa.gallica{French rose}
+Rosa.laevigata
+Rosa.rubiginosa{briar rose}

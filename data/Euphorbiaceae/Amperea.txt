@@ -1,0 +1,11 @@
+Amperea.conferta
+Amperea.ericoides
+Amperea.micrantha
+Amperea.protensa
+Amperea.simulans
+Amperea.spicata
+Amperea.volubilis
+Amperea.xiphoclada{Broom Spurge}
+Amperea.xiphoclada:var.papillata
+Amperea.xiphoclada:var.pedicellata
+Amperea.xiphoclada:var.xiphoclada

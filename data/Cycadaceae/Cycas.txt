@@ -1,0 +1,39 @@
+Cycas.angulata
+Cycas.arenicola
+Cycas.armstrongii{Zamia Palm}
+Cycas.arnhemica
+Cycas.badensis
+Cycas.basaltica
+Cycas.brunnea
+Cycas.cairnsiana{Cycad}
+Cycas.calcicola{Cycad}
+Cycas.canalis
+Cycas.candida{White Seed Sago}
+Cycas.conferta{Cycad}
+Cycas.couttsiana{Cycad}
+Cycas.cupida
+Cycas.desolata
+Cycas.distans
+Cycas.furfuracea
+Cycas.lane-poolei
+Cycas.maconochiei
+Cycas.media{Queensland cycas}
+Cycas.megacarpa{Cycad}
+Cycas.ophiolitica{Cycad}
+Cycas.orientis
+Cycas.papuana{Cycad}
+Cycas.platyphylla{Cycad}
+Cycas.pruinosa
+Cycas.rumphii{Ceylon sago}
+Cycas.scratchleyana
+Cycas.semota
+Cycas.silvestris{Cycad}
+Cycas.terryana
+Cycas.tuckeri
+Cycas.xipholepis
+Cycas.yorkiana
+Cycas.maconochiei:subsp.maconochiei
+Cycas.maconochiei:subsp.viridis
+Cycas.media:subsp.banksii
+Cycas.media:subsp.ensata
+Cycas.media:subsp.media

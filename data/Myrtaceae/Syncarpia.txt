@@ -1,0 +1,6 @@
+Syncarpia.glomerulifera
+Syncarpia.hillii{Fraser Island turpentine}
+Syncarpia.verecunda{mountain turpentine}
+Syncarpia.glomulifera
+Syncarpia.glomulifera:subsp.glabra
+Syncarpia.glomulifera:subsp.glomulifera

@@ -1,0 +1,7 @@
+Wrightia.laevis
+Wrightia.pubescens
+Wrightia.saligna
+Wrightia.versicolor
+Wrightia.pubescens:subsp.penicillata
+Wrightia.pubescens:subsp.pubescens
+Wrightia[saligna|versicolor]

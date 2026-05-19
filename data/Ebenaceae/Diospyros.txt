@@ -1,0 +1,25 @@
+Diospyros.australis{black-plum}
+Diospyros.calycantha
+Diospyros.compacta
+Diospyros.fasciculosa{Clustered Persimmon}
+Diospyros.foliosa
+Diospyros.geminata{scaly ebony}
+Diospyros.granitica
+Diospyros.hebecarpa
+Diospyros.hemicycloides
+Diospyros.humilis{Australian Ebony}
+Diospyros.laurina
+Diospyros.littorea
+Diospyros.mabacea
+Diospyros.major
+Diospyros.maritima{broadleaf ebony}
+Diospyros.montana{Bombay Ebony}
+Diospyros.peninsularis
+Diospyros.pentamera{Black Ebony}
+Diospyros.pluviatilis
+Diospyros.rheophila
+Diospyros.rugosula
+Diospyros.uvida
+Diospyros.venablesii
+Diospyros.yandina
+Diospyros.areolifolia

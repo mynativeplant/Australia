@@ -1,0 +1,3 @@
+Artemisia.absinthium{absinthe}
+Artemisia.arborescens{Hedge Artemisia}
+Artemisia.verlotiorum{Chinese Mugwort}

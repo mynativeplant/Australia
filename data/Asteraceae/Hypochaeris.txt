@@ -1,0 +1,4 @@
+Hypochaeris.albiflora{white flatweed}
+Hypochaeris.glabra{smooth cat's-ear}
+Hypochaeris.lutea
+Hypochaeris.radicata

@@ -1,0 +1,19 @@
+Helicteres.cana
+Helicteres.darwinensis
+Helicteres.flagellaris
+Helicteres.integrifolia
+Helicteres.isora{East Indian screwtree}
+Helicteres.kombolgiana
+Helicteres.macrothrix
+Helicteres.procumbens
+Helicteres.rhynchocarpa
+Helicteres.semiglabra
+Helicteres.serpens
+Helicteres.sphaerotheca
+Helicteres.tenuipila
+Helicteres.angustifolia
+Helicteres.cana:subsp.cana
+Helicteres.cana:subsp.latifolia
+Helicteres.hirsuta
+Helicteres.integrifolia:subsp.dentata
+Helicteres.integrifolia:subsp.integrifolia

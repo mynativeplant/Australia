@@ -1,0 +1,6 @@
+Uvedalia.clementii
+Uvedalia.linearis
+Uvedalia.linearis:var.linearis
+Uvedalia.linearis:var.lutea
+Uvedalia.papillose
+Uvedalia.white

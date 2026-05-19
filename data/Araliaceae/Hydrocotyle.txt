@@ -1,0 +1,67 @@
+Hydrocotyle.acutiloba{broad-leaf pennywort}
+Hydrocotyle.alata
+Hydrocotyle.algida
+Hydrocotyle.asterocarpa
+Hydrocotyle.bonariensis{Largeleaf Marshpennywort}
+Hydrocotyle.callicarpa{Tiny Pennywort}
+Hydrocotyle.capillaris
+Hydrocotyle.comocarpa
+Hydrocotyle.corynophora
+Hydrocotyle.crassiuscula
+Hydrocotyle.decorata
+Hydrocotyle.demissa
+Hydrocotyle.diantha
+Hydrocotyle.digitata
+Hydrocotyle.dimorphocarpa{Single-winged Pennywort}
+Hydrocotyle.dipleura
+Hydrocotyle.eichleri
+Hydrocotyle.elegans
+Hydrocotyle.fontana
+Hydrocotyle.foveolata
+Hydrocotyle.geraniifolia{forest pennywort}
+Hydrocotyle.glochidiata
+Hydrocotyle.grammatocarpa
+Hydrocotyle.heteromeria{waxweed}
+Hydrocotyle.hirta{Hairy Pennywort}
+Hydrocotyle.hispidula
+Hydrocotyle.inops
+Hydrocotyle.jacksonii
+Hydrocotyle.javanica
+Hydrocotyle.laxiflora
+Hydrocotyle.lemnoides
+Hydrocotyle.maculosa
+Hydrocotyle.medicaginoides
+Hydrocotyle.miranda
+Hydrocotyle.muriculata
+Hydrocotyle.muscosa
+Hydrocotyle.oraria
+Hydrocotyle.paludosa
+Hydrocotyle.papilionella
+Hydrocotyle.pedicellosa{large pennywort}
+Hydrocotyle.peduncularis
+Hydrocotyle.perforata
+Hydrocotyle.perplexa
+Hydrocotyle.phoenix
+Hydrocotyle.pilifera
+Hydrocotyle.plebeia
+Hydrocotyle.pterocarpa
+Hydrocotyle.ranunculoides{floating marsh-pennywort}
+Hydrocotyle.rhombifolia
+Hydrocotyle.rivularis
+Hydrocotyle.rugulosa
+Hydrocotyle.scutellifera
+Hydrocotyle.serendipita
+Hydrocotyle.sibthorpioides{lawn marsh-pennywort}
+Hydrocotyle.simulans
+Hydrocotyle.spinulifera
+Hydrocotyle.striata
+Hydrocotyle.tetragonocarpa
+Hydrocotyle.trachycarpa
+Hydrocotyle.tripartita
+Hydrocotyle.tuberculata
+Hydrocotyle.tumida
+Hydrocotyle.verticillata{whorled marsh-pennywort}
+Hydrocotyle.intertexta
+Hydrocotyle.novae-zeelandiae
+Hydrocotyle.plebeya
+Hydrocotyle.pools

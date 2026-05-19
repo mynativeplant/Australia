@@ -1,0 +1,7 @@
+Trema.cannabina{lesser trema}
+Trema.orientale{Indian Charcoal Tree}
+Trema.tomentosum{peach-leaf-poisonbush}
+Trema.orientalis
+Trema.tomentosa
+Trema.tomentosa:var.aspera
+Trema.tomentosa:var.tomentosa

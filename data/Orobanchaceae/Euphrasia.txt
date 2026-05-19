@@ -1,0 +1,52 @@
+Euphrasia.alsa
+Euphrasia.amphisysepala
+Euphrasia.amplidens
+Euphrasia.arguta
+Euphrasia.bella
+Euphrasia.bowdeniae
+Euphrasia.caudata{tailed eyebright}
+Euphrasia.ciliolata
+Euphrasia.collina
+Euphrasia.crassiuscula
+Euphrasia.eichleri
+Euphrasia.fragosa
+Euphrasia.gibbsiae
+Euphrasia.hookeri
+Euphrasia.lasianthera{hairy eyebright}
+Euphrasia.orthocheila{Tenterfield Eyebright}
+Euphrasia.phragmostoma
+Euphrasia.ramulosa
+Euphrasia.ruptura
+Euphrasia.scabra
+Euphrasia.semipicta
+Euphrasia.striata{striate eyebright}
+Euphrasia.collina:subsp.collina
+Euphrasia.collina:subsp.deflexifolia
+Euphrasia.collina:subsp.diemenica
+Euphrasia.collina:subsp.diversicolor
+Euphrasia.collina:subsp.glacialis
+Euphrasia.collina:subsp.gunnii
+Euphrasia.collina:subsp.lapidosa
+Euphrasia.collina:subsp.muelleri
+Euphrasia.collina:subsp.nandewarensis
+Euphrasia.collina:subsp.osbornii
+Euphrasia.collina:subsp.paludosa
+Euphrasia.collina:subsp.speciosa
+Euphrasia.collina:subsp.tasmanica
+Euphrasia.collina:subsp.tetragona
+Euphrasia.collina:subsp.trichocalycina
+Euphrasia.crassiuscula:subsp.crassiuscula
+Euphrasia.crassiuscula:subsp.eglandulosa
+Euphrasia.crassiuscula:subsp.glandulifera
+Euphrasia.et
+Euphrasia.gibbsiae:subsp.comberi
+Euphrasia.gibbsiae:subsp.discolor
+Euphrasia.gibbsiae:subsp.gibbsiae
+Euphrasia.gibbsiae:subsp.kingii
+Euphrasia.gibbsiae:subsp.microdonta
+Euphrasia.gibbsiae:subsp.psilantherea
+Euphrasia.gibbsiae:subsp.pulvinestris
+Euphrasia.gibbsiae:subsp.subglabrifolia
+Euphrasia.gibbsiae:subsp.wellingtonensis
+Euphrasia.orthocheila:subsp.orthocheila
+Euphrasia.orthocheila:subsp.peraspera

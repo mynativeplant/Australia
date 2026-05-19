@@ -1,0 +1,25 @@
+Epilobium.billardierianum
+Epilobium.brachycarpum{annual willowherb}
+Epilobium.brunnescens
+Epilobium.ciliatum{fringed willowherb}
+Epilobium.curtisiae
+Epilobium.fugitivum
+Epilobium.gunnianum{Gunn's willow-herb}
+Epilobium.hirtigerum{Hairy Willowherb}
+Epilobium.obscurum{dwarf willowherb}
+Epilobium.pallidiflorum{Swamp Willowherb}
+Epilobium.rotundifolium{Round-leaved Willowherb}
+Epilobium.sarmentaceum
+Epilobium.tasmanicum
+Epilobium.tetragonum{square-stemmed willowherb}
+Epilobium.willisii
+Epilobium.billardiereanum
+Epilobium.billardiereanum:subsp.billardiereanum
+Epilobium.billardiereanum:subsp.cinereum
+Epilobium.billardiereanum:subsp.hydrophilum
+Epilobium.billardiereanum:subsp.intermedium
+Epilobium.brunnescens:subsp.beaugleholei
+Epilobium.brunnescens:subsp.brunnescens
+Epilobium.pedunculare
+Epilobium.perpusillum
+Epilobium.tetragonum:subsp.tetragonum

@@ -1,0 +1,7 @@
+Paranotis.halfordii
+Paranotis.kochiae
+Paranotis.mitrasacmoides
+Paranotis.pterospora
+Paranotis.mitrasacmoides:subsp.mitrasacmoides
+Paranotis.mitrasacmoides:subsp.nigricans
+Paranotis.mitrasacmoides:subsp.trachymenoides

@@ -1,0 +1,9 @@
+Lysimachia.arvensis{scarlet pimpernel}
+Lysimachia.japonica
+Lysimachia.linum-stellatum{Star-flax}
+Lysimachia.minima{chaffweed}
+Lysimachia.nummularia{creeping Jenny}
+Lysimachia.ovalis
+Lysimachia.vulgaris{garden loosestrife}
+Lysimachia.fortunei
+Lysimachia.vulgaris:var.davurica

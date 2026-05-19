@@ -1,0 +1,38 @@
+Plantago.albicans
+Plantago.alpestris
+Plantago.antarctica
+Plantago.arenaria
+Plantago.australis{dwarf plantain}
+Plantago.bellardii{Hairy Plantain}
+Plantago.bellidioides
+Plantago.brownii
+Plantago.cladarophylla
+Plantago.coronopus{buck's-horn plantain}
+Plantago.cretica{Cretan Plantain}
+Plantago.cunninghamii
+Plantago.debilis{Weak Plantain}
+Plantago.drummondii{dark sago weed}
+Plantago.euryphylla{broad plantain}
+Plantago.exilis
+Plantago.gaudichaudii{narrow plantain}
+Plantago.glabrata
+Plantago.glacialis
+Plantago.gunnii
+Plantago.hispida{coastal plaintain}
+Plantago.lanceolata{English plantain}
+Plantago.major{broad-leaved plantain}
+Plantago.muelleri{star plantain}
+Plantago.multiscapa
+Plantago.myosuros{Mouse Plantain}
+Plantago.nupera
+Plantago.palustris
+Plantago.paradoxa
+Plantago.tasmanica
+Plantago.turrifera
+Plantago.varia{Variable Plantain}
+Plantago.weldenii{Welden's Plantain}
+Plantago.daltonii
+Plantago.hedleyi
+Plantago.tasmanica:var.archeri
+Plantago.tasmanica:var.tasmanica
+Plantago.triantha

@@ -1,0 +1,26 @@
+Xerochrysum.alpinum
+Xerochrysum.andrewiae
+Xerochrysum.banksii
+Xerochrysum.berarngutta
+Xerochrysum.bicolor
+Xerochrysum.boreale
+Xerochrysum.bracteatum{golden everlasting}
+Xerochrysum.collierianum
+Xerochrysum.copelandii
+Xerochrysum.frutescens
+Xerochrysum.gudang
+Xerochrysum.halmaturorum
+Xerochrysum.hispidum
+Xerochrysum.interiore
+Xerochrysum.macranthum
+Xerochrysum.macsweeneyorum
+Xerochrysum.milliganii
+Xerochrysum.murapan
+Xerochrysum.neoanglicum
+Xerochrysum.palustre{Swamp Everlasting}
+Xerochrysum.papillosum{island everlasting}
+Xerochrysum.strictum
+Xerochrysum.subundulatum{Alpine Everlasting}
+Xerochrysum.viscosum{sticky everlasting}
+Xerochrysum.wilsonii
+Xerochrysum[](Dargan Hill Monarch){Everlasting Daisy}

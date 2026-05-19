@@ -1,0 +1,5 @@
+Balanophora.fungosa{fungus root}
+Balanophora.indica
+Balanophora.abbreviata
+Balanophora.fungosa:subsp.fungosa
+Balanophora.fungosa:subsp.indica

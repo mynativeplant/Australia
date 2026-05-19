@@ -1,0 +1,18 @@
+Oenothera.acaulis
+Oenothera.affinis{long-flower evening-primrose}
+Oenothera.biennis{common evening-primrose}
+Oenothera.capillifolia
+Oenothera.curtiflora{velvetweed}
+Oenothera.drummondii{beach evening-primrose}
+Oenothera.glazioviana{garden evening-primrose}
+Oenothera.indecora{small-flower evening-primrose}
+Oenothera.laciniata{cut-leaved evening-primrose}
+Oenothera.lindheimeri{Lindheimer's beeblossom}
+Oenothera.longiflora
+Oenothera.mollissima
+Oenothera.odorata
+Oenothera.rosea{Evening-Primrose}
+Oenothera.speciosa{white evening-primrose}
+Oenothera.stricta
+Oenothera.tetraptera{four-wing evening-primrose}
+Oenothera.triloba{sessile evening-primrose}

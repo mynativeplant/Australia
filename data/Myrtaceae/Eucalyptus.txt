@@ -1,0 +1,1223 @@
+Eucalyptus.abdita
+Eucalyptus.absita{Badgingarra Box}
+Eucalyptus.acaciiformis{Wattle-leaved Peppermint}
+Eucalyptus.accedens{powder-bark wandoo}
+Eucalyptus.acies{Woolbernup Mallee}
+Eucalyptus.acmenoides{white-mahogany}
+Eucalyptus.acroleuca{Lakefield coolibah}
+Eucalyptus.adesmophloia{Wellstead Mallee}
+Eucalyptus.adjuncta
+Eucalyptus.aequans
+Eucalyptus.aequioperta{Welcome Hill Gum}
+Eucalyptus.affinis
+Eucalyptus.agglomerata{Blue-leaved Stringybark}
+Eucalyptus.aggregata{Black Gum}
+Eucalyptus.alaticaulis
+Eucalyptus.alba{khaki-gum}
+Eucalyptus.albens{white box}
+Eucalyptus.albida{White-leaved Mallee}
+Eucalyptus.albopurpurea{Port Lincoln mallee}
+Eucalyptus.alipes{Hyden Mallet}
+Eucalyptus.alligatrix{Eildon Stringybark}
+Eucalyptus.alpina
+Eucalyptus.ambigua{Smithton peppermint gum}
+Eucalyptus.ammophila{Sandplain Red Gum}
+Eucalyptus.amplifolia{Cabbage Gum}
+Eucalyptus.amygdalina{black-peppermint}
+Eucalyptus.anceps{Kangaroo Island mallee}
+Eucalyptus.ancophila{Grey Ironbark}
+Eucalyptus.andrewsii{new-england-blackbutt}
+Eucalyptus.angophoroides{Apple-topped box}
+Eucalyptus.angularis
+Eucalyptus.angulosa{ridge-fruited-mallee}
+Eucalyptus.angustissima{Broombush Mallee}
+Eucalyptus.annettae{Tookle Jenna Mallet}
+Eucalyptus.annulata{open-fruited-mallee}
+Eucalyptus.annuliformis{Badgerabbie Mallee}
+Eucalyptus.anomala
+Eucalyptus.apiculata{narrow-leaf mallee-ash}
+Eucalyptus.apodophylla
+Eucalyptus.apothalassica{Inland White Mahogany}
+Eucalyptus.approximans{Barren Mountain mallee}
+Eucalyptus.aquilina{Cape Le Grand Mallee}
+Eucalyptus.arachnaea{Black-stemmed Mallee}
+Eucalyptus.arborella{Twertup mallet}
+Eucalyptus.arcana{Mallee Manna Gum}
+Eucalyptus.archeri{alpine-cider-gum}
+Eucalyptus.arctata{Narrow-leaved Sandplain Mallee}
+Eucalyptus.arenacea{desert stringybark}
+Eucalyptus.arenicola{Gippsland Lakes Peppermint}
+Eucalyptus.argillacea{Northern Grey Box}
+Eucalyptus.argophloia{Burncluith Gum}
+Eucalyptus.argutifolia{Yanchep Mallee}
+Eucalyptus.aridimontana{Pilbara Mallee Box}
+Eucalyptus.armillata{flanged-white-mallee}
+Eucalyptus.aromaphloia{Creswick Apple-box}
+Eucalyptus.articulata{Ponton Creek Mallee}
+Eucalyptus.aspersa{Forest Mallee}
+Eucalyptus.aspratilis{Granite Rock Yate}
+Eucalyptus.assimilans{Balladonia Ribbon Gum}
+Eucalyptus.astringens{Inland Brown Mallet}
+Eucalyptus.atrata{Herberton Ironbark}
+Eucalyptus.auburnensis
+Eucalyptus.aurifodina{Goldfields Stringybark}
+Eucalyptus.austrina{Southern Red Mallee}
+Eucalyptus.badjensis{badja-gum}
+Eucalyptus.baeuerlenii{Baeuerlens gum}
+Eucalyptus.baileyana{bailey's-stringybark}
+Eucalyptus.baiophylla{Giralia Range Mallee}
+Eucalyptus.bakeri{baker's-mallee}
+Eucalyptus.balanites{Cadda Road Mallee}
+Eucalyptus.balanopelex
+Eucalyptus.balladoniensis{Common Balladonia Mallee}
+Eucalyptus.bancroftii{Bancroft's gum}
+Eucalyptus.banksii{Tenterfield woollybutt}
+Eucalyptus.barberi{Barber's Gum}
+Eucalyptus.barklyensis
+Eucalyptus.barmedmanensis
+Eucalyptus.baudiniana{Baudin's Gum}
+Eucalyptus.baueriana
+Eucalyptus.baxteri
+Eucalyptus.beaniana{Bean's Ironbark}
+Eucalyptus.beardiana{Beard's Mallee}
+Eucalyptus.beaselyi
+Eucalyptus.behriana{Broad-leaved Box}
+Eucalyptus.bennettiae
+Eucalyptus.bensonii{Benson's Stringybark}
+Eucalyptus.benthamii{bentham's-gum}
+Eucalyptus.beyeri{Beyer's ironbark}
+Eucalyptus.beyeriana{Beyer's Ironbark}
+Eucalyptus.bicolor{Black Box}
+Eucalyptus.bigalerita{Northern Salmon Gum}
+Eucalyptus.bipileata
+Eucalyptus.biterranea
+Eucalyptus.blackburniana
+Eucalyptus.blakelyi{blakely's-red-gum}
+Eucalyptus.blaxellii{Howatharra Mallee}
+Eucalyptus.blaxlandii{Blaxland's Stringybark}
+Eucalyptus.boliviana{Bolivia Stringybark}
+Eucalyptus.boormanii
+Eucalyptus.bosistoana{bosisto's-box}
+Eucalyptus.botryoides{bangalay}
+Eucalyptus.brachyandra{tropical-red-box}
+Eucalyptus.brachycalyx{Chindoo Mallee}
+Eucalyptus.brachyphylla
+Eucalyptus.brandiana{Four-winged Mallet}
+Eucalyptus.brassiana{karo}
+Eucalyptus.brevifolia{northern-white-gum}
+Eucalyptus.brevipes{Mukinbudin Mallee}
+Eucalyptus.brevirostris
+Eucalyptus.brevistylis{Rates Tingle}
+Eucalyptus.bridgesiana{apple-box}
+Eucalyptus.brockwayi{dundas-mahogany}
+Eucalyptus.brookerana
+Eucalyptus.broviniensis
+Eucalyptus.brownii{Reid River Box}
+Eucalyptus.bucknellii
+Eucalyptus.bunyip
+Eucalyptus.buprestium{apple mallee}
+Eucalyptus.burdettiana{Burdetts Mallee}
+Eucalyptus.burgessiana{Burgess mallee}
+Eucalyptus.burracoppinensis{burracoppin-mallee}
+Eucalyptus.cadens{Warby Range Swamp Gum}
+Eucalyptus.caesia{caesia}
+Eucalyptus.calcareana{Nundroo Mallee}
+Eucalyptus.calcicola{Boranup Mallee}
+Eucalyptus.caleyi{Drooping Ironbark}
+Eucalyptus.calidissima{Pokolbin Ironbark}
+Eucalyptus.caliginosa{New England stringybark}
+Eucalyptus.callanii
+Eucalyptus.calycogona{Marvel Mallee}
+Eucalyptus.calyerup
+Eucalyptus.camaldulensis{River Red Gum}
+Eucalyptus.cambageana{coowarra-box}
+Eucalyptus.cameronii{Diehard Stringybark}
+Eucalyptus.camfieldii{Camfield's Stringybark}
+Eucalyptus.campanifructa
+Eucalyptus.campanulata{New England Blackbutt}
+Eucalyptus.campaspe{silver-gimlet}
+Eucalyptus.camphora{Northern Mountain Swamp Gum}
+Eucalyptus.canaliculata{brown grey gum}
+Eucalyptus.canescens{Beadell's Mallee}
+Eucalyptus.canobolensis{Blackbutt Candlebark}
+Eucalyptus.capillosa
+Eucalyptus.capitanea{desert ridge-fruited mallee}
+Eucalyptus.capitellata{brown-stringy-bark}
+Eucalyptus.captiosa{Jerramungup Mallee}
+Eucalyptus.carnabyi
+Eucalyptus.carnea{broad-leaved-white-mahogany}
+Eucalyptus.carnei{Carne's Blackbutt}
+Eucalyptus.carolaniae
+Eucalyptus.castrensis{Singleton Mallee}
+Eucalyptus.celastroides{Mirret}
+Eucalyptus.cephalocarpa{Mealy Stringybark}
+Eucalyptus.ceracea{Seppelt Range Yellowjacket}
+Eucalyptus.cerasiformis{Cherry-fruited Mallee}
+Eucalyptus.ceratocorys{Horn-capped Mallee}
+Eucalyptus.cernua{Nodding Mallet}
+Eucalyptus.chapmaniana{bogong-gum}
+Eucalyptus.chartaboma{Paperbark Gum}
+Eucalyptus.chisholmii
+Eucalyptus.chloroclada{Baradine Red Gum}
+Eucalyptus.chlorophylla{Greenleaf Box}
+Eucalyptus.chrysantha
+Eucalyptus.cinerea{Argyle Apple}
+Eucalyptus.cladocalyx{sugar-gum}
+Eucalyptus.clelandiorum{cleland's-blackbutt}
+Eucalyptus.clivicola{Green Mallet}
+Eucalyptus.cloeziana{dead-finish}
+Eucalyptus.cneorifolia{Kangaroo Island gum}
+Eucalyptus.coccifera{tasmanian-snow-gum}
+Eucalyptus.codonocarpa{Bell-fruited Mallee Ash}
+Eucalyptus.comitae-vallis
+Eucalyptus.communalis
+Eucalyptus.concinna{Victoria desert mallee}
+Eucalyptus.conferruminata
+Eucalyptus.conferta{Glenluce Scentbark}
+Eucalyptus.confluens{Kimberley Gum}
+Eucalyptus.congener
+Eucalyptus.conglobata{Western Cong Mallee}
+Eucalyptus.conglomerata{Swamp Stringybark}
+Eucalyptus.conica{fuzzy-box}
+Eucalyptus.coniophloia
+Eucalyptus.conjuncta
+Eucalyptus.connexa
+Eucalyptus.consideniana{prickly stringybark}
+Eucalyptus.conspicua
+Eucalyptus.contracta
+Eucalyptus.conveniens{Natta Road Mallee}
+Eucalyptus.coolabah
+Eucalyptus.cooperiana{Many-flowered Mallee}
+Eucalyptus.copulans
+Eucalyptus.cordata{Eastern Heart-leaved Silver Gum}
+Eucalyptus.cordieri
+Eucalyptus.cornuta{yate}
+Eucalyptus.coronata{Crowned Mallee}
+Eucalyptus.corrugata{rib-fruited-mallee}
+Eucalyptus.corticosa{Creswick Apple Box}
+Eucalyptus.corynodes
+Eucalyptus.cosmophylla{bog-gum}
+Eucalyptus.costuligera
+Eucalyptus.crawfordii
+Eucalyptus.crebra{ironbark}
+Eucalyptus.crenulata{Buxton Gum}
+Eucalyptus.creta{Large-fruited Gimlet}
+Eucalyptus.cretata{Darke Peak Mallee}
+Eucalyptus.crispata{Yandooka Mallee}
+Eucalyptus.croajingolensis{Gippsland Peppermint}
+Eucalyptus.crucis{Southern Cross Silver Mallee}
+Eucalyptus.cryptica{Cattai Mahogany}
+Eucalyptus.cullenii{cullen's-ironbark}
+Eucalyptus.cunninghamii{cliff-mallee-ash}
+Eucalyptus.cuprea{Mallee Box}
+Eucalyptus.cupularis{Halls Creek White Gum}
+Eucalyptus.currabubula
+Eucalyptus.curtisii{Plunkett Mallee}
+Eucalyptus.cyanoclada
+Eucalyptus.cyanophylla{Murraylands mallee}
+Eucalyptus.cyclostoma{Cyclostoma mallee}
+Eucalyptus.cylindriflora{white mallee}
+Eucalyptus.cylindrocarpa{Woodline mallee}
+Eucalyptus.cypellocarpa{monkey-gum}
+Eucalyptus.dalrympleana{Mountain White Gum}
+Eucalyptus.dalveenica{Dalveen Blue Box}
+Eucalyptus.dawsonii{slaty-box}
+Eucalyptus.dealbata{Glen Gallic Red Gum}
+Eucalyptus.deanei{deane's-gum}
+Eucalyptus.decipiens
+Eucalyptus.decolor
+Eucalyptus.decorticans{Gum-topped Ironbark}
+Eucalyptus.decurva{Slender Mallee}
+Eucalyptus.deflexa{Lake King Mallee}
+Eucalyptus.delegatensis{alpine-ash}
+Eucalyptus.delicata{Small-fruited Red Mallee}
+Eucalyptus.dendromorpha{Budawang Ash}
+Eucalyptus.densa{Narrow-leaved Blue Mallet}
+Eucalyptus.denticulata{Errinundra shining gum}
+Eucalyptus.depauperata{Mt Madden Mallee}
+Eucalyptus.desmondensis{Desmond mallee}
+Eucalyptus.deuaensis{Mongamulla Mallee}
+Eucalyptus.dielsii{Cap-fruited Mallee}
+Eucalyptus.diminuta{Spring Mallee}
+Eucalyptus.diptera{Two-winged Gimlet}
+Eucalyptus.disclusa{Blackdown Red Gum}
+Eucalyptus.discreta{Mount Ragged Mallee}
+Eucalyptus.dissimulata
+Eucalyptus.distans{Katherine Box}
+Eucalyptus.diversicolor{karri}
+Eucalyptus.diversifolia{South Australian Coastal Mallee}
+Eucalyptus.dives{blue-peppermint}
+Eucalyptus.dixsonii
+Eucalyptus.dolichocera{Nerren Nerren Mallee}
+Eucalyptus.dolichorhyncha{Fuchsia Mallee}
+Eucalyptus.dolorosa{Dandaragan Mallee}
+Eucalyptus.doratoxylon{Spearwood mallee}
+Eucalyptus.dorisiana
+Eucalyptus.dorrienii{Silver Mallee}
+Eucalyptus.dorrigoensis{dorrigo-white-gum}
+Eucalyptus.drepanophylla{Queensland grey ironbark}
+Eucalyptus.drummondii{Drummond's gum}
+Eucalyptus.dumosa{congoo-mallee}
+Eucalyptus.dundasii{dundas-blackbutt}
+Eucalyptus.dunnii{dunn's-white-gum}
+Eucalyptus.dura{Ironbark}
+Eucalyptus.dwyeri{dwyer's-mallee-gum}
+Eucalyptus.ebbanoensis{Sandplain Mallee}
+Eucalyptus.ecdysiastes{Pastel-barked Mallee}
+Eucalyptus.ecostata{Coastal Silver Mallee}
+Eucalyptus.ednaeana
+Eucalyptus.educta{Jaurdi Hills Mallee}
+Eucalyptus.efflorescens{Elachbutting Mallee}
+Eucalyptus.effusa{Desert Gimlet}
+Eucalyptus.elaeophloia{Olive Mallee}
+Eucalyptus.elata{river-peppermint}
+Eucalyptus.elegans
+Eucalyptus.elliptica{Bendemeer White Gum}
+Eucalyptus.epruinata
+Eucalyptus.erectifolia{Stirling Range mallee}
+Eucalyptus.eremicola{Nawa Mallee}
+Eucalyptus.eremophila{eastern Goldfields horned mallee}
+Eucalyptus.erosa{Carnarvon Stringybark}
+Eucalyptus.erythrandra
+Eucalyptus.erythrocorys{Bookara gum}
+Eucalyptus.erythronema{Red-flowered Mallee}
+Eucalyptus.eudesmioides{mallalie}
+Eucalyptus.eugenioides{narrow-leaved-stringybark}
+Eucalyptus.ewartiana{ewart's mallee}
+Eucalyptus.exigua{Flat-budded Mallee}
+Eucalyptus.exilipes{Fine-leaved Ironbark}
+Eucalyptus.exilis{Boyagin Mallee}
+Eucalyptus.expressa{Prickly-fruited Stringybark}
+Eucalyptus.exserta{peppermint-bendo}
+Eucalyptus.extensa{Yellow Mallet}
+Eucalyptus.extrica{Eastern Tallerack}
+Eucalyptus.falcata{silver-mallet}
+Eucalyptus.falciformis{Grampians Peppermint}
+Eucalyptus.famelica
+Eucalyptus.farinosa{Silver Ironbark}
+Eucalyptus.fasciculosa{hill-gum}
+Eucalyptus.fastigata{brown-barrel}
+Eucalyptus.fibrosa{Blue-leaved Ironbark}
+Eucalyptus.filiformis
+Eucalyptus.fitzgeraldii
+Eucalyptus.flavida{Yellow-flowered Mallee}
+Eucalyptus.flindersii{Flinders Mallee}
+Eucalyptus.flocktoniae{Green-leaved Flockton's Mallee}
+Eucalyptus.foecunda{Fremantle Mallee}
+Eucalyptus.foliosa{Gibson Soak Mallee}
+Eucalyptus.formanii{Coarse Feather Mallee}
+Eucalyptus.forresterae{Brumby Sallee}
+Eucalyptus.forrestiana{Fuchsia Mallee}
+Eucalyptus.forthiana
+Eucalyptus.fracta{Broken Back Ironbark}
+Eucalyptus.fraseri{Balladonia Gum}
+Eucalyptus.fraxinoides{white-ash}
+Eucalyptus.frenchiana{French's Mallet}
+Eucalyptus.froggattii{Kamarooka Mallee}
+Eucalyptus.fruticosa{Kalbarri Mallee}
+Eucalyptus.fulgens{Green Scentbark}
+Eucalyptus.fusiformis{Nambucca Ironbark}
+Eucalyptus.gamophylla{blue mallee}
+Eucalyptus.gardneri{blue-mallet}
+Eucalyptus.georgei{Fulgida Mallet}
+Eucalyptus.gigantangion{Kakadu Woollybutt}
+Eucalyptus.gillenii{Mallee Red Gum}
+Eucalyptus.gillii{Arkaroola mallee}
+Eucalyptus.gittinsii
+Eucalyptus.glaucescens{Tingaringy gum}
+Eucalyptus.glaucina{Slaty Red Gum}
+Eucalyptus.globoidea{white-stringybark}
+Eucalyptus.globulus{blue-gum}
+Eucalyptus.glomericassis{Scarp White Gum}
+Eucalyptus.glomerosa{Jinjulu}
+Eucalyptus.gomphocephala{tewart}
+Eucalyptus.gongylocarpa{desert gum}
+Eucalyptus.goniantha{Manypeaks Mallee}
+Eucalyptus.goniocalyx{South Australian Mountain Box}
+Eucalyptus.goniocarpa{Lake King Mallet}
+Eucalyptus.gracilis{white-mallee}
+Eucalyptus.grandis{flooded-gum}
+Eucalyptus.granitica{Granite Ironbark}
+Eucalyptus.gratiae
+Eucalyptus.gregoriensis
+Eucalyptus.gregsoniana{Wolgan snow gum}
+Eucalyptus.griffithsii{Griffith's grey gum}
+Eucalyptus.grisea{Grey Gum}
+Eucalyptus.grossa{Coarse-leaved Mallee}
+Eucalyptus.grossifolia
+Eucalyptus.guilfoylei{yellow-tingle}
+Eucalyptus.gunnii{Miena Cider Gum}
+Eucalyptus.gymnoteles
+Eucalyptus.gypsophila{Kopi Mallee}
+Eucalyptus.haemastoma{scribbly-gum}
+Eucalyptus.hallii{Goodwood Gum}
+Eucalyptus.halophila{salt lake mallee}
+Eucalyptus.hawkeri
+Eucalyptus.hebetifolia{Middle Mallee}
+Eucalyptus.helenae
+Eucalyptus.helidonica{Helidon White Mahogany}
+Eucalyptus.herbertiana{Kalumburu Gum}
+Eucalyptus.histophylla{Dundas Mallee}
+Eucalyptus.horistes{Pointed-bud Mallee}
+Eucalyptus.houseana{Kimberley White Gum}
+Eucalyptus.howittiana{Howitt's Box}
+Eucalyptus.hybrida
+Eucalyptus.hypolaena{Desert Boongul}
+Eucalyptus.hypostomatica
+Eucalyptus.ignorabilis{Eastern Scentbark}
+Eucalyptus.imitans{Illawarra Stringybark}
+Eucalyptus.imlayensis{Imlay Mallee}
+Eucalyptus.impensa{Eneabba Mallee}
+Eucalyptus.improcera{Dwarf Blue Mallee}
+Eucalyptus.incerata{Mount Day Mallee}
+Eucalyptus.incrassata{lerp-mallee}
+Eucalyptus.indurata{Esperance Ironbark}
+Eucalyptus.infera{Durikai Mallee}
+Eucalyptus.infracorticata
+Eucalyptus.insularis{Cushion Mallee}
+Eucalyptus.interstans{Narrow-leaved Cabbage Gum}
+Eucalyptus.intertexta{gum-barked-coolibah}
+Eucalyptus.intrasilvatica
+Eucalyptus.irbyi
+Eucalyptus.irritans
+Eucalyptus.jacksonii{Red Tingle}
+Eucalyptus.jensenii{Wandi Ironbark}
+Eucalyptus.jimberlanica{Norseman Gimlet}
+Eucalyptus.johnsoniana{Johnsons Mallee}
+Eucalyptus.johnstonii{Johnston's Gum}
+Eucalyptus.joyceae
+Eucalyptus.jucunda{Yuna Mallee}
+Eucalyptus.jutsonii{Jutson's Mallee}
+Eucalyptus.kabiana{Mount Beerwah Mallee}
+Eucalyptus.kalangadooensis
+Eucalyptus.kalganensis
+Eucalyptus.kartzoffiana{Araluen Gum}
+Eucalyptus.kenneallyi
+Eucalyptus.kessellii{Jerdacuttup Mallee}
+Eucalyptus.kingsmillii
+Eucalyptus.kirtoniana{bastard-mahogany}
+Eucalyptus.kitsoniana{Gippsland Mallee}
+Eucalyptus.kochii{Shiny-leaved Oil Mallee}
+Eucalyptus.kondininensis{kondinin-blackbutt}
+Eucalyptus.koolpinensis{Koolpin Box}
+Eucalyptus.kruseana{Book-leaf Mallee}
+Eucalyptus.kumarlensis{Kumarl Salmon Gum}
+Eucalyptus.kybeanensis{Kybean mallee-ash}
+Eucalyptus.lacrimans{Weeping Snow Gum}
+Eucalyptus.laeliae{Darling Range Ghost Gum}
+Eucalyptus.laevis{Laevis Mallee}
+Eucalyptus.laevopinea{silvertop-stringybark}
+Eucalyptus.lamprocalyx
+Eucalyptus.lane-poolei{salmon-white-gum}
+Eucalyptus.langleyi{Albatross Mallee}
+Eucalyptus.lansdowneana{Crimson Mallee}
+Eucalyptus.largeana{Craven Grey Box}
+Eucalyptus.largiflorens{black-box}
+Eucalyptus.laseronii
+Eucalyptus.latens{Narrow-leaved Red Mallee}
+Eucalyptus.lateritica{laterite mallee}
+Eucalyptus.latisinensis{Broad-leaved White Mahogany}
+Eucalyptus.lehmannii{Broad-leaved Bushy Yate}
+Eucalyptus.leprophloia{Scaly-butt Mallee}
+Eucalyptus.leptocalyx
+Eucalyptus.leptocarpa
+Eucalyptus.leptophleba{molloy-box}
+Eucalyptus.leptophylla{March Mallee}
+Eucalyptus.leptopoda{Northern Goldfields Whipstick Mallee}
+Eucalyptus.lesouefii{goldfields'-blackbutt}
+Eucalyptus.leucophloia{Eastern Snappy Gum}
+Eucalyptus.leucoxylon{Melbourne Yellow Gum}
+Eucalyptus.ligulata{Lucky Bay Mallee}
+Eucalyptus.ligustrina{privet-leaved-stringybark}
+Eucalyptus.limitaris
+Eucalyptus.lirata{Kimberly yellow-jacket}
+Eucalyptus.litoralis{Anglesea Box}
+Eucalyptus.litorea{Saline Mallee}
+Eucalyptus.livida{Mallee Wandoo}
+Eucalyptus.lockyeri{Northern Peppermint}
+Eucalyptus.longicornis{red-morrell}
+Eucalyptus.longifolia{bastard-box}
+Eucalyptus.longirostrata{Grey Gum}
+Eucalyptus.longissima{Greenstone Mallee}
+Eucalyptus.loxophleba{Smooth-barked York Gum}
+Eucalyptus.lucasii{barlee-box}
+Eucalyptus.lucens{Shiny-leaved Mallee}
+Eucalyptus.luculenta{Mount Ragged Mallee}
+Eucalyptus.luehmanniana{yellow-top-mallee-ash}
+Eucalyptus.lunata{Moon Lagoon Mallee}
+Eucalyptus.luteola
+Eucalyptus.macarthurii{camden-woollybutt}
+Eucalyptus.mackintyi{Orbost Stringybark}
+Eucalyptus.macmahonii
+Eucalyptus.macrandra{long-flowered-marlock}
+Eucalyptus.macrocarpa{Small-leaved mottlecah}
+Eucalyptus.macrorhyncha{Capertee Stringybark}
+Eucalyptus.macta{Red Mahogany}
+Eucalyptus.magnificata{Northern Blue Box}
+Eucalyptus.major{Queensland grey gum}
+Eucalyptus.malacoxylon{Moonbi Apple Box}
+Eucalyptus.mannensis{Mann Ranges Mallee}
+Eucalyptus.mannifera{brittled gum}
+Eucalyptus.marginata{Green-leaved Jarrah}
+Eucalyptus.marsdenii
+Eucalyptus.mckieana{McKie's Stringybark}
+Eucalyptus.mcquoidii{Quoin Head Marlock}
+Eucalyptus.medialis
+Eucalyptus.mediocris{Inland White Mahogany}
+Eucalyptus.megacarpa{Bullich}
+Eucalyptus.megacornuta{warted yate}
+Eucalyptus.megasepala{Sandstone Stringybark}
+Eucalyptus.melanoleuca{Nanango Ironbark}
+Eucalyptus.melanophitra{Pallinup River Mallet}
+Eucalyptus.melanophloia{Common Silver-leaved Ironbark}
+Eucalyptus.melanoxylon{Black Morrel}
+Eucalyptus.melliodora{honey-box}
+Eucalyptus.mensalis
+Eucalyptus.merrickiae{Goblet Mallee}
+Eucalyptus.michaeliana{Hillgrove gum}
+Eucalyptus.micranthera{Alexander River Mallee}
+Eucalyptus.microcarpa{grey-box}
+Eucalyptus.microcorys{tallow-wood}
+Eucalyptus.microneura{Gilbert River box}
+Eucalyptus.microschema{Narrow-leaved Mallee}
+Eucalyptus.microtheca{bastard-box}
+Eucalyptus.mimica{Hooded Mallet}
+Eucalyptus.miniata{darwin-woollybutt}
+Eucalyptus.minniritchi{Centralian Minniritchi Mallee}
+Eucalyptus.misella{Field Road Mallee}
+Eucalyptus.missilis
+Eucalyptus.mitchelliana{Mt Buffalo Gum}
+Eucalyptus.moderata{Redwood Mallee}
+Eucalyptus.moluccana{grey-box}
+Eucalyptus.molyneuxii{Little Desert Peppermint}
+Eucalyptus.montana
+Eucalyptus.montivaga
+Eucalyptus.mooreana{Moores Gum}
+Eucalyptus.moorei{narrow-leaved sally}
+Eucalyptus.morrisbyi{Morrisby's Gum}
+Eucalyptus.morrisii{grey mallee}
+Eucalyptus.muelleriana{yellow-stringybark}
+Eucalyptus.multicaulis{whipstick mallee-ash}
+Eucalyptus.mundijongensis
+Eucalyptus.murphyi
+Eucalyptus.myriadena
+Eucalyptus.nandewarica{Mallee Red Gum}
+Eucalyptus.nebulosa{serpentine peppermint}
+Eucalyptus.neglecta{Alpine Bog Gum}
+Eucalyptus.neoeremophila
+Eucalyptus.nepeanensis
+Eucalyptus.neutra{Newdgate Mallee}
+Eucalyptus.newbeyi{Beaufort Inlet Mallet}
+Eucalyptus.nicholii{Narrow-leaved Peppermint}
+Eucalyptus.nigra{Queensland stringybark}
+Eucalyptus.nitens{shining-gum}
+Eucalyptus.nitida{Smithton Peppermint}
+Eucalyptus.nobilis{Manna Gum}
+Eucalyptus.normantonensis{Greenvale-box}
+Eucalyptus.nortonii{Mealy Bundy}
+Eucalyptus.notabilis{Blue Mountains-mahogany}
+Eucalyptus.notactites{Southern Limestone Mallee}
+Eucalyptus.nova-anglica{black-peppermint}
+Eucalyptus.nudicaulis{Mount Isa Mallee Red Gum}
+Eucalyptus.nutans{Red-flowered Moort}
+Eucalyptus.obconica{Kimberley Box}
+Eucalyptus.obesa{Cluster Mallee}
+Eucalyptus.obliqua{black-box}
+Eucalyptus.oblonga{narrow-leaf stringybark}
+Eucalyptus.obtusiflora{dongara-malle}
+Eucalyptus.occidentalis{flat-topped-yate}
+Eucalyptus.ochrophloia{Yapunyah}
+Eucalyptus.odontocarpa{Sturt Creek Mallee}
+Eucalyptus.odorata{peppermint-box}
+Eucalyptus.oldfieldii
+Eucalyptus.oleosa{Coastal Red Mallee}
+Eucalyptus.olida{Strawberry Gum}
+Eucalyptus.oligantha
+Eucalyptus.olivina{Olive-leaved Mallee}
+Eucalyptus.olsenii{Woila Gum}
+Eucalyptus.omissa{Narrow-leaved Red Mallee}
+Eucalyptus.ophitica{Serpentine Ironbark}
+Eucalyptus.opimiflora{northern silver mallee}
+Eucalyptus.optima{Balladonia Boongul}
+Eucalyptus.oraria{Ooragmandee}
+Eucalyptus.orbifolia{disc-leaf mallee}
+Eucalyptus.ordiana
+Eucalyptus.oreades{blue-mountains-ash}
+Eucalyptus.orgadophila{gum-topped-box}
+Eucalyptus.ornans{Avon Peppermint}
+Eucalyptus.ornata{Ornamental Silver Mallet}
+Eucalyptus.orthostemon{Diverse Mallee}
+Eucalyptus.ovata{Large-flowered Swamp Gum}
+Eucalyptus.oviformis
+Eucalyptus.ovularis{small-fruit gum}
+Eucalyptus.oxymitra{blue mallee}
+Eucalyptus.oxypoma
+Eucalyptus.pachycalyx{Northern Pumpkin Bark}
+Eucalyptus.pachyloma{Kalgan Plains Mallee}
+Eucalyptus.pachyphylla
+Eucalyptus.paedoglauca{Mount Stuart Ironbark}
+Eucalyptus.paliformis{Wadbilliga Ash}
+Eucalyptus.pallida
+Eucalyptus.paludicola{mount compass swamp gum}
+Eucalyptus.panda{Tumbledown Ironbark}
+Eucalyptus.paniculata
+Eucalyptus.pantoleuca{Round-leaved Gum}
+Eucalyptus.paralimnetica
+Eucalyptus.parramattensis{Earp's Dirty Gum}
+Eucalyptus.parvula{Small-leaved Gum}
+Eucalyptus.patellaris{Weeping Box}
+Eucalyptus.patens{Swan River blackbutt}
+Eucalyptus.pauciflora{Baw Baw Snow Gum}
+Eucalyptus.peacockeana
+Eucalyptus.pellita{large-fruited-red-mahogany}
+Eucalyptus.pendens{Badgingarra Mallee}
+Eucalyptus.peninsularis{Cummins Mallee}
+Eucalyptus.penrithensis
+Eucalyptus.perangusta{Fine-leaved Mallee}
+Eucalyptus.percostata{Devil's Peak mallee}
+Eucalyptus.perriniana{Alpine Spinning Gum}
+Eucalyptus.persistens{Greenvale Box}
+Eucalyptus.pertenuis
+Eucalyptus.petiolaris
+Eucalyptus.petraea{Granite Rock Box}
+Eucalyptus.petrensis{Limestone Mallee}
+Eucalyptus.petrophila
+Eucalyptus.phaenophylla
+Eucalyptus.phenax{Kangaroo Island Mallee}
+Eucalyptus.phoenicea{gnaingar}
+Eucalyptus.phoenix
+Eucalyptus.phylacis
+Eucalyptus.pilbarensis{Pilbara Mallee}
+Eucalyptus.pileata{Ravensthorpe mallee}
+Eucalyptus.pilularis{black-butt}
+Eucalyptus.pimpiniana{Pimpin Mallee}
+Eucalyptus.piperita{Sydney Peppermint}
+Eucalyptus.placita{Grey Ironbark}
+Eucalyptus.planchoniana{bastard-tallow-wood}
+Eucalyptus.planicola
+Eucalyptus.planipes{Coolgardie Mallee}
+Eucalyptus.platycorys{Boorabbin mallee}
+Eucalyptus.platydisca{Jimberlana Mallee}
+Eucalyptus.platyphylla{poplar-gum}
+Eucalyptus.platypus{Oval-leaved Moort}
+Eucalyptus.plenissima
+Eucalyptus.pleurocarpa{Blue Mallee}
+Eucalyptus.pleurocorys
+Eucalyptus.plumula{Narrow-leaved Desert Mallee}
+Eucalyptus.polita{Parker Range Mallet}
+Eucalyptus.polyanthemos{Northern Red Box}
+Eucalyptus.polybractea
+Eucalyptus.populnea{bimbil-box}
+Eucalyptus.porosa{Mallee Box}
+Eucalyptus.portuensis
+Eucalyptus.praetermissa{Beaufort Inlet Mallet}
+Eucalyptus.prava{orange gum}
+Eucalyptus.preissiana{Lobe-fruited Mallee}
+Eucalyptus.prolixa{Square-fruited Mallet}
+Eucalyptus.prominens{Cape Range Mallee}
+Eucalyptus.propinqua{grey-gum}
+Eucalyptus.protensa{Eastern Yellow Mallet}
+Eucalyptus.provecta{Newcastle Range Box}
+Eucalyptus.proxima{Nodding Mallee}
+Eucalyptus.pruiniramis{Midlands Gum}
+Eucalyptus.pruinosa{Common Silver Box}
+Eucalyptus.psammitica{Bastard White Mahogany}
+Eucalyptus.pseudopiperita
+Eucalyptus.pterocarpa{Norseman Mallet}
+Eucalyptus.pulchella{narrow-leaved-peppermint}
+Eucalyptus.pulverulenta{ironbark}
+Eucalyptus.pumila{Polkobin mallee}
+Eucalyptus.punctata{grey-gum}
+Eucalyptus.purpurata{Bandalup Silver Mallet}
+Eucalyptus.pygmaea
+Eucalyptus.pyrenea
+Eucalyptus.pyriformis{Dowerin Rose}
+Eucalyptus.pyrocarpa{large-fruited-blackbutt}
+Eucalyptus.quadrangulata{Coastal Box}
+Eucalyptus.quadrans{Cascade Mallee}
+Eucalyptus.quadricostata{Square-fruited Ironbark}
+Eucalyptus.quaerenda{Melaleuca Mallee}
+Eucalyptus.quinniorum
+Eucalyptus.racemosa{narrow-leaved-scribbly-gum}
+Eucalyptus.radiata{Northern Narrow-leaved Peppermint}
+Eucalyptus.rameliana{Giles' Mallee}
+Eucalyptus.rariflora
+Eucalyptus.ravensthorpensis{Ravensthorpe Blue Mallet}
+Eucalyptus.raveretiana{black-ironbox}
+Eucalyptus.ravida{Silver-topped Gimlet}
+Eucalyptus.recta{Silver Mallet}
+Eucalyptus.recurva{Mongarlowe Mallee}
+Eucalyptus.redimiculifera
+Eucalyptus.reducta
+Eucalyptus.redunca{Blue-leaved Mallee}
+Eucalyptus.regnans{mountain-ash}
+Eucalyptus.relicta{Whicher Range Gum}
+Eucalyptus.remota{Kangaroo Island Mallee Ash}
+Eucalyptus.repullulans{Chrysoprase Mallee}
+Eucalyptus.resinifera{Red Mahogany}
+Eucalyptus.retinens
+Eucalyptus.retusa{Point Hood Yate}
+Eucalyptus.revelata
+Eucalyptus.rhodantha{Rose Mallee}
+Eucalyptus.rhombica
+Eucalyptus.rhomboidea{Diamond Gum}
+Eucalyptus.rigens{Saltlake Mallee}
+Eucalyptus.rigescens
+Eucalyptus.rigidula{Newman Rock Mallee}
+Eucalyptus.risdoni{risdon-peppermint}
+Eucalyptus.rivularis
+Eucalyptus.robsonae
+Eucalyptus.robusta{swamp-mahogany}
+Eucalyptus.rodwayi{swamp peppermint}
+Eucalyptus.rosacea{Rosacea Mallee}
+Eucalyptus.rossii{Western Scribbly Gum}
+Eucalyptus.rowleyi{Rudall River Mallee Box}
+Eucalyptus.roycei{Shark Bay Mallee}
+Eucalyptus.rubida
+Eucalyptus.rubiginosa{False Mahogany}
+Eucalyptus.rudderi{Rudder's Box}
+Eucalyptus.rudis{Large-flowered Flooded Gum}
+Eucalyptus.rugosa{Kingscote Mallee}
+Eucalyptus.rugulata{Ironcaps Silver Mallet}
+Eucalyptus.rummeryi{Rummery's Box}
+Eucalyptus.rupestris{Prince Regent Gum}
+Eucalyptus.sabulosa{Western Scentbark}
+Eucalyptus.salicola{Salt Gum}
+Eucalyptus.saligna{blue-gum}
+Eucalyptus.salmonophloia{salmon-gum}
+Eucalyptus.salubris{gimlet}
+Eucalyptus.sargentii{Salt River Gum}
+Eucalyptus.saxatilis{Mt Wheelan Mallee}
+Eucalyptus.saxicola
+Eucalyptus.scias{Tenterfield Red Mahogany}
+Eucalyptus.scoparia{Wallangarra White Gum}
+Eucalyptus.scopulorum{Peregrine Point Ironbark}
+Eucalyptus.scyphata{Cup Mallee}
+Eucalyptus.scyphocalyx
+Eucalyptus.seeana{narrow-leaved-red-gum}
+Eucalyptus.selachiana
+Eucalyptus.semiglobosa{Boyatup Mallee}
+Eucalyptus.semota{Marymia Mallee}
+Eucalyptus.sepulcralis{Weeping Mallee}
+Eucalyptus.serraensis{Grampians stringybark}
+Eucalyptus.sessilis{Finke River mallee}
+Eucalyptus.sheathiana{Ribbon-barked Mallee}
+Eucalyptus.shirleyi{Shirley's silverleaf ironbark}
+Eucalyptus.sicilifolia{Minerva Hills Ironbark}
+Eucalyptus.siderophloia{broad-leafed-ironbark}
+Eucalyptus.sideroxylon{Waaje Red Ironbark}
+Eucalyptus.sieberi{coat-ash}
+Eucalyptus.silvestris
+Eucalyptus.similis{Inland Yellow Jacket}
+Eucalyptus.singularis{Ridge-top Mallee}
+Eucalyptus.sinuensis{Nuytsland Mallee}
+Eucalyptus.sinuosa{Octopus Mallee}
+Eucalyptus.smithii{blackbutt-peppermint}
+Eucalyptus.socialis{Inland Red Mallee}
+Eucalyptus.sparsa{Northern Ranges Box}
+Eucalyptus.sparsicoma
+Eucalyptus.spathulata{Swamp Mallet}
+Eucalyptus.sphaerocarpa{blackdown-stringybark}
+Eucalyptus.splendens{Mt Richmond Apple-jack}
+Eucalyptus.sporadica{Burngup Mallee}
+Eucalyptus.spreta{Spreta Mallet}
+Eucalyptus.squamosa{Scaly Bark}
+Eucalyptus.staeri{Albany Blackbutt}
+Eucalyptus.staigeriana{lemon-scented-ironbark}
+Eucalyptus.stannicola
+Eucalyptus.steedmanii{Steedman's gum}
+Eucalyptus.stellaris
+Eucalyptus.stellulata{black-sally}
+Eucalyptus.stenostoma{Jillaga Ash}
+Eucalyptus.stoataptera
+Eucalyptus.stoatei{Scarlet Pear Gum}
+Eucalyptus.stopfordii
+Eucalyptus.stowardii{Stoward's mallee}
+Eucalyptus.striaticalyx
+Eucalyptus.stricklandii{Goldfields yellow-flower gum}
+Eucalyptus.stricta{blue-mountain-malle-ash}
+Eucalyptus.strzeleckii{Wax-tip}
+Eucalyptus.studleyensis
+Eucalyptus.sturgissiana{Ettrema Mallee}
+Eucalyptus.subangusta{Warralakin Mallee}
+Eucalyptus.subcrenulata{Tasmanian alpine yellow gum}
+Eucalyptus.suberea{Cork Mallee}
+Eucalyptus.sublucida
+Eucalyptus.subtilis{Narrow-leaved Mallee}
+Eucalyptus.subviridis
+Eucalyptus.suffulgens
+Eucalyptus.suggrandis{Slender Mallee}
+Eucalyptus.surgens
+Eucalyptus.sweedmaniana
+Eucalyptus.synandra{Jingymia Mallee}
+Eucalyptus.taeniola
+Eucalyptus.talyuberlup{Stirling Range Yate}
+Eucalyptus.tardecidens{Mount Carbine Box}
+Eucalyptus.tasmaniensis{tasmanian alpine ash}
+Eucalyptus.taurina{Helidon Ironbark}
+Eucalyptus.taylorii
+Eucalyptus.tectifica{Darwin Box}
+Eucalyptus.tenella{Narrow-leaved Stringybark}
+Eucalyptus.tenera{Glazed Mallee}
+Eucalyptus.tenuipes{Narrow-leaved White Mahogany}
+Eucalyptus.tenuiramis{silver-peppermint}
+Eucalyptus.tenuis
+Eucalyptus.tephroclada{Hollerton Mallee}
+Eucalyptus.tephrodes
+Eucalyptus.tephrophloia
+Eucalyptus.terebra{Balladonia Gimlet}
+Eucalyptus.tereticornis{mountain forest red gum}
+Eucalyptus.terrica
+Eucalyptus.tetragona
+Eucalyptus.tetrapleura{Square-fruited Ironbark}
+Eucalyptus.tetraptera{four-wing mallee}
+Eucalyptus.tetrodonta{darwin-stringybark}
+Eucalyptus.thamnoides
+Eucalyptus.tholiformis
+Eucalyptus.thozetiana{Thozet's ironbox}
+Eucalyptus.tindaliae{queensland-white-stringybark}
+Eucalyptus.tinghaensis
+Eucalyptus.tintinnans{ringing-gum}
+Eucalyptus.todtiana{coastal blackbutt}
+Eucalyptus.tokwa
+Eucalyptus.torquata{coolgardie-gum}
+Eucalyptus.tortilis{Gimlet}
+Eucalyptus.trachybasis
+Eucalyptus.transcontinentalis
+Eucalyptus.tricarpa
+Eucalyptus.triflora{Pigeon House Ash}
+Eucalyptus.trivalva{Victoria spring mallee}
+Eucalyptus.tumida{Esperance Plains Mallee}
+Eucalyptus.ultima{Exmouth Mallee}
+Eucalyptus.umbra{broad-leaved-white-mahogany}
+Eucalyptus.umbrawarrensis{Umbrawarra Gum}
+Eucalyptus.uncinata{Hook Leafed Mallee}
+Eucalyptus.unialata
+Eucalyptus.urna{Northern Merrit}
+Eucalyptus.urnigera{urn-gum}
+Eucalyptus.urnularis
+Eucalyptus.utilis{coastal moort}
+Eucalyptus.uvida
+Eucalyptus.valens{Esperance Mallet}
+Eucalyptus.varia
+Eucalyptus.vegrandis{Cranbrook Mallee}
+Eucalyptus.vernicosa{varnished gum}
+Eucalyptus.verrucata
+Eucalyptus.vesiculosa{Corackerup Marlock}
+Eucalyptus.vicina{Manara Hills Red Gum}
+Eucalyptus.victoriana{Victoria Range Stringybark}
+Eucalyptus.victrix{Smooth-barked Coolibah}
+Eucalyptus.viminalis{Rough-barked Manna Gum}
+Eucalyptus.virella{Wheatbelt Mallee}
+Eucalyptus.virens{Shiny-leaved Ironbark}
+Eucalyptus.virgata
+Eucalyptus.virginea{Mount Lindesay White Gum}
+Eucalyptus.viridis{green mallee}
+Eucalyptus.vitrea
+Eucalyptus.vittata{Ribbon-barked Mallet}
+Eucalyptus.vokesensis{Vokes Hill Mallee}
+Eucalyptus.volcanica{Hillgrove Box}
+Eucalyptus.walshii
+Eucalyptus.wandoo{Northern Wandoo}
+Eucalyptus.wardii
+Eucalyptus.websteriana
+Eucalyptus.westonii
+Eucalyptus.whitei{White's Ironbark}
+Eucalyptus.wilcoxii{Deua Gum}
+Eucalyptus.williamsiana{Large-leaved Stringybark}
+Eucalyptus.willisii{South Gippsland Peppermint}
+Eucalyptus.wimmerensis
+Eucalyptus.woodwardii{lemon-flowered-gum}
+Eucalyptus.woollsiana{Narrow-leaved Grey Box}
+Eucalyptus.wubinensis{Wubin Mallee}
+Eucalyptus.wyolensis{Lake Wyola Mallee}
+Eucalyptus.xanthoclada
+Eucalyptus.xanthonema
+Eucalyptus.xerothermica{Pilbara Box}
+Eucalyptus.yagobiei
+Eucalyptus.yalatensis{Yalata mallee}
+Eucalyptus.yarraensis{yarra-gum}
+Eucalyptus.yarriambiack
+Eucalyptus.yilgarnensis{Yorrel}
+Eucalyptus.youmanii{youman's-stringybark}
+Eucalyptus.youngiana{Ooldea mallee}
+Eucalyptus.yumbarrana
+Eucalyptus.zopherophloia{Backbutt Mallee}
+Eucalyptus.alatissima
+Eucalyptus.alba:var.australasica
+Eucalyptus.alligatrix:subsp.alligatrix
+Eucalyptus.alligatrix:subsp.limaensis
+Eucalyptus.alligatrix:subsp.miscella
+Eucalyptus.amplifolia:subsp.amplifolia
+Eucalyptus.amplifolia:subsp.sessiliflora
+Eucalyptus.aquatica
+Eucalyptus.arachnaea:subsp.arachnaea
+Eucalyptus.arachnaea:subsp.arrecta
+Eucalyptus.aromaphloia:subsp.aromaphloia
+Eucalyptus.astringens:subsp.astringens
+Eucalyptus.astringens:subsp.redacta
+Eucalyptus.balladoniensis:subsp.balladoniensis
+Eucalyptus.balladoniensis:subsp.sedens
+Eucalyptus.baueriana:subsp.baueriana
+Eucalyptus.baueriana:subsp.deddickensis
+Eucalyptus.baueriana:subsp.thalassina
+Eucalyptus.brookeriana
+Eucalyptus.cajuputea
+Eucalyptus.calcicola:subsp.calcicola
+Eucalyptus.calcicola:subsp.unita
+Eucalyptus.caleyi:subsp.caleyi
+Eucalyptus.caleyi:subsp.ovendenii
+Eucalyptus.calycogona:subsp.calycogona
+Eucalyptus.calycogona:subsp.miraculum
+Eucalyptus.calycogona:subsp.spaffordii
+Eucalyptus.calycogona:subsp.trachybasis
+Eucalyptus.camaldulensis:subsp.acuta
+Eucalyptus.camaldulensis:subsp.arida
+Eucalyptus.camaldulensis:subsp.camaldulensis
+Eucalyptus.camaldulensis:subsp.minima
+Eucalyptus.camaldulensis:subsp.obtusa
+Eucalyptus.camaldulensis:subsp.refulgens
+Eucalyptus.camaldulensis:subsp.simulata
+Eucalyptus.camphora:subsp.camphora
+Eucalyptus.camphora:subsp.humeana
+Eucalyptus.camphora:subsp.relicta
+Eucalyptus.canescens:subsp.beadellii
+Eucalyptus.canescens:subsp.canescens
+Eucalyptus.celastroides:subsp.celastroides
+Eucalyptus.chlorophylla:subsp.chlorophylla
+Eucalyptus.cinerea:subsp.cinerea
+Eucalyptus.cinerea:subsp.triplex
+Eucalyptus.cinerea:subsp.victoriensis
+Eucalyptus.cladocalyx:subsp.cladocalyx
+Eucalyptus.cladocalyx:subsp.crassa
+Eucalyptus.cladocalyx:subsp.petila
+Eucalyptus.cometae-vallis
+Eucalyptus.conferruminata:subsp.conferruminata
+Eucalyptus.conferruminata:subsp.recherche
+Eucalyptus.conglobata:subsp.conglobata
+Eucalyptus.conglobata:subsp.perata
+Eucalyptus.conspicua:subsp.conspicua
+Eucalyptus.conspicua:subsp.dispar
+Eucalyptus.cordata:subsp.cordata
+Eucalyptus.cordata:subsp.quadrangulosa
+Eucalyptus.crucis:subsp.crucis
+Eucalyptus.crucis:subsp.lanceolata
+Eucalyptus.crucis:subsp.praecipua
+Eucalyptus.cuspidata
+Eucalyptus.dalrympleana:subsp.dalrympleana
+Eucalyptus.dalrympleana:subsp.heptantha
+Eucalyptus.dealbata:subsp.aperticola
+Eucalyptus.dealbata:subsp.dealbata
+Eucalyptus.delegatensis:subsp.delegatensis
+Eucalyptus.delegatensis:subsp.tasmaniensis
+Eucalyptus.distuberosa
+Eucalyptus.distuberosa:subsp.aerata
+Eucalyptus.distuberosa:subsp.distuberosa
+Eucalyptus.diversifolia:subsp.diversifolia
+Eucalyptus.diversifolia:subsp.hesperia
+Eucalyptus.ebbanoensis:subsp.ebbanoensis
+Eucalyptus.ebbanoensis:subsp.glauciramula
+Eucalyptus.ebbanoensis:subsp.photina
+Eucalyptus.effusa:subsp.effusa
+Eucalyptus.effusa:subsp.exsul
+Eucalyptus.eremicola:subsp.eremicola
+Eucalyptus.eremicola:subsp.peeneri
+Eucalyptus.eremophila:subsp.eremophila
+Eucalyptus.eremophila:subsp.pterocarpa
+Eucalyptus.erythronema:subsp.erythronema
+Eucalyptus.erythronema:subsp.inornata
+Eucalyptus.fibrosa:subsp.fibrosa
+Eucalyptus.fibrosa:subsp.nubilis
+Eucalyptus.flocktoniae:subsp.flocktoniae
+Eucalyptus.flocktoniae:subsp.hebes
+Eucalyptus.fraseri:subsp.fraseri
+Eucalyptus.fraseri:subsp.melanobasis
+Eucalyptus.gardneri:subsp.gardneri
+Eucalyptus.georgei:subsp.fulgida
+Eucalyptus.georgei:subsp.georgei
+Eucalyptus.gittinsii:subsp.gittinsii
+Eucalyptus.gittinsii:subsp.illucida
+Eucalyptus.globulus:subsp.bicostata
+Eucalyptus.globulus:subsp.globulus
+Eucalyptus.globulus:subsp.maidenii
+Eucalyptus.globulus:subsp.pseudoglobulus
+Eucalyptus.goniantha:subsp.goniantha
+Eucalyptus.goniantha:subsp.kynoura
+Eucalyptus.goniocalyx:subsp.exposa
+Eucalyptus.goniocalyx:subsp.fallax
+Eucalyptus.goniocalyx:subsp.goniocalyx
+Eucalyptus.goniocalyx:subsp.laxa
+Eucalyptus.goniocalyx:subsp.viridissima
+Eucalyptus.gregoryensis
+Eucalyptus.gunnii:subsp.divaricata
+Eucalyptus.gunnii:subsp.gunnii
+Eucalyptus.haemostoma{Scribbly Gum}
+Eucalyptus.insularis:subsp.continentalis
+Eucalyptus.insularis:subsp.insularis
+Eucalyptus.jutsonii:subsp.jutsonii
+Eucalyptus.jutsonii:subsp.kobela
+Eucalyptus.kessellii:subsp.eugnosta
+Eucalyptus.kessellii:subsp.kessellii
+Eucalyptus.kingsmillii:subsp.kingsmillii
+Eucalyptus.kochii:subsp.amaryssia
+Eucalyptus.kochii:subsp.borealis
+Eucalyptus.kochii:subsp.kochii
+Eucalyptus.kochii:subsp.plenissima
+Eucalyptus.kochii:subsp.yellowdinensis
+Eucalyptus.landsdowneana{Crimson Mallee Box}
+Eucalyptus.lehmannii:subsp.lehmannii
+Eucalyptus.lehmannii:subsp.parallela
+Eucalyptus.leptocalyx:subsp.leptocalyx
+Eucalyptus.leptocalyx:subsp.petilipes
+Eucalyptus.leptopoda:subsp.arctata
+Eucalyptus.leptopoda:subsp.elevata
+Eucalyptus.leptopoda:subsp.leptopoda
+Eucalyptus.leptopoda:subsp.subluta
+Eucalyptus.leucophloia:subsp.euroa
+Eucalyptus.leucophloia:subsp.leucophloia
+Eucalyptus.leucophylla
+Eucalyptus.leucoxylon:subsp.bellarinensis
+Eucalyptus.leucoxylon:subsp.connata
+Eucalyptus.leucoxylon:subsp.leucoxylon
+Eucalyptus.leucoxylon:subsp.megalocarpa
+Eucalyptus.leucoxylon:subsp.pruinosa
+Eucalyptus.leucoxylon:subsp.stephaniae
+Eucalyptus.ligulata:subsp.ligulata
+Eucalyptus.ligulata:subsp.stirlingica
+Eucalyptus.lockyeri:subsp.exuta
+Eucalyptus.lockyeri:subsp.lockyeri
+Eucalyptus.loxophleba:subsp.gratiae
+Eucalyptus.loxophleba:subsp.lissophloia
+Eucalyptus.loxophleba:subsp.loxophleba
+Eucalyptus.loxophleba:subsp.supralaevis
+Eucalyptus.macrocarpa:subsp.elachantha
+Eucalyptus.macrocarpa:subsp.macrocarpa
+Eucalyptus.macrorhyncha:subsp.cannonii
+Eucalyptus.macrorhyncha:subsp.macrorhyncha
+Eucalyptus.mannensis:subsp.mannensis
+Eucalyptus.mannensis:subsp.vespertina
+Eucalyptus.mannifera:subsp.gullickii
+Eucalyptus.mannifera:subsp.mannifera
+Eucalyptus.mannifera:subsp.praecox
+Eucalyptus.marginata:subsp.marginata
+Eucalyptus.marginata:subsp.thalassica
+Eucalyptus.melanophloia:subsp.melanophloia
+Eucalyptus.melanophloia:subsp.nana
+Eucalyptus.mimica:subsp.continens
+Eucalyptus.mimica:subsp.mimica
+Eucalyptus.moorei:subsp.moorei
+Eucalyptus.moorei:subsp.serpentinicola
+Eucalyptus.nigrifunda
+Eucalyptus.obstans
+Eucalyptus.obtusiflora:subsp.dongarraensis
+Eucalyptus.obtusiflora:subsp.obtusiflora
+Eucalyptus.oleosa:subsp.ampliata
+Eucalyptus.oleosa:subsp.corvina
+Eucalyptus.oleosa:subsp.cylindroidea
+Eucalyptus.oleosa:subsp.oleosa
+Eucalyptus.oligantha:subsp.modica
+Eucalyptus.oligantha:subsp.oligantha
+Eucalyptus.ovata:subsp.grandiflora
+Eucalyptus.ovata:subsp.ovata
+Eucalyptus.pachycalyx:subsp.banyabba
+Eucalyptus.pachycalyx:subsp.pachycalyx
+Eucalyptus.pachycalyx:subsp.waajensis
+Eucalyptus.parramattensis:subsp.decadens
+Eucalyptus.parramattensis:subsp.parramattensis
+Eucalyptus.parramattensis:var.sphaerocalyx
+Eucalyptus.pauciflora:subsp.acerina
+Eucalyptus.pauciflora:subsp.debeuzevillei
+Eucalyptus.pauciflora:subsp.hedraia
+Eucalyptus.pauciflora:subsp.niphophila
+Eucalyptus.pauciflora:subsp.parvifructa
+Eucalyptus.pauciflora:subsp.pauciflora
+Eucalyptus.phenax:subsp.compressa
+Eucalyptus.phenax:subsp.phenax
+Eucalyptus.platypus:subsp.congregata
+Eucalyptus.platypus:subsp.platypus
+Eucalyptus.polyanthemos:subsp.longior
+Eucalyptus.polyanthemos:subsp.marginalis
+Eucalyptus.polyanthemos:subsp.polyanthemos
+Eucalyptus.polyanthemos:subsp.vestita
+Eucalyptus.polybractea:subsp.polybractea
+Eucalyptus.polybractea:subsp.subcerea
+Eucalyptus.preissiana:subsp.lobata
+Eucalyptus.preissiana:subsp.preissiana
+Eucalyptus.pruinosa:subsp.pruinosa
+Eucalyptus.pruinosa:subsp.tenuata
+Eucalyptus.radiata:subsp.radiata
+Eucalyptus.radiata:subsp.robertsonii
+Eucalyptus.radiata:subsp.sejuncta
+Eucalyptus.redunca:subsp.pluricaulis
+Eucalyptus.redunca:subsp.porphyrea
+Eucalyptus.redunca:subsp.redunca
+Eucalyptus.resinifera:subsp.hemilampra
+Eucalyptus.resinifera:subsp.resinifera
+Eucalyptus.rhodantha:var.rhodantha
+Eucalyptus.risdonii
+Eucalyptus.rubida:subsp.barbigerorum
+Eucalyptus.rubida:subsp.rubida
+Eucalyptus.rudis:subsp.cratyantha
+Eucalyptus.rudis:subsp.rudis
+Eucalyptus.sargentii:subsp.onesis
+Eucalyptus.sargentii:subsp.sargentii
+Eucalyptus.scias:subsp.apoda
+Eucalyptus.scias:subsp.scias
+Eucalyptus.scyphocalyx:subsp.scyphocalyx
+Eucalyptus.scyphocalyx:subsp.triadica
+Eucalyptus.sideroxylon:subsp.improcera
+Eucalyptus.sideroxylon:subsp.sideroxylon
+Eucalyptus.socialis:subsp.eucentrica
+Eucalyptus.socialis:subsp.socialis
+Eucalyptus.socialis:subsp.victoriensis
+Eucalyptus.socialis:subsp.viridans
+Eucalyptus.sparsifolia
+Eucalyptus.spathulata:subsp.salina
+Eucalyptus.spathulata:subsp.spathulata
+Eucalyptus.striaticalyx:subsp.delicata
+Eucalyptus.striaticalyx:subsp.striaticalyx
+Eucalyptus.subangusta:subsp.cerina
+Eucalyptus.subangusta:subsp.pusilla
+Eucalyptus.subangusta:subsp.subangusta
+Eucalyptus.subangusta:subsp.virescens
+Eucalyptus.suggrandis:subsp.promiscua
+Eucalyptus.suggrandis:subsp.suggrandis
+Eucalyptus.tereticornis:subsp.basaltica
+Eucalyptus.tereticornis:subsp.mediana
+Eucalyptus.tereticornis:subsp.rotunda
+Eucalyptus.tereticornis:subsp.tereticornis
+Eucalyptus.thamnoides:subsp.megista
+Eucalyptus.thamnoides:subsp.thamnoides
+Eucalyptus.tricarpa:subsp.decora
+Eucalyptus.tricarpa:subsp.tricarpa
+Eucalyptus.varia:subsp.salsuginosa
+Eucalyptus.varia:subsp.varia
+Eucalyptus.vegrandis:subsp.recondita
+Eucalyptus.vegrandis:subsp.vegrandis
+Eucalyptus.viminalis:subsp.cygnetensis
+Eucalyptus.viminalis:subsp.hentyensis
+Eucalyptus.viminalis:subsp.pryoriana
+Eucalyptus.viminalis:subsp.siliceana
+Eucalyptus.viminalis:subsp.viminalis
+Eucalyptus.wandoo:subsp.pulverea
+Eucalyptus.wandoo:subsp.wandoo
+Eucalyptus.websteriana:subsp.norsemanica
+Eucalyptus.websteriana:subsp.websteriana
+Eucalyptus.wheatbelt
+Eucalyptus.wimmerensis:subsp.arapilensis
+Eucalyptus.wimmerensis:subsp.grata
+Eucalyptus.wimmerensis:subsp.pallida
+Eucalyptus.wimmerensis:subsp.parviformis
+Eucalyptus.wimmerensis:subsp.wimmerensis
+Eucalyptus.xanthonema:subsp.apposita
+Eucalyptus.xanthonema:subsp.xanthonema
+Eucalyptus[absita|loxophleba]
+Eucalyptus[acmenoides|cloeziana]
+Eucalyptus[albens|melanophloia]
+Eucalyptus[albens|melliodora]
+Eucalyptus[aspersa|dorrienii]
+Eucalyptus[atrata|shirleyi]
+Eucalyptus[bancroftii|robusta]
+Eucalyptus[brassiana|pellita]
+Eucalyptus[brevifolia|leucophylla]
+Eucalyptus[brownii|crebra]
+Eucalyptus[brownii|melanophloia]
+Eucalyptus[brownii|persistens]
+Eucalyptus[buprestium|marginata]
+Eucalyptus[camaldulensis|platyphylla]
+Eucalyptus[cambageana|melanophloia]
+Eucalyptus[cambageana|populnea]
+Eucalyptus[canescens:subsp.canescens|vokesensis]
+Eucalyptus[carnea|racemosa:subsp.racemosa]
+Eucalyptus[carnea|racemosa]
+Eucalyptus[chlorophylla|pruinosa]
+Eucalyptus[cladocalyx|peninsularis]
+Eucalyptus[cloeziana|portuensis]
+Eucalyptus[conica|crebra]
+Eucalyptus[conica|fibrosa:subsp.nubilis]
+Eucalyptus[conica|melanophloia]
+Eucalyptus[coolabah|crebra]
+Eucalyptus[coolabah|melanophloia]
+Eucalyptus[coolabah|populnea]
+Eucalyptus[coolabah|whitei]
+Eucalyptus[crebra|decorticans]
+Eucalyptus[crebra|fibrosa:subsp.fibrosa]
+Eucalyptus[crebra|fibrosa:subsp.nubilis]
+Eucalyptus[crebra|leptophleba]
+Eucalyptus[crebra|melanophloia]
+Eucalyptus[crebra|melliodora]
+Eucalyptus[crebra|moluccana]
+Eucalyptus[crebra|orgadophila]
+Eucalyptus[crebra|populnea]
+Eucalyptus[crebra|shirleyi]
+Eucalyptus[crebra|siderophloia]
+Eucalyptus[crebra|thozetiana]
+Eucalyptus[cullenii|leptophleba]
+Eucalyptus[cullenii|melanophloia]
+Eucalyptus[dealbata|prava]
+Eucalyptus[decorticans|melanophloia]
+Eucalyptus[dielsii|platypus]
+Eucalyptus[dives|radiata]
+Eucalyptus[erythronema:var.erythronema|orthostemon]
+Eucalyptus[erythronema:var.marginata|orthostemon]
+Eucalyptus[eucalyptus|alpina]
+Eucalyptus[eucalyptus|balanites]
+Eucalyptus[eucalyptus|balanopelex]
+Eucalyptus[eucalyptus|beyeri]
+Eucalyptus[eucalyptus|brachyphylla]
+Eucalyptus[eucalyptus|calyerup]
+Eucalyptus[eucalyptus|conjuncta]
+Eucalyptus[eucalyptus|impensa]
+Eucalyptus[eucalyptus|kalangadooensis]
+Eucalyptus[eucalyptus|lamprocalyx]
+Eucalyptus[eucalyptus|lateritica]
+Eucalyptus[eucalyptus|leptoscyphocalyx]
+Eucalyptus[eucalyptus|macmahonii]
+Eucalyptus[eucalyptus|missilis]
+Eucalyptus[eucalyptus|paludicola]
+Eucalyptus[eucalyptus|phylacis]
+Eucalyptus[eucalyptus|stoataptera]
+Eucalyptus[eucalyptus|tokwa]
+Eucalyptus[eucalyptus|urnularis]
+Eucalyptus[exserta|platyphylla]
+Eucalyptus[fibrosa|moluccana]
+Eucalyptus[gamophylla|leucophylla]
+Eucalyptus[grandis|pellita]
+Eucalyptus[grandis|robusta]
+Eucalyptus[granitica|shirleyi]
+Eucalyptus[intertexta|melanophloia]
+Eucalyptus[intertexta|sideroxylon]
+Eucalyptus[largiflorens|populnea]
+Eucalyptus[leptophleba|melanophloia]
+Eucalyptus[leucophylla|pruinosa]
+Eucalyptus[luehmanniana|obstans]
+Eucalyptus[melanophloia|microcarpa]
+Eucalyptus[melanophloia|normantonensis]
+Eucalyptus[melanophloia|orgadophila]
+Eucalyptus[melanophloia|populnea]
+Eucalyptus[melanophloia|xanthoclada]
+Eucalyptus[microtheca|pruinosa]
+Eucalyptus[moluccana|platyphylla]
+Eucalyptus[moluccana|siderophloia]
+Eucalyptus[obstans|sieberi]
+Eucalyptus[ochrophloia|populnea]
+Eucalyptus[orthostemon|vegrandis]
+Eucalyptus[orthostemon|wandoo:subsp.wandoo]
+Eucalyptus[pauciflora|cylindrocarpa]
+Eucalyptus[pauciflora|densiflora]
+Eucalyptus[pauciflora|rusticata]
+Eucalyptus[persistens|shirleyi]
+Eucalyptus[persistens|thozetiana]
+Eucalyptus[persistens|xanthoclada]
+Eucalyptus[pilularis|planchoniana]
+Eucalyptus[platyphylla|tereticornis]
+Eucalyptus[populnea|thozetiana]
+Eucalyptus[quadrangulata|saligna]
+Eucalyptus[quadricostata|xanthoclada]
+Eucalyptus[radiata:subsp.radiata|stricta]
+Eucalyptus[resinifera|tereticornis]
+Eucalyptus[rhodantha|petiolaris]
+Eucalyptus[robusta|tereticornis]
+Eucalyptus[rowleyi|victrix]
+Eucalyptus[saligna|tereticornis]
+Eucalyptus[youmanii|sphaerocarpa]

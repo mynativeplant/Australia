@@ -1,0 +1,3 @@
+Plectranthus.ciliatus{Eyelash Spurflower}
+Plectranthus.nitidus{Silver Plectranthus}
+Plectranthus.parviflorus(Blue Spires){Spur Flower}

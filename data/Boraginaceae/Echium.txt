@@ -1,0 +1,4 @@
+Echium.italicum
+Echium.plantagineum{plantain viper's-bugloss}
+Echium.simplex{pride-of-Tenerife}
+Echium.vulgare{Viper's bugloss}

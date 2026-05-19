@@ -1,0 +1,75 @@
+Cassinia.accipitrum
+Cassinia.aculeata{Common Cassinia}
+Cassinia.adnata
+Cassinia.adunca
+Cassinia.arcuata{Chineseshrub}
+Cassinia.aureonitens{Yellow cassinia}
+Cassinia.blackallii
+Cassinia.cassinioides
+Cassinia.cassiope
+Cassinia.cinerea
+Cassinia.collina
+Cassinia.compacta
+Cassinia.complanata
+Cassinia.copensis
+Cassinia.cunninghamii{Cunninghams everlasting}
+Cassinia.decipiens
+Cassinia.decurrens
+Cassinia.denticulata{Stiff Cassinia}
+Cassinia.diminuta
+Cassinia.diosmifolia
+Cassinia.diotophylla
+Cassinia.filifolia
+Cassinia.furtiva
+Cassinia.helenae
+Cassinia.hewsoniae
+Cassinia.kempei
+Cassinia.laevis
+Cassinia.lepidophylla
+Cassinia.lepschii
+Cassinia.leptocephala
+Cassinia.longifolia{longleaf-dogwood}
+Cassinia.macrocephala
+Cassinia.maritima
+Cassinia.monticola
+Cassinia.nivalis
+Cassinia.obcordata
+Cassinia.occidentalis
+Cassinia.ochracea
+Cassinia.ozothamnoides
+Cassinia.petrapendula
+Cassinia.quinquefaria{rosemary cassinia}
+Cassinia.retusa
+Cassinia.rufescens
+Cassinia.rugata
+Cassinia.scabra
+Cassinia.scabrida
+Cassinia.sifton{Sifton Bush}
+Cassinia.storyi
+Cassinia.straminea
+Cassinia.subtropica{bushy rosemary}
+Cassinia.tegulata
+Cassinia.telfordii
+Cassinia.tenuis
+Cassinia.tesselata
+Cassinia.theodori{Kaputar Cassinia}
+Cassinia.theresae
+Cassinia.thinicola
+Cassinia.trinerva{Three-veined cassinia}
+Cassinia.tuckeri
+Cassinia.uncata{Sticky Cassinia}
+Cassinia.venusta
+Cassinia.vespertina
+Cassinia.wilsoniae
+Cassinia.wyberbensis
+Cassinia.aculeata:subsp.aculeata
+Cassinia.aculeata:subsp.nova-anglica
+Cassinia.heleniae
+Cassinia.laevis:subsp.laevis
+Cassinia.laevis:subsp.rosmarinifolia
+Cassinia.leptocephala:subsp.everettiae
+Cassinia.leptocephala:subsp.leptocephala
+Cassinia.macrocephala:subsp.macrocephala
+Cassinia.tenuifolia
+Cassinia.theodorii
+Cassinia[cassinia|adunca]

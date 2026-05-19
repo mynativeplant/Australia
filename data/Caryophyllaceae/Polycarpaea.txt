@@ -1,0 +1,23 @@
+Polycarpaea.arida
+Polycarpaea.breviflora
+Polycarpaea.corymbosa{Old Man’s Cap}
+Polycarpaea.fallax
+Polycarpaea.holtzei
+Polycarpaea.incana
+Polycarpaea.involucrata
+Polycarpaea.longiflora
+Polycarpaea.microceps
+Polycarpaea.multicaulis
+Polycarpaea.spirostylis
+Polycarpaea.staminodina
+Polycarpaea.tenax
+Polycarpaea.umbrosa
+Polycarpaea.violacea
+Polycarpaea.corymbosa:var.corymbosa
+Polycarpaea.corymbosa:var.minor
+Polycarpaea.corymbosa:var.torrensis
+Polycarpaea.sandstone
+Polycarpaea.spirostylis:subsp.compacta
+Polycarpaea.spirostylis:subsp.densiflora
+Polycarpaea.spirostylis:subsp.glabra
+Polycarpaea.spirostylis:subsp.spirostylis

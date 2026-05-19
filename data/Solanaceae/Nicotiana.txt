@@ -1,0 +1,64 @@
+Nicotiana.amplexicaulis
+Nicotiana.benthamiana
+Nicotiana.bilybara
+Nicotiana.bungonia
+Nicotiana.burbidgeae
+Nicotiana.candelabra
+Nicotiana.cavicola
+Nicotiana.clarksonii
+Nicotiana.erytheia
+Nicotiana.excelsior{giant tobacco}
+Nicotiana.exigua
+Nicotiana.faucicola
+Nicotiana.flindersiensis
+Nicotiana.forsteri{Debney's tobacco}
+Nicotiana.gascoynica
+Nicotiana.gibbosa
+Nicotiana.glauca{Tree Tobacco}
+Nicotiana.goodspeedii{small-flower tobacco}
+Nicotiana.gossei
+Nicotiana.hesperis
+Nicotiana.heterantha
+Nicotiana.hoskingii
+Nicotiana.ingulba
+Nicotiana.insecticida
+Nicotiana.karara
+Nicotiana.karijini
+Nicotiana.latifolia
+Nicotiana.latzii
+Nicotiana.maritima
+Nicotiana.megalosiphon{wild tobacco}
+Nicotiana.monoschizocarpa
+Nicotiana.murchisonica
+Nicotiana.notha
+Nicotiana.occidentalis
+Nicotiana.olens
+Nicotiana.palssoniae
+Nicotiana.paulineana
+Nicotiana.pila
+Nicotiana.praecipitis
+Nicotiana.rosulata
+Nicotiana.rotundifolia
+Nicotiana.rupestris
+Nicotiana.rustica{Aztec tobacco}
+Nicotiana.salina
+Nicotiana.scopulorum
+Nicotiana.sessilifolia
+Nicotiana.simulans
+Nicotiana.stenocarpa
+Nicotiana.suaveolens{Australian Tobacco}
+Nicotiana.tabacum{Virginia tobacco}
+Nicotiana.truncata
+Nicotiana.umbratica
+Nicotiana.velutina{velvet tobacco}
+Nicotiana.walpa
+Nicotiana.wuttkei
+Nicotiana.yandinga
+Nicotiana.megalosiphon:subsp.megalosiphon
+Nicotiana.megalosiphon:subsp.sessilifolia
+Nicotiana.occidentalis:subsp.hesperis
+Nicotiana.occidentalis:subsp.obliqua
+Nicotiana.occidentalis:subsp.occidentalis
+Nicotiana.rosulata:subsp.ingulba
+Nicotiana.rosulata:subsp.rosulata
+Nicotiana[nicotiana|flindersiensis]

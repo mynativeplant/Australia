@@ -38,7 +38,7 @@ Each `{GENUS}.txt` file may contain comments. A comment is any record whose firs
 
 ## Data Model
 
-The plant repository is designed to keep species, hybrids, and cultivars together in one consistent structure. For a plant record, `list-plant` should return details such as:
+The plant repository is designed to keep species, hybrids, and cultivars together in one consistent structure. The plant listing endpoint should return details such as:
 
 - common name
 - cultivar name
@@ -47,7 +47,15 @@ The plant repository is designed to keep species, hybrids, and cultivars togethe
 
 ## Web Interface
 
-In addition to the parser, this project is planned to include an Apache module called `mod_mynativeplant`. The module will return JSON lists in response to queries such as `list-genus` and `list-plant`.
+In addition to the parser, this project is planned to include an Apache module called `mod_mynativeplant`. The module will return JSON lists in response to queries such as `list-families`, `list-genera`, and `list-plants`.
+
+The module source and build entrypoint live in [`module/`](module/). Use `make module` from the repository root to build it, and `make module-install` to install it via `apxs` when Apache development tooling is available. The module reads the primary Berkeley DB directly, does not rely on a separate secondary index file, and returns pretty-printed JSON.
+
+The `list-families` handler returns a JSON object with `creator` and `run_time` metadata, a `github_path` pointing at [`data/`](data/), plus a `families` array of family name strings built from the primary database.
+
+The `list-genera` handler accepts a `family` query parameter and returns the genera associated with that family as an array of genus name strings. The top-level object carries the family name, a `github_path` pointing at the family directory in [`data/`](data/), plus `creator` and `run_time` metadata.
+
+The `list-plants` handler accepts a required `family` query parameter and an optional `genera` query parameter. When `genera` is present, it returns a top-level `genus` string plus a `plants` array containing parser output objects for the matching records. The top-level object also includes a `github_path` pointing at the genus file in [`data/`](data/). When `genera` is omitted, the handler returns all matching family records across genera, points `github_path` at the family directory, and omits the top-level `genus` field. After building the array, the handler walks it again and adds child links to any matching parent records. In the same second pass, species records gain a `cultivars` array when cultivar forms of the species are present. If any records fail to parse, the handler adds an `errors` array to the top-level response before `github_path`, listing the skipped record keys.
 
 ## Maintenance Model
 

@@ -1,0 +1,137 @@
+Corymbia.abbreviata{Scraggy Bloodwood}
+Corymbia.abergiana{Range Bloodwood}
+Corymbia.arenaria{Kimberley Bloodwood}
+Corymbia.arnhemensis{Katherine Gorge Bloodwood}
+Corymbia.bleeseri{Smooth-stemmed Bloodwood}
+Corymbia.brachycarpa
+Corymbia.cadophora{Twinleaf Bloodwood}
+Corymbia.calophylla{marri}
+Corymbia.chartacea{Oenpelli Bloodwood}
+Corymbia.chillagoensis
+Corymbia.chippendalei{Sandhill Bloodwood}
+Corymbia.clandestina
+Corymbia.clarksoniana{Clarkson's bloodwood}
+Corymbia.cliftoniana{Bungle Bungle Bloodwood}
+Corymbia.collina{Silver-leaved Bloodwood}
+Corymbia.deserticola{Pilbara Dainty Bloodwood}
+Corymbia.dichromophloia{Small-fruited Bloodwood}
+Corymbia.dunlopiana{Bristle-leaved Bloodwood}
+Corymbia.ellipsoidea{Sand Red Bloodwood}
+Corymbia.eremaea{hills-bloodwood}
+Corymbia.erythrophloia{Red Bloodwood}
+Corymbia.ferruginea
+Corymbia.ficifolia{red-flowering-gum}
+Corymbia.foelscheana{Broad-leaved Bloodwood}
+Corymbia.greeniana{Pindan Bloodwood}
+Corymbia.gummifera{Red Bloodwood}
+Corymbia.haematoxylon{mountain marri}
+Corymbia.hamersleyana{Hamersley Bloodwood}
+Corymbia.hendersonii{Henderson's Bloodwood}
+Corymbia.hylandii{Hyland's Bloodwood}
+Corymbia.intermedia{pink-bloodwood}
+Corymbia.jacobsiana{Stringybarked Bloodwood}
+Corymbia.lamprophylla{Shiny-leaved Bloodwood}
+Corymbia.latifolia{Round-leaved Bloodwood}
+Corymbia.lenziana{Narrow-leaved Bloodwood}
+Corymbia.ligans
+Corymbia.nesophila{melville-island-bloodwood}
+Corymbia.novoguinensis
+Corymbia.oocarpa
+Corymbia.opacula
+Corymbia.pachycarpa{Urn-fruited Bloodwood}
+Corymbia.papillosa{Maningrida Bloodwood}
+Corymbia.pedimontana
+Corymbia.plena{Large-fruited Bloodwood}
+Corymbia.pocillum{Western Red Bloodwood}
+Corymbia.polycarpa{long-fruited-bloodwood}
+Corymbia.porrecta{Grey Bloodwood}
+Corymbia.ptychocarpa{Smooth Swamp Bloodwood}
+Corymbia.rhodops{Red-throated Bloodwood}
+Corymbia.serendipita{Newcastle Range Bloodwood}
+Corymbia.setosa{Rough-leaved Bloodwood}
+Corymbia.sphaerica{Big-fruited Bloodwood}
+Corymbia.stockeri{Blotchy Bloodwood}
+Corymbia.terminalis{Desert Bloodwood}
+Corymbia.trachyphloia{brown-bloodwood}
+Corymbia.umbonata{Rusty Bloodwood}
+Corymbia.xanthope{Glen Geddes Bloodwood}
+Corymbia.zygophylla{Broome Bloodwood}
+Corymbia.aparrerinja
+Corymbia.arafurica
+Corymbia.aspera
+Corymbia.aureola
+Corymbia.bella
+Corymbia.blakei
+Corymbia.bloxsomei
+Corymbia.bunites
+Corymbia.cadophora:subsp.cadophora
+Corymbia.cadophora:subsp.pliantha
+Corymbia.cadophora:subsp.polychroma
+Corymbia.candida
+Corymbia.candida:subsp.candida
+Corymbia.chlorolampra
+Corymbia.citriodora{Lemon Scented Gum}
+Corymbia.clavigera
+Corymbia.confertiflora
+Corymbia.dallachiana
+Corymbia.dendromerinx
+Corymbia.deserticola:subsp.deserticola
+Corymbia.deserticola:subsp.mesogeotica
+Corymbia.disjuncta
+Corymbia.eremaea:subsp.eremaea
+Corymbia.eremaea:subsp.oligocarpa
+Corymbia.eximia(Nana){Dwarf Yellow Bloodwood}
+Corymbia.ferriticola
+Corymbia.ferruginea:subsp.ferruginea
+Corymbia.ferruginea:subsp.stypophylla
+Corymbia.flavescens
+Corymbia.gilbertensis
+Corymbia.grandifolia
+Corymbia.grandifolia:subsp.grandifolia
+Corymbia.grandifolia:subsp.lamprocardia
+Corymbia.grandifolia:subsp.longa
+Corymbia.henryi
+Corymbia.karelgica
+Corymbia.kombolgiensis
+Corymbia.leichhardtii
+Corymbia.leptoloma
+Corymbia.maculata(Ribbons of Hope){Spotted Gum}
+Corymbia.opaca
+Corymbia.papuana
+Corymbia.paractia
+Corymbia.pauciseta
+Corymbia.peltata
+Corymbia.petalophylla
+Corymbia.polysciada
+Corymbia.ptychocarpa:subsp.aptycha
+Corymbia.ptychocarpa:subsp.ptychocarpa
+Corymbia.scabrida
+Corymbia.stockeri:subsp.peninsularis
+Corymbia.stockeri:subsp.stockeri
+Corymbia.tessellaris
+Corymbia.torelliana
+Corymbia.torta
+Corymbia.torta:subsp.allanii
+Corymbia.torta:subsp.mixtifolia
+Corymbia.torta:subsp.torta
+Corymbia.watsoniana
+Corymbia.watsoniana:subsp.capillata
+Corymbia.watsoniana:subsp.watsoniana
+Corymbia[](Baby Orange){Flowering Gum}
+Corymbia[abergiana|lamprophylla]
+Corymbia[bloxsomei|citriodora]
+Corymbia[brachycarpa|setosa:subsp.pedicellaris]
+Corymbia[brachycarpa|setosa]
+Corymbia[calophylla|haematoxylon]
+Corymbia[candida|lautifolia]
+Corymbia[citriodora:subsp.citriodora|watsoniana:subsp.capillata]
+Corymbia[citriodora|leichhardtii]
+Corymbia[citriodora|peltata]
+Corymbia[citriodora|torelliana]
+Corymbia[confertiflora|tessellaris]
+Corymbia[corymbia|chillagoensis]
+Corymbia[corymbia|opacula]
+Corymbia[corymbia|pedimontana]
+Corymbia[dallachiana|dimorpha]
+Corymbia[dimorpha|tessellaris]
+Corymbia[leichhardtii|tessellaris]

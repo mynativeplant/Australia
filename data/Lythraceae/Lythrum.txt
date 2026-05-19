@@ -1,0 +1,5 @@
+Lythrum.hyssopifolia{hyssop-leaved loosestrife}
+Lythrum.junceum{mediterranean loosestrife}
+Lythrum.paradoxum
+Lythrum.salicaria{purple loosestrife}
+Lythrum.wilsonii

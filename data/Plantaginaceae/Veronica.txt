@@ -1,0 +1,41 @@
+Veronica.anagallis-aquatica
+Veronica.arcuata
+Veronica.arenaria
+Veronica.arvensis{corn speedwell}
+Veronica.blakelyi
+Veronica.calycina{Cup Speedwell}
+Veronica.catenata{Pink water-speedwell}
+Veronica.ciliolata
+Veronica.continua
+Veronica.decorosa
+Veronica.densifolia
+Veronica.derwentiana
+Veronica.distans
+Veronica.formosa{speedwell bush}
+Veronica.gracilis{slender speedwell}
+Veronica.grosseserrata
+Veronica.hederifolia{Blue Ivy-leaved Speedwell}
+Veronica.hillebrandii{coast speedwell}
+Veronica.lithophila
+Veronica.nivea
+Veronica.notabilis{forest speedwell}
+Veronica.novae-hollandiae
+Veronica.parnkalliana
+Veronica.peregrina{neckweed}
+Veronica.perfoliata{Digger's Speedwell}
+Veronica.persica{Persian speedwell}
+Veronica.plebeia{creeping speedwell}
+Veronica.scardica
+Veronica.scutellata{grass-leaved speedwell}
+Veronica.serpyllifolia{bright-blue speedwell}
+Veronica.sobolifera
+Veronica.subtilis
+Veronica.velutina
+Veronica.brownii
+Veronica.ciliolata:subsp.ciliolata
+Veronica.ciliolata:subsp.fiordensis
+Veronica.derwentiana:subsp.anisodonta
+Veronica.derwentiana:subsp.derwentiana
+Veronica.derwentiana:subsp.homalodonta
+Veronica.derwentiana:subsp.maideniana
+Veronica.derwentiana:subsp.subglauca

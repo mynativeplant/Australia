@@ -1,0 +1,19 @@
+Polyscias.australiana{Ivory basswood}
+Polyscias.balfouriana{Balfour Aralia}
+Polyscias.bellendenkerensis
+Polyscias.elegans{Mowbulan whitewood}
+Polyscias.fruticosa{Ming aralia}
+Polyscias.macgillivrayi{MacGillivray's aralia}
+Polyscias.mollis
+Polyscias.murrayi{Pencil Cedar}
+Polyscias.pinnata
+Polyscias.purpurea
+Polyscias.sambucifolia{elderberry-ash}
+Polyscias.schultzei
+Polyscias.willmottii
+Polyscias.cissodendron
+Polyscias.nodosa
+Polyscias.sambucifolia:subsp.leaflets
+Polyscias.sambucifolia:subsp.leaves
+Polyscias.spectabilis
+Polyscias.zippeliana

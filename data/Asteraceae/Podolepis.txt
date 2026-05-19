@@ -1,0 +1,35 @@
+Podolepis.acuminata
+Podolepis.arachnoidea
+Podolepis.aristata
+Podolepis.canescens
+Podolepis.decipiens{deceiving copperwire-daisy}
+Podolepis.eremaea
+Podolepis.gardneri
+Podolepis.gracilis{Slender Podolepis}
+Podolepis.hieracioides
+Podolepis.jaceoides{showy copper-wired daisy}
+Podolepis.laciniata
+Podolepis.laevigata
+Podolepis.linearifolia{Basalt Podolepis}
+Podolepis.longipedata{Tall Copper-wire-daisy}
+Podolepis.monticola
+Podolepis.neglecta
+Podolepis.nutans
+Podolepis.omissa
+Podolepis.remota
+Podolepis.rugata
+Podolepis.aristata:subsp.affinis
+Podolepis.aristata:subsp.aristata
+Podolepis.aristata:subsp.auriculata
+Podolepis.capillaris
+Podolepis.davisiana
+Podolepis.kendallii
+Podolepis.lessonii
+Podolepis.microcephala
+Podolepis.muelleri
+Podolepis.robusta
+Podolepis.rugata:subsp.glabrata
+Podolepis.rugata:subsp.littoralis
+Podolepis.rugata:subsp.rugata
+Podolepis.rugata:subsp.trullata
+Podolepis.tepperi

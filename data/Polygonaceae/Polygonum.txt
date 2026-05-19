@@ -1,0 +1,6 @@
+Polygonum.arenastrum
+Polygonum.argyrocoleum
+Polygonum.aviculare{doorweed}
+Polygonum.bellardii{Narrowleaf Knotweed}
+Polygonum.plebeium{Small Knotweed}
+Polygonum.argyrocoleon

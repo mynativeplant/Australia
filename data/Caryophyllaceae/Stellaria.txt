@@ -1,0 +1,18 @@
+Stellaria.angustifolia
+Stellaria.apetala
+Stellaria.filiformis
+Stellaria.flaccida
+Stellaria.graminea{grass-leaved starwort}
+Stellaria.leptoclada
+Stellaria.media{chickweed}
+Stellaria.multiflora
+Stellaria.palustris{European chickweed}
+Stellaria.papillata
+Stellaria.pungens{prickly starwort}
+Stellaria.angustifolia:subsp.angustifolia
+Stellaria.angustifolia:subsp.rotundisepala
+Stellaria.angustifolia:subsp.tenella
+Stellaria.multiflora:subsp.collaris
+Stellaria.multiflora:subsp.multiflora
+Stellaria.multiflora:subsp.nebulosa
+Stellaria.parviflora

@@ -1,0 +1,26 @@
+Gardenia.actinocarpa
+Gardenia.dacryoides
+Gardenia.ewartii
+Gardenia.faucicola
+Gardenia.fucata
+Gardenia.gardneri
+Gardenia.jabiluka
+Gardenia.kakaduensis
+Gardenia.megasperma
+Gardenia.ovularis{native gardenia}
+Gardenia.psidioides
+Gardenia.pyriformis
+Gardenia.resinosa
+Gardenia.rupicola
+Gardenia.scabrella{Star Flower}
+Gardenia.schwarzii
+Gardenia.sericea
+Gardenia.tessellaris
+Gardenia.vilhelmii
+Gardenia.ewartii:subsp.ewartii
+Gardenia.ewartii:subsp.fitzgeraldii
+Gardenia.pyriformis:subsp.keartlandii
+Gardenia.pyriformis:subsp.orientalis
+Gardenia.pyriformis:subsp.pyriformis
+Gardenia.resinosa:subsp.kimberleyensis
+Gardenia.resinosa:subsp.resinosa

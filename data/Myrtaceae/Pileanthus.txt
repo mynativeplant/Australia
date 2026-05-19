@@ -1,0 +1,11 @@
+Pileanthus.aurantiacus
+Pileanthus.bellus
+Pileanthus.filifolius{Summer Coppercups}
+Pileanthus.limacis{Coastal Coppercups}
+Pileanthus.peduncularis
+Pileanthus.rubronitidus
+Pileanthus.septentrionalis
+Pileanthus.vernicosus
+Pileanthus.peduncularis:subsp.peduncularis
+Pileanthus.peduncularis:subsp.pilifer
+Pileanthus.rubrinitidus

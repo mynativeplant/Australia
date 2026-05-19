@@ -1,0 +1,50 @@
+Myriophyllum.alpinum
+Myriophyllum.amphibium
+Myriophyllum.aquaticum{Brazilian water-milfoil}
+Myriophyllum.artesium
+Myriophyllum.austropygmaeum
+Myriophyllum.balladoniense
+Myriophyllum.callitrichoides
+Myriophyllum.caput-medusae
+Myriophyllum.coronatum
+Myriophyllum.costatum
+Myriophyllum.crispatum{upright water-milfoil}
+Myriophyllum.decussatum
+Myriophyllum.dicoccum
+Myriophyllum.drummondii
+Myriophyllum.echinatum
+Myriophyllum.filiforme
+Myriophyllum.foveicola
+Myriophyllum.glomeratum
+Myriophyllum.gracile
+Myriophyllum.implicatum
+Myriophyllum.integrifolium
+Myriophyllum.jacobsii
+Myriophyllum.lapidicola
+Myriophyllum.latifolium
+Myriophyllum.limnophilum
+Myriophyllum.lophatum
+Myriophyllum.muelleri
+Myriophyllum.papillosum
+Myriophyllum.pedunculatum
+Myriophyllum.petraeum
+Myriophyllum.porcatum
+Myriophyllum.salsugineum
+Myriophyllum.simulans{Amphibious Water Milfoil}
+Myriophyllum.striatocarpum
+Myriophyllum.striatum
+Myriophyllum.tillaeoides
+Myriophyllum.trachycarpum
+Myriophyllum.trifidum
+Myriophyllum.tuberculatum{Red Myriophyllum}
+Myriophyllum.variifolium
+Myriophyllum.verrucosum{Red Water-milfoil}
+Myriophyllum.callitrichoides:subsp.callitrichoides
+Myriophyllum.callitrichoides:subsp.striatum
+Myriophyllum.gracile:var.gracile
+Myriophyllum.gracile:var.laeve
+Myriophyllum.gracile:var.lineare
+Myriophyllum.muricatum
+Myriophyllum.pedunculatum:subsp.longibracteolatum
+Myriophyllum.pedunculatum:subsp.pedunculatum
+Myriophyllum.triphyllum

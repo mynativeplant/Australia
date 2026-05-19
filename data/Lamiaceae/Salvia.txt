@@ -1,0 +1,11 @@
+Salvia.aethiopis{African Sage}
+Salvia.aurea{Brown Sage}
+Salvia.coccinea{blood-sage}
+Salvia.leucantha{mexican-bush-sage}
+Salvia.misella{River sage}
+Salvia.plebeia{Australian sage}
+Salvia.reflexa{blue sage}
+Salvia.rosmarinus
+Salvia.verbenaca{Wild Clary}
+Salvia.viridis{Annual Clary}
+Salvia.splendens

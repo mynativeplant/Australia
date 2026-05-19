@@ -1,0 +1,9 @@
+Triplarina.bancroftii
+Triplarina.calophylla
+Triplarina.imbricata
+Triplarina.nitchaga
+Triplarina.nowraensis
+Triplarina.paludosa
+Triplarina.volcanica
+Triplarina.volcanica:subsp.borealis
+Triplarina.volcanica:subsp.volcanica

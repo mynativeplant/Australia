@@ -1,0 +1,2 @@
+Hyoscyamus.albus{white henbane}
+Hyoscyamus.niger{black henbane}

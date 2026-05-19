@@ -1,0 +1,4 @@
+Ailanthus.altissima{Chinese sumac}
+Ailanthus.integrifolia
+Ailanthus.triphysa{Ferntop Ash}
+Ailanthus.integrifolia:subsp.integrifolia

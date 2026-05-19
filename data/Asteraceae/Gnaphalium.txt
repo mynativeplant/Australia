@@ -1,0 +1,5 @@
+Gnaphalium.diamantinense{Diamantina Cudweed}
+Gnaphalium.indutum
+Gnaphalium.polycaulon{western cudweed}
+Gnaphalium.indutum:subsp.acuminatum
+Gnaphalium.indutum:subsp.indutum

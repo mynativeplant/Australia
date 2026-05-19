@@ -1,0 +1,89 @@
+<style>
+  .site-header {
+    margin-bottom: 1.25rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.9rem 1.25rem;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .site-brand {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.9rem;
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .site-logo {
+    width: 3.5rem;
+    height: 3.5rem;
+    flex: 0 0 auto;
+    border-radius: 14px;
+    object-fit: cover;
+    box-shadow: 0 8px 18px rgba(41, 59, 31, 0.14);
+  }
+
+  .site-brand-copy {
+    display: grid;
+    gap: 0.2rem;
+  }
+
+  .site-brand-kicker {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.78rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .site-brand-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.1;
+    color: var(--accent-strong);
+  }
+
+  .site-links {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.88rem;
+  }
+
+  .site-links a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.6rem;
+    padding: 0.55rem 0.85rem;
+    border-radius: 999px;
+    background: rgba(63, 106, 53, 0.08);
+    color: var(--accent-strong);
+    text-decoration: none;
+    font-weight: 700;
+    border: 1px solid rgba(63, 106, 53, 0.18);
+  }
+
+  .site-links a:hover,
+  .site-links a:focus-visible {
+    text-decoration: none;
+    background: rgba(63, 106, 53, 0.14);
+  }
+</style>
+<header class="site-header">
+  <a class="site-brand" href="/index.shtml" aria-label="My Native Plant home">
+    <img class="site-logo" src="/logo.png" alt="">
+    <span class="site-brand-copy">
+      <span class="site-brand-kicker">Australian native plant repository</span>
+      <span class="site-brand-name">My Native Plant</span>
+    </span>
+  </a>
+  <nav class="site-links" aria-label="Site links">
+    <a href="https://github.com/mynativeplant/Australia" rel="noopener noreferrer">GitHub repository</a>
+    <a href="/openapi.json" rel="noopener noreferrer">API docs</a>
+    <a href="https://www.facebook.com/groups/mynativeplant/" rel="noopener noreferrer">Facebook group</a>
+  </nav>
+</header>

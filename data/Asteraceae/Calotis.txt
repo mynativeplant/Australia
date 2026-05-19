@@ -1,0 +1,28 @@
+Calotis.ancyrocarpa{anchor burr-daisy}
+Calotis.anthemoides
+Calotis.breviradiata
+Calotis.breviseta
+Calotis.cuneata{blue burr daisy}
+Calotis.cuneifolia{Bur Daisy}
+Calotis.cymbacantha
+Calotis.dentex{White Bur-daisy}
+Calotis.erinacea{tangled bur daisy}
+Calotis.glabrescens
+Calotis.glandulosa
+Calotis.hispidula{Hairy Bur-daisy}
+Calotis.inermis
+Calotis.kempei
+Calotis.lappulacea{Yellow Bur-daisy}
+Calotis.latiuscula
+Calotis.moorei
+Calotis.multicaulis{many-stemmed burr-daisy}
+Calotis.plumulifera{Woolly-headed Burr-Daisy}
+Calotis.porphyroglossa{Channel Burr-Daisy}
+Calotis.pubescens{burr-daisy}
+Calotis.scabiosifolia{Rough Burr-daisy}
+Calotis.scapigera
+Calotis.squamigera
+Calotis.suffruticosa
+Calotis.xanthosioidea
+Calotis.scabiosifolia:var.integrifolia
+Calotis.scabiosifolia:var.scabiosifolia

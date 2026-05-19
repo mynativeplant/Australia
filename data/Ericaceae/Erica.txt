@@ -1,0 +1,6 @@
+Erica.afra
+Erica.arborea{Tree Heath}
+Erica.baccans{Berry Heath}
+Erica.holosericea{Silky Heath}
+Erica.lusitanica
+Erica.scoparia{besom heath}

@@ -1,0 +1,25 @@
+Glochidion.apodogynum
+Glochidion.barronense
+Glochidion.benthamianum
+Glochidion.disparipes
+Glochidion.ferdinandi
+Glochidion.harveyanum{Buttonwood}
+Glochidion.hylandii
+Glochidion.lanceilimbum
+Glochidion.lobocarpum
+Glochidion.philippicum{Buttonwood}
+Glochidion.pruinosum
+Glochidion.pungens
+Glochidion.sessiliflorum
+Glochidion.thesioides
+Glochidion.xerocarpum
+Glochidion.zeylanicum{Umbrella Cheese Tree}
+Glochidion.ferdinandi:var.ferdinandi
+Glochidion.ferdinandi:var.pubens
+Glochidion.harveyanum:var.harveyanum
+Glochidion.harveyanum:var.pubescens
+Glochidion.perakense
+Glochidion.sessiliflorum:var.pedicellatum
+Glochidion.sessiliflorum:var.sessiliflorum
+Glochidion.sessiliflorum:var.stylosum
+Glochidion.sumatranum

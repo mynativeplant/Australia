@@ -1,0 +1,10 @@
+Limonium.australe{Yellow sea-lavender}
+Limonium.binervosum{Rock Sea-Lavender}
+Limonium.companyonis{Sicilian sea lavender}
+Limonium.lobatum{winged sea-lavender}
+Limonium.myrianthum
+Limonium.otolepis{Top-flowered Sea-lavender}
+Limonium.sinuatum{Statice}
+Limonium.solanderi
+Limonium.australe:var.australe
+Limonium.australe:var.baudinii

@@ -1,0 +1,14 @@
+Cucumis.anguria{Chicken Cucumber}
+Cucumis.argenteus
+Cucumis.costatus
+Cucumis.dipsaceus{hedgehog cucumber}
+Cucumis.maderaspatanus{Madras Pea Pumpkin}
+Cucumis.melo{ulcardo melon}
+Cucumis.metuliferus{African horned melon}
+Cucumis.myriocarpus{gooseberry cucumber}
+Cucumis.picrocarpus
+Cucumis.queenslandicus
+Cucumis.umbellatus
+Cucumis.variabilis
+Cucumis.althaeoides
+Cucumis.et

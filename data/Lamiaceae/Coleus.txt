@@ -1,0 +1,58 @@
+Coleus.acariformis
+Coleus.actites
+Coleus.alloplectus{Narrow-leaved coleus}
+Coleus.altanmouiensis
+Coleus.amicorum
+Coleus.amiculatus
+Coleus.amoenus
+Coleus.apreptus
+Coleus.apricus
+Coleus.arenicola
+Coleus.argentatus{Silver spurflower}
+Coleus.australis{Cockspur flower}
+Coleus.batianoffii
+Coleus.bellus{Mount Carbine Hullwort}
+Coleus.bipartitus
+Coleus.blakei{Blackdown hullwort}
+Coleus.caldericola
+Coleus.congestus
+Coleus.cremnus
+Coleus.cyanophyllus
+Coleus.diversus
+Coleus.dumicola
+Coleus.eungellaensis
+Coleus.excelsus
+Coleus.fasciculatus
+Coleus.foetidus
+Coleus.fragrantissimus
+Coleus.geminatus
+Coleus.glabriflorus
+Coleus.gratus
+Coleus.graveolens{Native Coleus}
+Coleus.habrophyllus
+Coleus.insularis{Millmerran Mint Bush}
+Coleus.intraterraneus
+Coleus.laetus
+Coleus.laxus
+Coleus.leiperi
+Coleus.livingstonei{Large Hedgehog-Flower}
+Coleus.magnificus
+Coleus.megadontus
+Coleus.minutus
+Coleus.mirus
+Coleus.nitidus{Nightcap Hullwort}
+Coleus.omissus
+Coleus.pulchellus
+Coleus.scutellarioides{painted-nettle}
+Coleus.splendens
+Coleus.suaveolens
+Coleus.thalassoscopicus
+Coleus.torrenticola
+Coleus.ventosus
+Coleus.venustus
+Coleus.wallamanensis
+Coleus[alloplectus|graveolens]
+Coleus[apreptus|foetidus]
+Coleus[argentatus|graveolens]
+Coleus[australis|graveolens]
+Coleus[graveolens|suaveolens]

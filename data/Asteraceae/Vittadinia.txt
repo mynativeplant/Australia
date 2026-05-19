@@ -1,0 +1,47 @@
+Vittadinia.australasica
+Vittadinia.blackii{Narrow-leaf New Holland Daisy}
+Vittadinia.burbidgeae
+Vittadinia.cervicularis
+Vittadinia.condyloides
+Vittadinia.constricta
+Vittadinia.cuneata{Purple Fuzzweed}
+Vittadinia.decora
+Vittadinia.dentata
+Vittadinia.dissecta{Dissected New Holland Daisy}
+Vittadinia.eremaea{Dissected New Holland Daisy}
+Vittadinia.gracilis{Purple Fuzzweed}
+Vittadinia.humerata
+Vittadinia.megacephala{Giant-headed New Holland Daisy}
+Vittadinia.muelleri{Narrow-leaf New Holland Daisy}
+Vittadinia.nullarborensis
+Vittadinia.pterochaeta
+Vittadinia.pustulata
+Vittadinia.sulcata{native daisy}
+Vittadinia.tenuissima
+Vittadinia.triloba{Fuzzweed}
+Vittadinia.arida
+Vittadinia.australasica:var.australasica
+Vittadinia.australasica:var.oricola
+Vittadinia.australasica:var.subglabra
+Vittadinia.bicolor
+Vittadinia.cervicularis:var.cervicularis
+Vittadinia.cervicularis:var.occidentalis
+Vittadinia.cervicularis:var.oldfieldii
+Vittadinia.cervicularis:var.subcervicularis
+Vittadinia.cuneata:var.cuneata
+Vittadinia.cuneata:var.hirsuta
+Vittadinia.cuneata:var.morrisii
+Vittadinia.cuneata:var.murrayensis
+Vittadinia.diffusa
+Vittadinia.dissecta:var.dissecta
+Vittadinia.dissecta:var.hirta
+Vittadinia.hispidula
+Vittadinia.hispidula:var.hispidula
+Vittadinia.hispidula:var.setosa
+Vittadinia.obovata
+Vittadinia.scabra
+Vittadinia.sericea
+Vittadinia.spechtii
+Vittadinia.spechtii:var.kimberleyensis
+Vittadinia.spechtii:var.spechtii
+Vittadinia.virgata

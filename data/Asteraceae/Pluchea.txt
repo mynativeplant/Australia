@@ -1,0 +1,15 @@
+Pluchea.alata
+Pluchea.baccharoides
+Pluchea.dentex
+Pluchea.dunlopii
+Pluchea.ferdinandi-muelleri
+Pluchea.indica
+Pluchea.longiseta
+Pluchea.macdonnellensis
+Pluchea.mesotes
+Pluchea.punctata
+Pluchea.rubelliflora
+Pluchea.tenuis
+Pluchea.tetranthera
+Pluchea.xanthina
+Pluchea.dioscoridis

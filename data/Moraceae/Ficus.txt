@@ -1,0 +1,66 @@
+Ficus.adenosperma
+Ficus.albipila{Abbey Fig}
+Ficus.atricha
+Ficus.baileyana
+Ficus.benghalensis{Bengal banyan}
+Ficus.benjamina{Ficus}
+Ficus.brachypoda
+Ficus.carica{İncir}
+Ficus.carpentariensis
+Ficus.cerasicarpa
+Ficus.concinna{Neat Fig}
+Ficus.congesta{cluster fig}
+Ficus.copiosa{plentiful fig}
+Ficus.coronata{Creek Sandpaper Fig}
+Ficus.coronulata
+Ficus.crassipes
+Ficus.desertorum{Desert Fig}
+Ficus.destruens{strangler fig}
+Ficus.drupacea{brown-woolly fig}
+Ficus.fraseri{White Sandpaper Fig}
+Ficus.henneana{Deciduous fig}
+Ficus.hispida{hairy fig}
+Ficus.leptoclada{Atherton fig}
+Ficus.leucotricha
+Ficus.lilliputiana
+Ficus.macrophylla{Moreton Bay fig}
+Ficus.melinocarpa
+Ficus.microcarpa{Chinese Banyan}
+Ficus.mollior
+Ficus.obliqua{small-leaf fig}
+Ficus.opposita{Figwood}
+Ficus.pantoniana{Climbing fig}
+Ficus.platypoda{rock fig}
+Ficus.pleurocarpa{Banana Fig}
+Ficus.podocarpifolia
+Ficus.pumila{Creeping Fig}
+Ficus.racemifera
+Ficus.racemosa{cluster fig}
+Ficus.rubiginosa{Little Leaf Fig}
+Ficus.scobina
+Ficus.septica{septic fig}
+Ficus.subpuberula
+Ficus.subulata
+Ficus.tinctoria
+Ficus.triradiata
+Ficus.variegata{common red-stem fig}
+Ficus.virens{mountain fig}
+Ficus.virgata
+Ficus.watkinsiana{Watkins fig}
+Ficus.aculeata
+Ficus.aculeata:var.aculeata
+Ficus.aculeata:var.indecora
+Ficus.congesta:var.congesta
+Ficus.lilliputiana:form.lilliputiana
+Ficus.lilliputiana:form.pilosa
+Ficus.macrophylla:form.columnaris
+Ficus.macrophylla:form.macrophylla
+Ficus.nodosa
+Ficus.rubiginosa:form.glabrescens
+Ficus.rubiginosa:form.rubiginosa
+Ficus.saxophila
+Ficus.saxophila:subsp.saxophila
+Ficus.subnervosa
+Ficus.tinctoria:subsp.tinctoria
+Ficus.virens:var.dasycarpa
+Ficus.virens:var.virens

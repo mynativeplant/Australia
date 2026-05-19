@@ -1,0 +1,15 @@
+Hoya.anulata
+Hoya.australis{Wax vine}
+Hoya.macgillivrayi
+Hoya.nicholsoniae
+Hoya.revoluta
+Hoya.serpens
+Hoya.sussuela
+Hoya.aldrichii
+Hoya.australis:subsp.australis
+Hoya.australis:subsp.oramicola
+Hoya.australis:subsp.rupicola
+Hoya.australis:subsp.sanae
+Hoya.australis:subsp.tenuipes
+Hoya.inconspicua
+Hoya.pottsii

@@ -1,0 +1,13 @@
+Diploglottis.alaticarpa
+Diploglottis.australis{Australian tamarind}
+Diploglottis.berniana
+Diploglottis.bracteata{Boonjee Tamarind}
+Diploglottis.campbelli{Small-leaved Tamarind}
+Diploglottis.diphyllostegia{Native Tamarind}
+Diploglottis.harpullioides{Babinda tamarind}
+Diploglottis.macrantha{Cape tamarind}
+Diploglottis.obovata{Blunt-leaved Tamarind}
+Diploglottis.pedleyi{Pedley's tamarind}
+Diploglottis.smithii{Smith's tamarind}
+Diploglottis.bernieana
+Diploglottis.campbellii{Small Leaf Tamarind}

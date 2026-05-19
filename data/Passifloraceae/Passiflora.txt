@@ -1,0 +1,20 @@
+Passiflora.aurantia{Norfolk Island passionfruit}
+Passiflora.caerulea{Blue Passionflower}
+Passiflora.cinnabarina{red passionflower}
+Passiflora.edulis{Passion Fruit}
+Passiflora.filamentosa
+Passiflora.foetida{Killip}
+Passiflora.herbertiana
+Passiflora.kuranda
+Passiflora.maliformis{conch-apple}
+Passiflora.morifolia{Blue sweet calabash}
+Passiflora.pallida
+Passiflora.quadrangularis{Granadilla}
+Passiflora.suberosa
+Passiflora.subpeltata{white passionflower}
+Passiflora.tripartita{banana passionflower}
+Passiflora.aurantia:var.aurantia
+Passiflora.aurantia:var.pubescens
+Passiflora.aurantioides
+Passiflora.herbertiana:subsp.herbertiana
+Passiflora.herbertiana:subsp.insulae-howei

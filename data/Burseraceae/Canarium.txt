@@ -1,0 +1,10 @@
+Canarium.australasicum{Brown Cudgerie}
+Canarium.australianum{island white-beech}
+Canarium.muelleri{Elemi-tree}
+Canarium.vitiense{canarium}
+Canarium.acutifolium
+Canarium.acutifolium:var.acutifolium
+Canarium.australianum:var.australianum
+Canarium.australianum:var.glabrum
+Canarium.australianum:var.velutinum
+Canarium.indicum

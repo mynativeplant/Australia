@@ -1,0 +1,3 @@
+Stachys.arvensis{field hedge-nettle}
+Stachys.byzantina{lamb's-ears}
+Stachys.palustris{marsh betony}

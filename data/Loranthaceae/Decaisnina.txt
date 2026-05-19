@@ -1,0 +1,12 @@
+Decaisnina.angustata
+Decaisnina.biangulata
+Decaisnina.brittenii
+Decaisnina.congesta
+Decaisnina.hollrungii
+Decaisnina.petiolata
+Decaisnina.signata
+Decaisnina.brittenii:subsp.brittenii
+Decaisnina.brittenii:subsp.speciosa
+Decaisnina.signata:subsp.cardiophylla
+Decaisnina.signata:subsp.signata
+Decaisnina.triflora

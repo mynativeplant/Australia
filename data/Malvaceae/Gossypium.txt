@@ -1,0 +1,22 @@
+Gossypium.anapoides
+Gossypium.barbadense{American Pima cotton}
+Gossypium.bickii
+Gossypium.costulatum
+Gossypium.cunninghamii
+Gossypium.enthyle
+Gossypium.exiguum
+Gossypium.hirsutum{american-cotton}
+Gossypium.londonderriense
+Gossypium.marchantii
+Gossypium.nelsonii
+Gossypium.nobile
+Gossypium.pilosum
+Gossypium.populifolium
+Gossypium.pulchellum
+Gossypium.robinsonii
+Gossypium.rotundifolium
+Gossypium.sturtianum{Sturt's desert-rose}
+Gossypium.australe
+Gossypium.sturtianum:var.nandewarense
+Gossypium.sturtianum:var.sturtianum
+Gossypium[australe|sturtianum]

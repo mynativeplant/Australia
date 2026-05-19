@@ -1,0 +1,29 @@
+Teucrium.albicaule
+Teucrium.argutum{Native Germander}
+Teucrium.betchei
+Teucrium.corymbosum{forest germander}
+Teucrium.daucoides{fern-leaved germander}
+Teucrium.diabolicum{Devil’s Germander}
+Teucrium.disjunctum
+Teucrium.eremaeum
+Teucrium.fallax
+Teucrium.fililobum
+Teucrium.grandiusculum
+Teucrium.integrifolium
+Teucrium.irroratum
+Teucrium.junceum{square-stemmed broom}
+Teucrium.micranthum
+Teucrium.modestum
+Teucrium.myriocladum
+Teucrium.pilbaranum
+Teucrium.puberulum
+Teucrium.racemosum{Grey Germander}
+Teucrium.reidii{rock germander}
+Teucrium.sagittatum
+Teucrium.sessiliflorum{Camel Bush}
+Teucrium.teucriiflorum
+Teucrium.thieleanum
+Teucrium.fililobum:subsp.glandular
+Teucrium.grandiusculum:subsp.grandiusculum
+Teucrium.grandiusculum:subsp.pilosum
+Teucrium.of

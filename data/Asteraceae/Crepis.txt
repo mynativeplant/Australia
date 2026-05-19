@@ -1,0 +1,6 @@
+Crepis.capillaris{smooth hawksbeard}
+Crepis.foetida
+Crepis.nicaeensis{French hawksbeard}
+Crepis.pusilla
+Crepis.setosa{bristly hawksbeard}
+Crepis.vesicaria{beaked hawk's-beard}

@@ -1,0 +1,6 @@
+Toechima.daemelianum{Cape Tamarind}
+Toechima.dasyrrhache{Blunt-leaved Steelwood}
+Toechima.erythrocarpum
+Toechima.monticola
+Toechima.pterocarpum
+Toechima.tenax{brush teak}

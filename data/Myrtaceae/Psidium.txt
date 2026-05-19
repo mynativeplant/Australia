@@ -1,0 +1,3 @@
+Psidium.cattleianum{cherry guava}
+Psidium.guajava{Guava Tree}
+Psidium.guineense{Brazilian Guava}

@@ -1,0 +1,7 @@
+Owenia.acidula{emu-apple}
+Owenia.cepiodora{bog onion}
+Owenia.reliqua
+Owenia.reticulata{desert nut}
+Owenia.venosa{crow's-apple}
+Owenia.vernicosa
+Owenia[owenia|reliqua]

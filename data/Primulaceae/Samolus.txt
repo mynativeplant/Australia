@@ -1,0 +1,6 @@
+Samolus.caespitosus
+Samolus.eremaeus
+Samolus.intricatus
+Samolus.junceus
+Samolus.repens{Creeping Brookweed}
+Samolus.valerandi{Brookweed}

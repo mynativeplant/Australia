@@ -1,0 +1,21 @@
+Clerodendrum.costatum
+Clerodendrum.floribundum{Lolly Bush}
+Clerodendrum.grayi
+Clerodendrum.infortunatum
+Clerodendrum.longiflorum
+Clerodendrum.tomentosum{downy chancetree}
+Clerodendrum.tracyanum
+Clerodendrum.umbellatum
+Clerodendrum.floribundum:var.angustifolium
+Clerodendrum.floribundum:var.attenuatum
+Clerodendrum.floribundum:var.coriaceum
+Clerodendrum.floribundum:var.floribundum
+Clerodendrum.floribundum:var.ovatum
+Clerodendrum.indicum
+Clerodendrum.inerme
+Clerodendrum.longiflorum:var.glabrum
+Clerodendrum.parvulum
+Clerodendrum.tatei
+Clerodendrum.tomentosum:var.lanceolatum
+Clerodendrum.tomentosum:var.mollissima
+Clerodendrum.tomentosum:var.tomentosum

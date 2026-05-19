@@ -1,0 +1,9 @@
+Asteridea.archeri
+Asteridea.asteroides
+Asteridea.athrixioides{Wirewort}
+Asteridea.chaetopoda
+Asteridea.croniniana
+Asteridea.gracilis
+Asteridea.morawana
+Asteridea.nivea
+Asteridea.pulverulenta

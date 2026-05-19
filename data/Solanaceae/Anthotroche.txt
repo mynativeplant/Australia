@@ -1,0 +1,3 @@
+Anthotroche.myoporoides{myoporum-like anthotroche}
+Anthotroche.pannosa{felted anthotroche}
+Anthotroche.walcottii

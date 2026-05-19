@@ -1,0 +1,35 @@
+Rubus.alceifolius{giant bramble}
+Rubus.allegheniensis
+Rubus.cissburiensis{Abundant-fruited Bramble}
+Rubus.ellipticus{Asian Wild Raspberry}
+Rubus.fraxinifolius
+Rubus.gunnianus{mountain raspberry}
+Rubus.hillii
+Rubus.idaeus{European red raspberry}
+Rubus.koehleri
+Rubus.laciniatus{Italian blackberry}
+Rubus.loganobaccus{Loganberry}
+Rubus.moluccanus{wild raspberry}
+Rubus.moorei
+Rubus.nebulosus{Green-leaved Bramble}
+Rubus.nemoralis
+Rubus.parvifolius{Japanese raspberry}
+Rubus.phoenicolasius{Japanese wineberry}
+Rubus.polyanthemus{Elegant-petalled Bramble}
+Rubus.probus{Atherton Raspberry}
+Rubus.queenslandicus{Bramble-of-the-cape}
+Rubus.radula
+Rubus.roribaccus{Velvet-leaf Dewberry}
+Rubus.rosaceus
+Rubus.rosifolius{Raspberry}
+Rubus.ulmifolius{elm-leaved blackberry}
+Rubus.umbrosus
+Rubus.ursinus{California dewberry}
+Rubus.velox
+Rubus.vestitus{European blackberry}
+Rubus.moluccanus:var.moluccanus
+Rubus.moluccanus:var.trilobus
+Rubus.niveus
+Rubus.rosifolius:var.commersonii
+Rubus.rosifolius:var.rosifolius
+Rubus[rubus|novus]

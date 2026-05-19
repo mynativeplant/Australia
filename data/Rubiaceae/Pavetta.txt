@@ -1,0 +1,15 @@
+Pavetta.australiensis{Pavetta}
+Pavetta.brownii
+Pavetta.conferta
+Pavetta.granitica
+Pavetta.kimberleyana
+Pavetta.muelleri
+Pavetta.rupicola
+Pavetta.speciosa
+Pavetta.tenella
+Pavetta.vaga
+Pavetta.australiensis:var.australiensis
+Pavetta.australiensis:var.pubigera
+Pavetta.brownii:var.brownii
+Pavetta.brownii:var.glabrata
+Pavetta.platyclada

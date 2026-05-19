@@ -1,0 +1,6 @@
+Distimake.aegyptius{Egyptian woodrose}
+Distimake.davenportii
+Distimake.dissectus{noon-flower}
+Distimake.kimberleyensis
+Distimake.quinatus
+Distimake.quinquefolius{mile-a-minute}

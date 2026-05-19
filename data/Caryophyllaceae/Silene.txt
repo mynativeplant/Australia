@@ -1,0 +1,13 @@
+Silene.apetala
+Silene.chalcedonica{London pride}
+Silene.conica{Sand Catchfly}
+Silene.coronaria{dusty miller}
+Silene.dichotoma{branching campion}
+Silene.dioica{red campion}
+Silene.gallica{English catchfly}
+Silene.gracilis
+Silene.latifolia{evening lychnis}
+Silene.noctiflora{night-flowering campion}
+Silene.nocturna{Mediterranean Catchfly}
+Silene.schafta{Caucasian Campion}
+Silene.vulgaris

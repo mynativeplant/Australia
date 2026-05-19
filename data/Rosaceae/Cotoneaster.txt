@@ -1,0 +1,7 @@
+Cotoneaster.franchetii{Franchet's cotoneaster}
+Cotoneaster.glaucophyllus{Glaucous Cotoneaster}
+Cotoneaster.horizontalis{herringbone cotoneaster}
+Cotoneaster.microphyllus{Small-Leaved Cotoneaster}
+Cotoneaster.pannosus{Silver-Leaf Cotoneaster}
+Cotoneaster.rotundifolius{Round-Leaved Cotoneaster}
+Cotoneaster.symondsii

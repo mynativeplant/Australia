@@ -1,0 +1,18 @@
+Vigna.mungo{black gram}
+Vigna.reflexopilosa
+Vigna.adenantha
+Vigna.lanceolata
+Vigna.lanceolata:var.filiformis
+Vigna.lanceolata:var.lanceolata
+Vigna.lanceolata:var.latifolia
+Vigna.luteola
+Vigna.marina
+Vigna.northern
+Vigna.radiata
+Vigna.radiata:var.sublobata
+Vigna.suberecta
+Vigna.triodiophila
+Vigna.vexillata
+Vigna.vexillata:var.angustifolia
+Vigna.vexillata:var.vexillata
+Vigna.vexillata:var.youngiana

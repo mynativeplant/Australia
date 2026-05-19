@@ -1,0 +1,91 @@
+Atriplex.acutibractea{Pointed Saltbush}
+Atriplex.acutiloba
+Atriplex.alces
+Atriplex.amnicola
+Atriplex.angulata{angular saltbush}
+Atriplex.australasica{Australian Orache}
+Atriplex.billardierei
+Atriplex.bunburyana{silver saltbush}
+Atriplex.cinerea{coast saltbush}
+Atriplex.codonocarpa{Flat-topped saltbush}
+Atriplex.cordifolia
+Atriplex.cornigera
+Atriplex.crassipes
+Atriplex.cryptocarpa
+Atriplex.eardleyae{Bell Saltbush}
+Atriplex.eichleri
+Atriplex.elachophylla
+Atriplex.eremitis
+Atriplex.exilifolia
+Atriplex.fissivalvis{gibber saltbush}
+Atriplex.flabelliformis
+Atriplex.holocarpa
+Atriplex.hortensis{French spinach}
+Atriplex.humifusa
+Atriplex.humilis
+Atriplex.hymenotheca
+Atriplex.hypoleuca
+Atriplex.incrassata{Oodnadatta Saltbush}
+Atriplex.infrequens
+Atriplex.intermedia
+Atriplex.isatidea
+Atriplex.kochiana
+Atriplex.leptocarpa{long-fruit saltbush}
+Atriplex.limbata{Spreading Saltbush}
+Atriplex.lindleyi{sponge-fruit saltbush}
+Atriplex.lobativalvis
+Atriplex.macropterocarpa
+Atriplex.morrisii
+Atriplex.muelleri{Annual Saltbush}
+Atriplex.nana
+Atriplex.nessorhina{Donald Duck Saltbush}
+Atriplex.nummularia{Alston's Saltbush}
+Atriplex.obconica
+Atriplex.paludosa
+Atriplex.papillata
+Atriplex.patula
+Atriplex.pseudocampanulata{mealy saltbush}
+Atriplex.pumilio
+Atriplex.quadrivalvata
+Atriplex.quinii
+Atriplex.rhagodioides{river saltbush}
+Atriplex.semibaccata{Australian saltbush}
+Atriplex.semilunaris
+Atriplex.spinibractea{Spiny-fruit Saltbush}
+Atriplex.spinulosa
+Atriplex.spongiosa{Pop Saltbush}
+Atriplex.stipitata
+Atriplex.sturtii
+Atriplex.suberecta{Australian Orache}
+Atriplex.turbinata
+Atriplex.velutinella
+Atriplex.vesicaria
+Atriplex.yeelirrie
+Atriplex.acutibractea:subsp.acutibractea
+Atriplex.acutibractea:subsp.karoniensis
+Atriplex.cephalantha
+Atriplex.crassipes:var.appendiculata
+Atriplex.crassipes:var.crassipes
+Atriplex.lindleyi:subsp.conduplicata
+Atriplex.lindleyi:subsp.inflata
+Atriplex.lindleyi:subsp.lindleyi
+Atriplex.lindleyi:subsp.quadripartita
+Atriplex.nummularia:subsp.nummularia
+Atriplex.nummularia:subsp.omissa
+Atriplex.nummularia:subsp.spathulata
+Atriplex.paludosa:subsp.baudinii
+Atriplex.paludosa:subsp.cordata
+Atriplex.paludosa:subsp.moquiniana
+Atriplex.paludosa:subsp.paludosa
+Atriplex.quadrivalvata:var.quadrivalvata
+Atriplex.quadrivalvata:var.sessilifolia
+Atriplex.stipitata:subsp.miscella
+Atriplex.stipitata:subsp.stipitata
+Atriplex.vesicaria:subsp.appendiculata
+Atriplex.vesicaria:subsp.calcicola
+Atriplex.vesicaria:subsp.incompta
+Atriplex.vesicaria:subsp.macrocystidia
+Atriplex.vesicaria:subsp.minor
+Atriplex.vesicaria:subsp.sphaerocarpa
+Atriplex.vesicaria:subsp.variabilis
+Atriplex.vesicaria:subsp.vesicaria

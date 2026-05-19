@@ -1,0 +1,11 @@
+Pelargonium.australe{Austral Stork's-bill}
+Pelargonium.capitatum{Coast Storksbill}
+Pelargonium.domesticum{Lady Washington geranium}
+Pelargonium.drummondii
+Pelargonium.fragrans
+Pelargonium.havlasae
+Pelargonium.helmsii
+Pelargonium.inodorum{Kopata Geranium}
+Pelargonium.littorale{Kopata Storksbill}
+Pelargonium.quercifolium{oak-leaf pelargonium}
+Pelargonium.rodneyanum{magenta stork's-bill}

@@ -1,0 +1,3 @@
+Sicyos.australis{angle-cucumber}
+Sicyos.edulis{Choko}
+Sicyos.undara

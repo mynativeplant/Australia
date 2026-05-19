@@ -1,0 +1,8 @@
+Guioa.acutifolia{glossy-tamarind}
+Guioa.lasioneura
+Guioa.montana
+Guioa.pteropoda
+Guioa.sarcopterifructa
+Guioa.semiglauca{Guioa}
+Guioa.comesperma
+Guioa.coriacea

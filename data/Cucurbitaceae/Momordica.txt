@@ -1,0 +1,4 @@
+Momordica.balsamina{balsam-apple}
+Momordica.charantia{bitter melon}
+Momordica.cochinchinensis{Chinese bitter-cucumber}
+Momordica.sphaeroidea

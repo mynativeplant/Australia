@@ -1,0 +1,10 @@
+Gymnema.erectum
+Gymnema.geminatum
+Gymnema.graniticola
+Gymnema.longipedicellatum
+Gymnema.muelleri
+Gymnema.pleiadenium{downy milk vine}
+Gymnema.stramineum
+Gymnema.tricholepis
+Gymnema.trinerve
+Gymnema.suborbiculare

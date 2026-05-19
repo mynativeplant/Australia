@@ -1,0 +1,2 @@
+Dianthus.armeria{Deptford pink}
+Dianthus.barbatus{bearded pink}

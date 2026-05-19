@@ -1,0 +1,21 @@
+Nymphoides.astoniae
+Nymphoides.aurantiaca
+Nymphoides.beaglensis
+Nymphoides.crenata{wavy marshwort}
+Nymphoides.disperma
+Nymphoides.elliptica
+Nymphoides.exiliflora
+Nymphoides.furculifolia
+Nymphoides.geminata{entire marshwort}
+Nymphoides.indica{Water-snowflake}
+Nymphoides.minima
+Nymphoides.montana
+Nymphoides.parvifolia
+Nymphoides.planosperma
+Nymphoides.quadriloba
+Nymphoides.simulans
+Nymphoides.spinulosperma
+Nymphoides.spongiosa
+Nymphoides.subacuta
+Nymphoides.triangularis
+Nymphoides.walshiae

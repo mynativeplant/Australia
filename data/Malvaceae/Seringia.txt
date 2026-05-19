@@ -1,0 +1,22 @@
+Seringia.adenogyna
+Seringia.adenolasia
+Seringia.arborescens{lofty fire-bush}
+Seringia.cacaobrunnea{Chocolate Fire-Bush}
+Seringia.collina{Hillside Fire-bush}
+Seringia.corollata{Inland Velvet-flower}
+Seringia.denticulata
+Seringia.elliptica
+Seringia.exastia{Fringed Fire-Bush}
+Seringia.hermannifolia
+Seringia.hillii{mountain fire-bush}
+Seringia.hookeriana{glandular fire-bush}
+Seringia.impressa
+Seringia.integrifolia
+Seringia.katatona
+Seringia.nephrosperma
+Seringia.saxatilis
+Seringia.undulata
+Seringia.velutina
+Seringia.hermanniifolia
+Seringia.lanceolata
+Seringia[seringia|katatona]

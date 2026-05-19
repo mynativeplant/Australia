@@ -1,0 +1,18 @@
+Notelaea.ipsviciensis{Cooneana Olive}
+Notelaea.johnsonii{veinless mock-olive}
+Notelaea.ligustrina{Privet Mock Olive}
+Notelaea.linearis
+Notelaea.lloydii{lloyd's olive}
+Notelaea.longifolia{axbreaker}
+Notelaea.microcarpa{gorge mock olive}
+Notelaea.neglecta
+Notelaea.ovata{forest olive}
+Notelaea.punctata{large mock-olive}
+Notelaea.pungens
+Notelaea.venosa{Large Mock-olive}
+Notelaea.longifolia:form.glabra
+Notelaea.longifolia:form.intermedia
+Notelaea.longifolia:form.longifolia
+Notelaea.microcarpa:var.microcarpa
+Notelaea.microcarpa:var.velutina
+Notelaea[microcarpa|ovata]

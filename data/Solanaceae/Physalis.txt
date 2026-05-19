@@ -1,0 +1,7 @@
+Physalis.angulata{cut-leaved ground-cherry}
+Physalis.lagascae
+Physalis.peruviana{Peruvian ground-cherry}
+Physalis.philadelphica
+Physalis.pubescens{downy ground-cherry}
+Physalis.virginiana{Virginia ground-cherry}
+Physalis.viscosa{Stellate Ground-cherry}

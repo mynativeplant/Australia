@@ -1,0 +1,18 @@
+Jasminum.calcareum{Poison Creeper}
+Jasminum.dallachyi
+Jasminum.didymum
+Jasminum.elongatum{common Malayan jasmine}
+Jasminum.jenniae{Beechmont jasmine}
+Jasminum.kajewskii
+Jasminum.molle
+Jasminum.simplicifolium{stiff jasmine}
+Jasminum.turneri
+Jasminum.dallachii
+Jasminum.didymum:subsp.didymum
+Jasminum.didymum:subsp.lineare
+Jasminum.didymum:subsp.racemosum
+Jasminum.longipetalum
+Jasminum.simplicifolium:subsp.australiense
+Jasminum.singuliflorum
+Jasminum.suavissimum
+Jasminum[simplicifolium:subsp.australiense|suavissimum]

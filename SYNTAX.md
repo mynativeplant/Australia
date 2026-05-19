@@ -46,6 +46,14 @@ When the genus is known but parentage is unknown, use empty square brackets:
 Genus[](Cultivar Name){Common Name}
 ```
 
+When one hybrid parent is known but the other is not, use `?` for the unknown parent:
+
+```text
+Genus[KnownParent|?](Cultivar Name){Common Name}
+```
+
+If both parents are unknown, `Genus[?](Cultivar Name){Common Name}` is permitted and is treated the same as `Genus[](Cultivar Name){Common Name}`.
+
 ## Taxon expression forms
 
 The syntax supports three taxon expression types:
@@ -249,6 +257,10 @@ If the cultivar has no known parentage, keep the genus and use empty square brac
 Banksia[](Birthday Candles)
 ```
 
+The empty bracket form is only valid when it is followed by a cultivar name or common name. A bare `Banksia[]` record should still be rejected.
+
+Cultivar parentage must not resolve back to the cultivar itself. A record such as `Grevillea[...](Moonlight)` that includes `Moonlight` as one of its own parents is rejected during linking to prevent self-referential child trees in the serialized output.
+
 Human-readable renderings:
 
 ```text
@@ -386,6 +398,12 @@ Hybrid with a cultivar-bearing parent:
 Grevillea[rosmarinifolia|(Example Cultivar)]
 ```
 
+Hybrid with an unknown parent:
+
+```text
+Grevillea[victoriae|?](Border Red)
+```
+
 ## Informal grammar
 
 ```text
@@ -411,6 +429,7 @@ ParentExpression
   | InfraspecificParentExpression
   | NestedHybridExpression
   | CultivarParentExpression
+  | "?"
 
 InfraspecificParentExpression
   = SpeciesEpithet ":" Rank "." InfraspecificEpithet
@@ -523,7 +542,7 @@ Reject or flag expressions with:
 
 1. Empty genus.
 2. Empty species epithet.
-3. Empty hybrid parent.
+3. Empty hybrid parent in a bare `Genus[]` expression.
 4. Unbalanced square brackets.
 5. Unbalanced round brackets.
 6. Unbalanced curly braces.

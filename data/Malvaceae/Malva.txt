@@ -1,0 +1,13 @@
+Malva.arborea{Tree Mallow}
+Malva.assurgentiflora
+Malva.durieui
+Malva.moschata{musk mallow}
+Malva.multiflora{Cretan-hollyhock}
+Malva.neglecta{cheeses}
+Malva.nicaeensis{French Mallow}
+Malva.parviflora{alkali mallow}
+Malva.sylvestris{high mallow}
+Malva.trimestris
+Malva.weinmanniana{Australian Hollyhock}
+Malva.preissiana
+Malva[arborea|preissiana]

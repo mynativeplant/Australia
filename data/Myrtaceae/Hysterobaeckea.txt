@@ -1,0 +1,16 @@
+Hysterobaeckea.behrii{Broom Baeckea}
+Hysterobaeckea.cornuta
+Hysterobaeckea.glandulosa
+Hysterobaeckea.graniticola
+Hysterobaeckea.longipes
+Hysterobaeckea.occlusa
+Hysterobaeckea.ochropetala
+Hysterobaeckea.petraea
+Hysterobaeckea.pterocera
+Hysterobaeckea.setifera
+Hysterobaeckea.tuberculata
+Hysterobaeckea.ochropetala:subsp.cometes
+Hysterobaeckea.ochropetala:subsp.ochropetala
+Hysterobaeckea.ochropetala:subsp.reliqua
+Hysterobaeckea.setifera:subsp.meridionalis
+Hysterobaeckea.setifera:subsp.setifera

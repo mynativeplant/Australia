@@ -1,0 +1,12 @@
+Wilkiea.angustifolia
+Wilkiea.austroqueenslandica{Smooth Wilkiea}
+Wilkiea.cordata
+Wilkiea.huegeliana
+Wilkiea.hylandii
+Wilkiea.kaarruana
+Wilkiea.longipes
+Wilkiea.macrophylla{Large-leaved Wilkiea}
+Wilkiea.pubescens{Tetra beech}
+Wilkiea.rigidifolia
+Wilkiea.smithii
+Wilkiea.hugeliana

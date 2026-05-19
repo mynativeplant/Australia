@@ -1,0 +1,28 @@
+Astartea.affinis{West-coast Astartea}
+Astartea.arbuscula{Minute Astartea}
+Astartea.aspera
+Astartea.astarteoides
+Astartea.cicatricosa
+Astartea.corniculata
+Astartea.decemcostata{Barrens Astartea}
+Astartea.eobalta
+Astartea.fascicularis{Recherche Astartea}
+Astartea.glomerulosa{Early Astartea}
+Astartea.granitica
+Astartea.laricifolia
+Astartea.leptophylla{River-bank Astartea}
+Astartea.middletonii
+Astartea.montana
+Astartea.muricata
+Astartea.onycis
+Astartea.pulchella{Winged Astartea}
+Astartea.reticulata
+Astartea.schaueri
+Astartea.scoparia{Common Astartea}
+Astartea.transversa
+Astartea.zephyra
+Astartea.aspera:subsp.aspera
+Astartea.aspera:subsp.riparia
+Astartea.southern
+Astartea[](Winter Pink){Winter Pink.}
+Astartea[arbuscula|corniculata]

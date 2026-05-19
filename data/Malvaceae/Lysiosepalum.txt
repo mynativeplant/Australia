@@ -1,0 +1,5 @@
+Lysiosepalum.abollatum
+Lysiosepalum.aromaticum
+Lysiosepalum.involucratum
+Lysiosepalum.rugosum{wrinkled-leaf lysiosepalum}
+Lysiosepalum.hexandrum

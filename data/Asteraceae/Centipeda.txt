@@ -1,0 +1,13 @@
+Centipeda.borealis
+Centipeda.crateriformis
+Centipeda.cunninghamii{Common Sneezeweed}
+Centipeda.elatinoides
+Centipeda.minima
+Centipeda.nidiformis
+Centipeda.pleiocephala
+Centipeda.racemosa
+Centipeda.thespidioides
+Centipeda.crateriformis:subsp.compacta
+Centipeda.crateriformis:subsp.crateriformis
+Centipeda.minima:subsp.macrocephala
+Centipeda.minima:subsp.minima

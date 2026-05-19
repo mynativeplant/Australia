@@ -1,0 +1,14 @@
+Muehlenbeckia.adpressa{Climbing Lignum}
+Muehlenbeckia.arnhemica
+Muehlenbeckia.axillaris{Creeping Wire Vine}
+Muehlenbeckia.costata
+Muehlenbeckia.diclina
+Muehlenbeckia.gracillima{climbing lignum}
+Muehlenbeckia.gunnii
+Muehlenbeckia.polybotrya
+Muehlenbeckia.rhyticarya
+Muehlenbeckia.triloba
+Muehlenbeckia.tuggeranong{Tuggeranong lignum}
+Muehlenbeckia.australis
+Muehlenbeckia.complexa
+Muehlenbeckia.zippelii

@@ -1,0 +1,14 @@
+Taraxacum.aristum{mountain dandelion}
+Taraxacum.bracteatum{dark-green dandelion}
+Taraxacum.cygnorum
+Taraxacum.gasparrinii
+Taraxacum.gracilens
+Taraxacum.hepaticolor
+Taraxacum.khatoonae
+Taraxacum.koksaghyz{Russian dandelion}
+Taraxacum.lambinonii
+Taraxacum.multidentatum
+Taraxacum.perincisum{Oxford dandelion}
+Taraxacum.retzii{De Retz's dandelion}
+Taraxacum.sarcidanum
+Taraxacum.subbracteatum{Dark-bracted dandelion}

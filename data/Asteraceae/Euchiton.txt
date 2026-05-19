@@ -1,0 +1,12 @@
+Euchiton.argentifolius
+Euchiton.audax
+Euchiton.delicatus
+Euchiton.gymnocephalus
+Euchiton.involucratus
+Euchiton.japonicus
+Euchiton.limosus
+Euchiton.litticola
+Euchiton.sphaericus
+Euchiton.traversii
+Euchiton.umbricola
+Euchiton.lateralis

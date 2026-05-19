@@ -1,0 +1,5 @@
+Adenostemma.macrophyllum
+Adenostemma.viscosum{dungweed}
+Adenostemma.lavenia
+Adenostemma.lavenia:var.lanceolatum
+Adenostemma.lavenia:var.lavenia

@@ -1,0 +1,5 @@
+Zanthoxylum.brachyacanthum{Satinwood}
+Zanthoxylum.nitidum{shiny-leaf prickly-ash}
+Zanthoxylum.ovalifolium{little yellowwood}
+Zanthoxylum.pinnatum
+Zanthoxylum.rhetsa{Cape yellowwood}

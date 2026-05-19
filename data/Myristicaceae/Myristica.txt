@@ -1,0 +1,7 @@
+Myristica.globosa{Queensland nutmeg}
+Myristica.insipida{Australian Nutmeg}
+Myristica.lancifolia
+Myristica.globosa:subsp.muelleri
+Myristica.insipida:var.cimicifera
+Myristica.insipida:var.insipida
+Myristica.lancifolia:subsp.australiana

@@ -1,0 +1,92 @@
+Dodonaea.adenophora
+Dodonaea.amblyophylla
+Dodonaea.amplisemina
+Dodonaea.aptera{coast hop-bush}
+Dodonaea.arnhemica
+Dodonaea.barklyana
+Dodonaea.baueri
+Dodonaea.biloba
+Dodonaea.boroniifolia
+Dodonaea.bursariifolia
+Dodonaea.caespitosa
+Dodonaea.camfieldii{Camfield's Hop Bush}
+Dodonaea.ceratocarpa{horny hop bush}
+Dodonaea.concinna
+Dodonaea.coriacea
+Dodonaea.crucifolia{cross-leaved dodonaea}
+Dodonaea.divaricata
+Dodonaea.dodecandra
+Dodonaea.ericoides
+Dodonaea.falcata
+Dodonaea.filamentosa
+Dodonaea.filifolia
+Dodonaea.filiformis
+Dodonaea.glandulosa
+Dodonaea.hackettiana
+Dodonaea.heteromorpha{maple-fruited hop-bush}
+Dodonaea.hexandra{horned hop-bush}
+Dodonaea.hirsuta
+Dodonaea.hispidula
+Dodonaea.humifusa
+Dodonaea.humilis{Dwarf Hop-bush}
+Dodonaea.inaequifolia
+Dodonaea.intricata
+Dodonaea.lanceolata{hop bush}
+Dodonaea.larraeoides
+Dodonaea.lobulata{lobe-leaf hopbush}
+Dodonaea.macrossanii
+Dodonaea.malvacea
+Dodonaea.megazyga
+Dodonaea.microzyga{brilliant hop-bush}
+Dodonaea.multijuga
+Dodonaea.oxyptera
+Dodonaea.pachyneura
+Dodonaea.peduncularis
+Dodonaea.petiolaris
+Dodonaea.physocarpa
+Dodonaea.pinifolia
+Dodonaea.pinnata
+Dodonaea.platyptera
+Dodonaea.polyandra
+Dodonaea.polyzyga
+Dodonaea.procumbens{Trailing Hop-bush}
+Dodonaea.ptarmicaefolia
+Dodonaea.rhombifolia
+Dodonaea.rigida
+Dodonaea.rupicola
+Dodonaea.scurra
+Dodonaea.serratifolia
+Dodonaea.sinuolata
+Dodonaea.stenophylla{Narrow-leaved Hop Bush}
+Dodonaea.stenozyga{desert hopbush}
+Dodonaea.subglandulifera{Peep-Hill hop bush}
+Dodonaea.tenuifolia
+Dodonaea.tepperi
+Dodonaea.triangularis{triangle-leaved hop bush}
+Dodonaea.trifida
+Dodonaea.triquetra{Common Hop Bush}
+Dodonaea.truncatialis
+Dodonaea.uncinata
+Dodonaea.vestita
+Dodonaea.viscosa{Cape Sand Olive}
+Dodonaea.hispidula:var.arida
+Dodonaea.hispidula:var.hispidula
+Dodonaea.hispidula:var.phylloptera
+Dodonaea.lanceolata:var.lanceolata
+Dodonaea.lanceolata:var.subsessilifolia
+Dodonaea.larreoides
+Dodonaea.microzyga:var.acrolobata
+Dodonaea.microzyga:var.microzyga
+Dodonaea.ptarmicifolia
+Dodonaea.sinuolata:subsp.acrodentata
+Dodonaea.sinuolata:subsp.sinuolata
+Dodonaea.truncatiales
+Dodonaea.viscosa:subsp.angustifolia
+Dodonaea.viscosa:subsp.angustissima
+Dodonaea.viscosa:subsp.burmanniana
+Dodonaea.viscosa:subsp.cuneata
+Dodonaea.viscosa:subsp.mucronata
+Dodonaea.viscosa:subsp.spatulata
+Dodonaea.viscosa:subsp.viscosa
+Dodonaea[boroniifolia|viscosa:subsp.cuneata]
+Dodonaea[procumbens|viscosa]

@@ -1,0 +1,5 @@
+Lantana.aculeata
+Lantana.camara
+Lantana.hirta
+Lantana.horrida
+Lantana.montevidensis{creeping lantana}

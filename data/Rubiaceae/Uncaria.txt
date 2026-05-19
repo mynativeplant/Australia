@@ -1,0 +1,5 @@
+Uncaria.callophylla
+Uncaria.cordata
+Uncaria.lanosa
+Uncaria.cordata:var.cordata
+Uncaria.lanosa:var.appendiculata

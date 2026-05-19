@@ -1,0 +1,166 @@
+Pimelea.aeruginosa
+Pimelea.alpina{alpine rice-flower}
+Pimelea.altior{short-leaved riceflower}
+Pimelea.amabilis
+Pimelea.ammocharis
+Pimelea.angustifolia
+Pimelea.approximans
+Pimelea.aquilonia
+Pimelea.argentea
+Pimelea.avonensis
+Pimelea.axiflora{alpine bootlace-bush}
+Pimelea.biflora
+Pimelea.brachyphylla
+Pimelea.bracteata
+Pimelea.brevifolia
+Pimelea.brevistyla
+Pimelea.calcicola
+Pimelea.chlorina
+Pimelea.ciliata
+Pimelea.ciliolaris
+Pimelea.cinerea
+Pimelea.clavata
+Pimelea.concreta
+Pimelea.confertiflora
+Pimelea.cornucopiae
+Pimelea.cracens
+Pimelea.cremnophila
+Pimelea.cruciata
+Pimelea.curviflora
+Pimelea.decora{Flinders-poppy}
+Pimelea.drummondii
+Pimelea.drupacea{cherry riceflower}
+Pimelea.elongata
+Pimelea.erecta
+Pimelea.eyrei
+Pimelea.ferruginea{Coastal Banjine}
+Pimelea.filifolia
+Pimelea.filiformis
+Pimelea.flava{Yellow Rice-flower}
+Pimelea.floribunda
+Pimelea.forrestiana
+Pimelea.fugiens
+Pimelea.gigandra
+Pimelea.gilgiana
+Pimelea.glauca{smooth riceflower}
+Pimelea.graniticola
+Pimelea.haematostachya
+Pimelea.halophila
+Pimelea.hewardiana
+Pimelea.hirsuta
+Pimelea.hispida
+Pimelea.holroydii
+Pimelea.humilis
+Pimelea.imbricata
+Pimelea.interioris
+Pimelea.lanata
+Pimelea.latifolia
+Pimelea.lehmanniana
+Pimelea.leiophylla
+Pimelea.leptospermoides
+Pimelea.leucantha
+Pimelea.ligustrina
+Pimelea.linifolia{queen of the bush}
+Pimelea.longiflora
+Pimelea.macrostegia{Kangaroo Island Riceflower}
+Pimelea.micrantha{silky rice-flower}
+Pimelea.microcephala{Mallee Rice-flower}
+Pimelea.milliganii
+Pimelea.mollis
+Pimelea.neoanglica{Poison Pimelea}
+Pimelea.neokyrea
+Pimelea.nivea{Round-leaf rice flower}
+Pimelea.octophylla{woolly riceflower}
+Pimelea.pagophila
+Pimelea.pauciflora{poison pimelea}
+Pimelea.pelinos
+Pimelea.pendens
+Pimelea.penicillaris
+Pimelea.petrophila
+Pimelea.phylicoides{heath riceflower}
+Pimelea.physodes{qualup-bell}
+Pimelea.plurinervia
+Pimelea.preissii
+Pimelea.punicea
+Pimelea.pygmaea
+Pimelea.rara
+Pimelea.rosea
+Pimelea.rupestris
+Pimelea.sanguinea
+Pimelea.sericea
+Pimelea.sericostachya
+Pimelea.serpyllifolia
+Pimelea.sessilis
+Pimelea.simplex
+Pimelea.spectabilis{Bunjong}
+Pimelea.spicata
+Pimelea.spiculigera
+Pimelea.spinescens{Spiny Rice-Flower}
+Pimelea.stricta{Gaunt Riceflower}
+Pimelea.strigosa
+Pimelea.suaveolens
+Pimelea.subvillifera
+Pimelea.sulphurea
+Pimelea.sylvestris
+Pimelea.tinctoria
+Pimelea.treyvaudii
+Pimelea.trichostachya{annual riceflower}
+Pimelea.umbratica
+Pimelea.venosa
+Pimelea.villifera
+Pimelea.williamsonii
+Pimelea.axiflora:subsp.alpina
+Pimelea.axiflora:subsp.axiflora
+Pimelea.axiflora:subsp.pubescens
+Pimelea.brevifolia:subsp.brevifolia
+Pimelea.brevifolia:subsp.modesta
+Pimelea.brevistyla:subsp.brevistyla
+Pimelea.brevistyla:subsp.minor
+Pimelea.ciliata:subsp.ciliata
+Pimelea.ciliata:subsp.longituba
+Pimelea.congesta
+Pimelea.cracens:subsp.cracens
+Pimelea.cracens:subsp.glabra
+Pimelea.curviflora:var.acuta
+Pimelea.curviflora:var.curviflora
+Pimelea.curviflora:var.divergens
+Pimelea.curviflora:var.gracilis
+Pimelea.curviflora:var.sericea
+Pimelea.curviflora:var.subglabrata
+Pimelea.flava:subsp.dichotoma
+Pimelea.flava:subsp.flava
+Pimelea.hirsuta:subsp.elliptifolia
+Pimelea.hirsuta:subsp.hirsuta
+Pimelea.imbricata:var.imbricata
+Pimelea.imbricata:var.major
+Pimelea.imbricata:var.petraea
+Pimelea.imbricata:var.piligera
+Pimelea.imbricata:var.simulans
+Pimelea.lehmanniana:subsp.lehmanniana
+Pimelea.lehmanniana:subsp.nervosa
+Pimelea.leptospermoides:subsp.bowmanni
+Pimelea.leptospermoides:subsp.leptospermoides
+Pimelea.leptostachya
+Pimelea.ligustrina:subsp.ciliata
+Pimelea.ligustrina:subsp.hypericina
+Pimelea.ligustrina:subsp.ligustrina
+Pimelea.linifolia:subsp.caesia
+Pimelea.linifolia:subsp.collina
+Pimelea.linifolia:subsp.linifolia
+Pimelea.linifolia:subsp.linoides
+Pimelea.longiflora:subsp.longiflora
+Pimelea.microcephala:subsp.glabra
+Pimelea.microcephala:subsp.microcephala
+Pimelea.rosea:subsp.annelsii
+Pimelea.rosea:subsp.rosea
+Pimelea.serpyllifolia:subsp.occidentalis
+Pimelea.serpyllifolia:subsp.serpyllifolia
+Pimelea.simplex:subsp.continua
+Pimelea.simplex:subsp.simplex
+Pimelea.spiculigera:var.spiculigera
+Pimelea.spiculigera:var.thesioides
+Pimelea.spinescens:subsp.pubiflora
+Pimelea.spinescens:subsp.spinescens
+Pimelea.suaveolens:subsp.flava
+Pimelea.suaveolens:subsp.suaveolens
+Pimelea[](White Jewel){Rice Flower}

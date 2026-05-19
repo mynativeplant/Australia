@@ -1,0 +1,85 @@
+Sclerolaena.aellenii
+Sclerolaena.alata
+Sclerolaena.anisacanthoides{yellowbur}
+Sclerolaena.articulata
+Sclerolaena.bicornis{goatheadbur}
+Sclerolaena.bicuspis
+Sclerolaena.birchii{Galvanized Bur}
+Sclerolaena.blackiana
+Sclerolaena.blakei
+Sclerolaena.brachyptera{Short-wing Copperburr}
+Sclerolaena.brevifolia
+Sclerolaena.burbidgeae
+Sclerolaena.calcarata{red copperbur}
+Sclerolaena.caput-casuarii
+Sclerolaena.clavata
+Sclerolaena.clelandii
+Sclerolaena.constricta
+Sclerolaena.convexula
+Sclerolaena.copleyi
+Sclerolaena.cornishiana{Cartwheel Burr}
+Sclerolaena.costata
+Sclerolaena.crenata
+Sclerolaena.cristata
+Sclerolaena.cuneata{Tangled Copperburr}
+Sclerolaena.decurrens
+Sclerolaena.densiflora
+Sclerolaena.deserticola
+Sclerolaena.diacantha{Grey Bindyi}
+Sclerolaena.divaricata{Tangled Bassia}
+Sclerolaena.drummondii
+Sclerolaena.eriacantha
+Sclerolaena.eurotioides
+Sclerolaena.everistiana
+Sclerolaena.fimbriolata
+Sclerolaena.fontinalis
+Sclerolaena.forrestiana
+Sclerolaena.fusiformis
+Sclerolaena.georgei
+Sclerolaena.glabra
+Sclerolaena.globosa
+Sclerolaena.holtiana
+Sclerolaena.hostilis
+Sclerolaena.intricata{poverty bush}
+Sclerolaena.johnsonii
+Sclerolaena.lanata
+Sclerolaena.lanicuspis{copperbur}
+Sclerolaena.limbata
+Sclerolaena.longicuspis{Long-spined Poverty Bush}
+Sclerolaena.medicaginoides
+Sclerolaena.microcarpa
+Sclerolaena.minuta
+Sclerolaena.muelleri
+Sclerolaena.muricata{Five-spined Bassia}
+Sclerolaena.murrayae
+Sclerolaena.napiformis
+Sclerolaena.nitida
+Sclerolaena.obliquicuspis{Limestone Copperburr}
+Sclerolaena.oppositicuspis
+Sclerolaena.parallelicuspis
+Sclerolaena.parviflora{Small-flower Bindyi}
+Sclerolaena.patenticuspis{spear-fruit copperburr}
+Sclerolaena.ramsayae
+Sclerolaena.ramulosa
+Sclerolaena.recurvicuspis
+Sclerolaena.scrymgeouriae
+Sclerolaena.stelligera
+Sclerolaena.stylosa
+Sclerolaena.symoniana
+Sclerolaena.tatei
+Sclerolaena.tetracuspis
+Sclerolaena.tetragona
+Sclerolaena.tricuspis{Giant Red Burr}
+Sclerolaena.tridens
+Sclerolaena.tubata
+Sclerolaena.uniflora
+Sclerolaena.urceolata
+Sclerolaena.ventricosa
+Sclerolaena.walkeri
+Sclerolaena.beaugleholei
+Sclerolaena.bicornis:var.bicornis
+Sclerolaena.bicornis:var.horrida
+Sclerolaena.gardneri
+Sclerolaena.muricata:var.muricata
+Sclerolaena.muricata:var.semiglabra
+Sclerolaena.muricata:var.villosa

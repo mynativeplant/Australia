@@ -1,0 +1,601 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "mod_mynativeplant Webservice API",
+    "version": "1.0.0",
+    "description": "OpenAPI description for the Apache handlers provided by mod_mynativeplant. The handlers serve JSON over /webservice and are intended for agents that need to discover families, genera, plant records, and fuzzy search results."
+  },
+  "servers": [
+    {
+      "url": "/"
+    }
+  ],
+  "tags": [
+    {
+      "name": "families",
+      "description": "List all known Australian native plant families."
+    },
+    {
+      "name": "genera",
+      "description": "List genera for a family."
+    },
+    {
+      "name": "plants",
+      "description": "List parsed plant records for a family or genus."
+    },
+    {
+      "name": "search",
+      "description": "Run fuzzy search across the full database."
+    }
+  ],
+  "paths": {
+    "/webservice/list-families": {
+      "get": {
+        "operationId": "listFamilies",
+        "tags": ["families"],
+        "summary": "List families",
+        "description": "Returns the unique family names discovered in the primary database.",
+        "responses": {
+          "200": {
+            "description": "Successful response.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ListFamiliesResponse"
+                },
+                "examples": {
+                  "default": {
+                    "summary": "Family list",
+                    "value": {
+                      "result": "OK",
+                      "creator": "mod_mynativeplant",
+                      "compile_time": "2026-05-16T12:34:56Z",
+                      "run_time": "2026-05-16T12:34:56Z",
+                      "github_path": "https://github.com/mynativeplant/Australia/tree/main/data",
+                      "families": ["Proteaceae", "Myrtaceae"]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "$ref": "#/components/responses/ServerError"
+          }
+        }
+      }
+    },
+    "/webservice/list-family": {
+      "get": {
+        "operationId": "listFamilyAlias",
+        "tags": ["families"],
+        "summary": "Alias for list-families",
+        "description": "Compatibility alias accepted by the module. Behaves like /webservice/list-families.",
+        "responses": {
+          "200": {
+            "description": "Successful response.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ListFamiliesResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "$ref": "#/components/responses/ServerError"
+          }
+        }
+      }
+    },
+    "/webservice/list-genera": {
+      "get": {
+        "operationId": "listGenera",
+        "tags": ["genera"],
+        "summary": "List genera in a family",
+        "description": "Requires a family query parameter. Returns the unique genera associated with that family.",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/FamilyParam"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ListGeneraResponse"
+                },
+                "examples": {
+                  "default": {
+                    "summary": "Genus list",
+                    "value": {
+                      "result": "OK",
+                      "creator": "mod_mynativeplant",
+                      "compile_time": "2026-05-16T12:34:56Z",
+                      "run_time": "2026-05-16T12:34:56Z",
+                      "github_path": "https://github.com/mynativeplant/Australia/tree/main/data/Proteaceae",
+                      "family": "Proteaceae",
+                      "genera": ["Banksia", "Grevillea"]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "500": {
+            "$ref": "#/components/responses/ServerError"
+          }
+        }
+      }
+    },
+    "/webservice/list-plants": {
+      "get": {
+        "operationId": "listPlants",
+        "tags": ["plants"],
+        "summary": "List plants in a family or genus",
+        "description": "Requires family. Accepts genera or genus as the genus filter. If both genera and genus are present, they must match. When a genus is supplied, the response includes the genus name and optional previous_genus and next_genus fields.",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/FamilyParam"
+          },
+          {
+            "$ref": "#/components/parameters/GenusParam"
+          },
+          {
+            "$ref": "#/components/parameters/GeneraParam"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response. result may be OK or Mostly-OK if recoverable parse errors were encountered.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ListPlantsResponse"
+                },
+                "examples": {
+                  "genus": {
+                    "summary": "Plants for a specific genus",
+                    "value": {
+                      "result": "OK",
+                      "creator": "mod_mynativeplant",
+                      "compile_time": "2026-05-16T12:34:56Z",
+                      "run_time": "2026-05-16T12:34:56Z",
+                      "github_path": "https://github.com/mynativeplant/Australia/tree/main/data/Proteaceae/Banksia.txt",
+                      "family": "Proteaceae",
+                      "genus": "Banksia",
+                      "previous_genus": "Adenanthos",
+                      "next_genus": "Grevillea",
+                      "plants": []
+                    }
+                  },
+                  "familyOnly": {
+                    "summary": "Plants for a family",
+                    "value": {
+                      "result": "Mostly-OK",
+                      "creator": "mod_mynativeplant",
+                      "compile_time": "2026-05-16T12:34:56Z",
+                      "run_time": "2026-05-16T12:34:56Z",
+                      "errors": [
+                        "parser failed for plant record in \"Proteaceae/Banksia.txt:broken-entry\""
+                      ],
+                      "github_path": "https://github.com/mynativeplant/Australia/tree/main/data/Proteaceae",
+                      "family": "Proteaceae",
+                      "plants": []
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "400": {
+            "$ref": "#/components/responses/BadRequest"
+          },
+          "500": {
+            "$ref": "#/components/responses/ServerError"
+          }
+        }
+      }
+    },
+    "/webservice/search": {
+      "get": {
+        "operationId": "searchPlants",
+        "tags": ["search"],
+        "summary": "Search the full database",
+        "description": "Requires the string query parameter. Performs fuzzy matching across the whole database and returns the top 10 results in score order.",
+        "parameters": [
+          {
+            "$ref": "#/components/parameters/StringParam"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/SearchResponse"
+                },
+                "examples": {
+                  "default": {
+                    "summary": "Search results",
+                    "value": {
+                      "result": "OK",
+                      "creator": "mod_mynativeplant",
+                      "compile_time": "2026-05-16T12:34:56Z",
+                      "run_time": "2026-05-16T12:34:56Z",
+                      "github_path": "https://github.com/mynativeplant/Australia/tree/main/data",
+                      "string": "banksia",
+                      "results": [
+                        {
+                          "raw": "Banksia.spinulosa(Birthday Candles){Hairpin Banksia}",
+                          "display_name": "Banksia spinulosa 'Birthday Candles'",
+                          "family": "Proteaceae",
+                          "genus": "Banksia",
+                          "score": 97,
+                          "matched_field": "display_name",
+                          "wikislug": "Banksia_spinulosa"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "500": {
+            "$ref": "#/components/responses/ServerError"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "parameters": {
+      "FamilyParam": {
+        "name": "family",
+        "in": "query",
+        "required": true,
+        "description": "Family name, for example Proteaceae.",
+        "schema": {
+          "type": "string",
+          "minLength": 1
+        },
+        "example": "Proteaceae"
+      },
+      "GenusParam": {
+        "name": "genus",
+        "in": "query",
+        "required": false,
+        "description": "Optional singular genus alias for genera. Only used when one genus is requested.",
+        "schema": {
+          "type": "string",
+          "minLength": 1
+        },
+        "example": "Banksia"
+      },
+      "GeneraParam": {
+        "name": "genera",
+        "in": "query",
+        "required": false,
+        "description": "Optional genus filter. May contain one or more genera. If genus is also supplied, the two values must match.",
+        "schema": {
+          "type": "string",
+          "minLength": 1
+        },
+        "example": "Banksia"
+      },
+      "StringParam": {
+        "name": "string",
+        "in": "query",
+        "required": true,
+        "description": "Fuzzy search string.",
+        "schema": {
+          "type": "string",
+          "minLength": 1
+        },
+        "example": "banksia"
+      }
+    },
+    "responses": {
+      "BadRequest": {
+        "description": "The request was invalid, missing a required parameter, or referenced an unknown family or genus.",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/ErrorResponse"
+            },
+            "examples": {
+              "missingFamily": {
+                "summary": "Missing family",
+                "value": {
+                  "result": "Not-OK",
+                  "creator": "mod_mynativeplant",
+                  "compile_time": "2026-05-16T12:34:56Z",
+                  "run_time": "2026-05-16T12:34:56Z",
+                  "error": "'list-plants' requires a family, but no argument was passed"
+                }
+              },
+              "unknownFamily": {
+                "summary": "Unknown family",
+                "value": {
+                  "result": "Not-OK",
+                  "creator": "mod_mynativeplant",
+                  "compile_time": "2026-05-16T12:34:56Z",
+                  "run_time": "2026-05-16T12:34:56Z",
+                  "error": "Family 'DefinitelyNotARealFamily' is not known"
+                }
+              }
+            }
+          }
+        }
+      },
+      "ServerError": {
+        "description": "The server could not satisfy the request.",
+        "content": {
+          "application/json": {
+            "schema": {
+              "$ref": "#/components/schemas/ErrorResponse"
+            }
+          }
+        }
+      }
+    },
+    "schemas": {
+      "ResponseMetadata": {
+        "type": "object",
+        "required": ["result", "creator", "compile_time", "run_time"],
+        "properties": {
+          "result": {
+            "type": "string",
+            "enum": ["OK", "Mostly-OK", "Not-OK"]
+          },
+          "creator": {
+            "type": "string",
+            "const": "mod_mynativeplant"
+          },
+          "compile_time": {
+            "type": "string",
+            "description": "Module build time in a human-readable timestamp format."
+          },
+          "run_time": {
+            "type": "string",
+            "description": "Request time in ISO-like timestamp format."
+          }
+        },
+        "additionalProperties": true
+      },
+      "ErrorResponse": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/ResponseMetadata"
+          },
+          {
+            "type": "object",
+            "required": ["error"],
+            "properties": {
+              "error": {
+                "type": "string"
+              }
+            }
+          }
+        ]
+      },
+      "ListFamiliesResponse": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/ResponseMetadata"
+          },
+          {
+            "type": "object",
+            "required": ["github_path", "families"],
+            "properties": {
+              "github_path": {
+                "type": "string",
+                "format": "uri"
+              },
+              "families": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      },
+      "ListGeneraResponse": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/ResponseMetadata"
+          },
+          {
+            "type": "object",
+            "required": ["github_path", "family", "genera"],
+            "properties": {
+              "github_path": {
+                "type": "string",
+                "format": "uri"
+              },
+              "family": {
+                "type": "string"
+              },
+              "genera": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      },
+      "PlantRecord": {
+        "type": "object",
+        "description": "Parser output for a plant record. The module preserves parser fields and may add display_name, common_name, children, cultivars, parents, and root_id/root-id fields depending on the record type and relationships.",
+        "properties": {
+          "id": {
+            "type": "integer"
+          },
+          "raw": {
+            "type": "string"
+          },
+          "display_name": {
+            "type": "string"
+          },
+          "common_name": {
+            "type": "string"
+          },
+          "family": {
+            "type": "string"
+          },
+          "genus": {
+            "type": "string"
+          },
+          "wikislug": {
+            "type": "string"
+          },
+          "score": {
+            "type": "integer"
+          },
+          "matched_field": {
+            "type": "string"
+          },
+          "parents": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PlantRecord"
+            }
+          },
+          "children": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PlantRecord"
+            }
+          },
+          "cultivars": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/PlantRecord"
+            }
+          },
+          "root_id": {
+            "type": "integer"
+          },
+          "root-id": {
+            "type": "integer"
+          }
+        },
+        "additionalProperties": true
+      },
+      "ListPlantsResponse": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/ResponseMetadata"
+          },
+          {
+            "type": "object",
+            "required": ["github_path", "family", "plants"],
+            "properties": {
+              "github_path": {
+                "type": "string",
+                "format": "uri"
+              },
+              "family": {
+                "type": "string"
+              },
+              "genus": {
+                "type": "string"
+              },
+              "previous_genus": {
+                "type": "string"
+              },
+              "next_genus": {
+                "type": "string"
+              },
+              "errors": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                }
+              },
+              "plants": {
+                "type": "array",
+                "items": {
+                  "$ref": "#/components/schemas/PlantRecord"
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      },
+      "SearchResult": {
+        "type": "object",
+        "required": ["raw", "display_name", "family", "genus", "score", "matched_field"],
+        "properties": {
+          "raw": {
+            "type": "string"
+          },
+          "display_name": {
+            "type": "string"
+          },
+          "common_name": {
+            "type": "string"
+          },
+          "family": {
+            "type": "string"
+          },
+          "genus": {
+            "type": "string"
+          },
+          "score": {
+            "type": "integer"
+          },
+          "matched_field": {
+            "type": "string"
+          },
+          "wikislug": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": true
+      },
+      "SearchResponse": {
+        "allOf": [
+          {
+            "$ref": "#/components/schemas/ResponseMetadata"
+          },
+          {
+            "type": "object",
+            "required": ["github_path", "string", "results"],
+            "properties": {
+              "github_path": {
+                "type": "string",
+                "format": "uri"
+              },
+              "string": {
+                "type": "string"
+              },
+              "results": {
+                "type": "array",
+                "maxItems": 10,
+                "items": {
+                  "$ref": "#/components/schemas/SearchResult"
+                }
+              }
+            },
+            "additionalProperties": true
+          }
+        ]
+      }
+    }
+  }
+}

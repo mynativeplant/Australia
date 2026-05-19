@@ -1,0 +1,13 @@
+Bergia.ammannioides{Water-fire}
+Bergia.auriculata
+Bergia.barklyana
+Bergia.diacheiron
+Bergia.henshallii
+Bergia.occultipetala
+Bergia.pedicellaris
+Bergia.perennis
+Bergia.pusilla
+Bergia.trimera
+Bergia.perennis:subsp.exigua
+Bergia.perennis:subsp.obtusifolia
+Bergia.perennis:subsp.perennis

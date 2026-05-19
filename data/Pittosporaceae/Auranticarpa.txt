@@ -1,0 +1,6 @@
+Auranticarpa.edentata
+Auranticarpa.ilicifolia
+Auranticarpa.melanosperma
+Auranticarpa.papyracea
+Auranticarpa.rhombifolia{Queensland pittosporum}
+Auranticarpa.resinosa

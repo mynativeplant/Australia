@@ -1,0 +1,19 @@
+Opercularia.acolytantha
+Opercularia.apiciflora
+Opercularia.aspera{Coarse Stinkweed}
+Opercularia.diphylla{narrow-leaved stinkweed}
+Opercularia.echinocephala
+Opercularia.hirsuta
+Opercularia.hispida{hairy stinkweed}
+Opercularia.hispidula
+Opercularia.loganioides
+Opercularia.nubicola
+Opercularia.ovata{Broad-leaved stinkweed}
+Opercularia.rubioides
+Opercularia.scabrida{rough stinkweed}
+Opercularia.spermacocea
+Opercularia.turpis{Twiggy Stinkweed}
+Opercularia.vaginata{dog weed}
+Opercularia.varia{variable stinkweed}
+Opercularia.volubilis
+Opercularia.liberiflora

@@ -1,0 +1,8 @@
+Dielsiodoxa.altimontana
+Dielsiodoxa.leucantha
+Dielsiodoxa.lycopodioides
+Dielsiodoxa.oligarrhenoides
+Dielsiodoxa.propullulans
+Dielsiodoxa.tamariscina
+Dielsiodoxa.leucantha:subsp.leucantha
+Dielsiodoxa.leucantha:subsp.obtusa

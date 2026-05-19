@@ -1,0 +1,9 @@
+Arytera.bifoliolata
+Arytera.dictyoneura
+Arytera.distylis{Twin-leaved coogara}
+Arytera.divaricata{Coogera}
+Arytera.foveolata{pitted coogera}
+Arytera.lineosquamulata
+Arytera.microphylla
+Arytera.pauciflora
+Arytera.pseudofoveolata

@@ -1,0 +1,8 @@
+Ludwigia.adscendens
+Ludwigia.hyssopifolia{Linear Leaf Water Primrose}
+Ludwigia.octovalvis{narrow-leaf water-primrose}
+Ludwigia.palustris{marsh primrose-willow}
+Ludwigia.peploides{Water primrose}
+Ludwigia.perennis
+Ludwigia.peruviana{Peruvian primrosebush}
+Ludwigia.peploides:subsp.montevidensis

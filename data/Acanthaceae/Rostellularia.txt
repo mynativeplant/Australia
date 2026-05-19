@@ -1,0 +1,14 @@
+Rostellularia.adscendens
+Rostellularia.peploides
+Rostellularia.adscendens:subsp.adscendens
+Rostellularia.adscendens:subsp.clementii
+Rostellularia.adscendens:subsp.dallachyi
+Rostellularia.adscendens:subsp.glaucoviolacea
+Rostellularia.adscendens:var.adscendens
+Rostellularia.adscendens:var.clementii
+Rostellularia.adscendens:var.hispida
+Rostellularia.adscendens:var.juncea
+Rostellularia.adscendens:var.largiflorens
+Rostellularia.adscendens:var.latifolia
+Rostellularia.adscendens:var.pogonanthera
+Rostellularia.obtusa

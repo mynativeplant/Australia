@@ -1,0 +1,4 @@
+Carthamus.dentatus
+Carthamus.lanatus{Woolly Distaff Thistle}
+Carthamus.leucocaulos{glaucous star thistle}
+Carthamus.tinctorius{safflower}

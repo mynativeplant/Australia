@@ -1,0 +1,3 @@
+Calendula.arvensis{field marigold}
+Calendula.officinalis{Scotch marigold}
+Calendula.palaestina

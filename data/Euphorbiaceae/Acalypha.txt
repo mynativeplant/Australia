@@ -1,0 +1,11 @@
+Acalypha.arvensis{Field Copperleaf}
+Acalypha.capillipes{small-leaved acalypha}
+Acalypha.eremorum{native acalypha}
+Acalypha.indica{Indian Copperleaf}
+Acalypha.lanceolata
+Acalypha.lyonsii
+Acalypha.nemorum{Hairy acalypha}
+Acalypha.pubiflora
+Acalypha.wilkesiana{Jacob's-coat}
+Acalypha.lanceolata:var.lanceolata
+Acalypha.pubiflora:subsp.australica

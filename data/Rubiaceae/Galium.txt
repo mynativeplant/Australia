@@ -1,0 +1,37 @@
+Galium.albescens
+Galium.aparine{annual bedstraw}
+Galium.australe
+Galium.binifolium
+Galium.bulliforme
+Galium.bungoniense
+Galium.ciliare
+Galium.compactum
+Galium.curvihirtum
+Galium.densum
+Galium.divaricatum{Lamarck's bedstraw}
+Galium.gaudichaudii
+Galium.leiocarpum
+Galium.leptogonium{hairy bedstraw}
+Galium.liratum
+Galium.microlobum
+Galium.migrans
+Galium.murale{tiny bedstraw}
+Galium.polyanthum
+Galium.propinquum{Mawe}
+Galium.roddii
+Galium.spathulatum
+Galium.spurium
+Galium.terrae-reginae
+Galium.tricornutum{rough-fruited corn bedstraw}
+Galium.antarcticum
+Galium.binifolium:subsp.binifolium
+Galium.binifolium:subsp.conforme
+Galium.bulliformis
+Galium.bungoniensis
+Galium.ciliare:subsp.ciliare
+Galium.ciliare:subsp.terminale
+Galium.gaudichaudii:subsp.gaudichaudii
+Galium.gaudichaudii:subsp.parviflorum
+Galium.migrans:subsp.inversum
+Galium.migrans:subsp.migrans
+Galium.migrans:subsp.trichogynum

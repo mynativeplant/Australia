@@ -1,0 +1,14 @@
+Pentalepis.ecliptoides
+Pentalepis.grandis
+Pentalepis.kakaduensis
+Pentalepis.linearifolia
+Pentalepis.trichodesmoides
+Pentalepis.walcottii
+Pentalepis.ecliptoides:subsp.cucullata
+Pentalepis.ecliptoides:subsp.ecliptoides
+Pentalepis.ecliptoides:subsp.hirsuta
+Pentalepis.linearifolia:subsp.linearifolia
+Pentalepis.linearifolia:subsp.nudibranchoides
+Pentalepis.trichodesmoides:subsp.hispida
+Pentalepis.trichodesmoides:subsp.incana
+Pentalepis.trichodesmoides:subsp.trichodesmoides

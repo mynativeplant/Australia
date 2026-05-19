@@ -1,0 +1,12 @@
+Lagenophora.adenosa
+Lagenophora.brachyglossa
+Lagenophora.fimbriata
+Lagenophora.gracilis{slender lagenophora}
+Lagenophora.huegelii{coarse bottle-daisy}
+Lagenophora.latifolia
+Lagenophora.platysperma
+Lagenophora.queenslandica
+Lagenophora.stipitata{Blue Bottle-daisy}
+Lagenophora.sublyrata{slender bottle-daisy}
+Lagenophora.gunniana
+Lagenophora.montana

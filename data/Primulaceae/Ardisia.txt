@@ -1,0 +1,8 @@
+Ardisia.bakeri
+Ardisia.bifaria
+Ardisia.brevipedata{Rambling Spearflower}
+Ardisia.crispa{Japanese-holly}
+Ardisia.fasciculata
+Ardisia.hylandii
+Ardisia.pachyrrhachis
+Ardisia.sanguinolenta

@@ -1,0 +1,6 @@
+Erigeron.bonariensis{Argentine fleabane}
+Erigeron.canadensis{Canada fleabane}
+Erigeron.conyzoides
+Erigeron.floribundus{Bilbao fleabane}
+Erigeron.karvinskianus{Mexican Fleabane}
+Erigeron.primulifolius{Chilean Fleabane}

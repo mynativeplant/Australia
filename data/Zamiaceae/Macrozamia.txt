@@ -1,0 +1,43 @@
+Macrozamia.cardiacensis{Cycad}
+Macrozamia.communis{burrawong}
+Macrozamia.concinna{Nundle Cycad}
+Macrozamia.conferta{Cycad}
+Macrozamia.cranei{Crane's macrozamia}
+Macrozamia.crassifolia{Cycad}
+Macrozamia.diplomera
+Macrozamia.douglasii
+Macrozamia.dyeri
+Macrozamia.elegans{Cycad}
+Macrozamia.fawcettii
+Macrozamia.fearnsidei
+Macrozamia.flexuosa{Cycad}
+Macrozamia.fraseri{sandplain zamia}
+Macrozamia.glaucophylla
+Macrozamia.heteromera{burrawang}
+Macrozamia.humilis
+Macrozamia.johnsonii
+Macrozamia.lomandroides{Cycad}
+Macrozamia.longispina
+Macrozamia.lucida{Pineapple Zamia}
+Macrozamia.macdonnellii{MacDonnell Ranges Cycad}
+Macrozamia.machinii{Machin's macrozamia}
+Macrozamia.macleayi
+Macrozamia.miquelii{wild pineapple}
+Macrozamia.montana
+Macrozamia.moorei{Moore's zamia palm}
+Macrozamia.mountperriensis
+Macrozamia.occidua{Cycad}
+Macrozamia.parcifolia{Cycad}
+Macrozamia.pauli-guilielmi{pineapple zamia}
+Macrozamia.platyrhachis
+Macrozamia.plurinervia{Cycad}
+Macrozamia.polymorpha
+Macrozamia.reducta
+Macrozamia.riedlei{Zamia Palm}
+Macrozamia.secunda{Cycad}
+Macrozamia.serpentina
+Macrozamia.spiralis{Cycad}
+Macrozamia.stenomera
+Macrozamia.viridis{Cycad}
+Macrozamia[fearnsidei|moorei]
+Macrozamia[lomandroides|pauli-guilielmi]

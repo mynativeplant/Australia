@@ -1,0 +1,63 @@
+Tetratheca.affinis
+Tetratheca.angulata
+Tetratheca.aphylla
+Tetratheca.applanata
+Tetratheca.bauerifolia{mountain pink-bells}
+Tetratheca.butcheriana
+Tetratheca.chapmanii
+Tetratheca.ciliata{Pink-bells}
+Tetratheca.confertifolia
+Tetratheca.decora
+Tetratheca.deltoidea
+Tetratheca.efoliata
+Tetratheca.ericifolia
+Tetratheca.erubescens
+Tetratheca.exasperata
+Tetratheca.fasciculata
+Tetratheca.filiformis
+Tetratheca.fordiana
+Tetratheca.glandulosa
+Tetratheca.gunnii
+Tetratheca.halmaturina{Curly Pink-bells}
+Tetratheca.harperi
+Tetratheca.hirsuta{slender tetratheca}
+Tetratheca.hispidissima
+Tetratheca.insularis{Kangaroo Island pink-eyes}
+Tetratheca.juncea
+Tetratheca.labillardierei{Glandular Pink-bells}
+Tetratheca.neglecta
+Tetratheca.nephelioides
+Tetratheca.nuda
+Tetratheca.parvifolia
+Tetratheca.paucifolia
+Tetratheca.paynterae
+Tetratheca.phoenix
+Tetratheca.pilata
+Tetratheca.pilifera
+Tetratheca.pilosa
+Tetratheca.plumosa
+Tetratheca.procumbens
+Tetratheca.pubescens
+Tetratheca.remota
+Tetratheca.retrorsa
+Tetratheca.rubioides
+Tetratheca.rupicola
+Tetratheca.setigera
+Tetratheca.shiressii
+Tetratheca.similis
+Tetratheca.spartea
+Tetratheca.spenceri
+Tetratheca.stenocarpa{long pink-bells}
+Tetratheca.subaphylla
+Tetratheca.thymifolia{Thyme Pink-bells}
+Tetratheca.virgata
+Tetratheca.aphylla:subsp.aphylla
+Tetratheca.aphylla:subsp.megacarpa
+Tetratheca.hirsuta:subsp.boonanarring
+Tetratheca.hirsuta:subsp.hirsuta
+Tetratheca.hirsuta:subsp.viminea
+Tetratheca.paynterae:subsp.cremnobata
+Tetratheca.paynterae:subsp.paynterae
+Tetratheca.pilosa:subsp.latifolia
+Tetratheca.pilosa:subsp.pilosa
+Tetratheca[](Bicentennial Belle){Black Eyed Susan}

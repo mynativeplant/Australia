@@ -1,0 +1,13 @@
+Hypoestes.floribunda
+Hypoestes.phyllostachya{flamingo-plant}
+Hypoestes.sparsiflora
+Hypoestes.floribunda:var.angustifolia
+Hypoestes.floribunda:var.canescens
+Hypoestes.floribunda:var.cinerea
+Hypoestes.floribunda:var.distans
+Hypoestes.floribunda:var.floribunda
+Hypoestes.floribunda:var.pubescens
+Hypoestes.floribunda:var.suaveolens
+Hypoestes.floribunda:var.varia
+Hypoestes.floribunda:var.velutina
+Hypoestes.floribunda:var.yorkensis

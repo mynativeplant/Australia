@@ -1,0 +1,6 @@
+Evolvulus.alsinoides{dwarf-morning-glory}
+Evolvulus.nummularius{Dwarf Morning Glory}
+Evolvulus.alsinoides:var.alsinoides
+Evolvulus.alsinoides:var.decumbens
+Evolvulus.alsinoides:var.sericeus
+Evolvulus.alsinoides:var.villosicalyx

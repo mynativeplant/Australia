@@ -1,0 +1,2 @@
+Scolymus.hispanicus{Golden Thistle}
+Scolymus.maculatus{Spotted Golden Thistle}

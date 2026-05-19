@@ -1,0 +1,6 @@
+Graptophyllum.excelsum{letter leaf}
+Graptophyllum.ilicifolium{Mount Blackwood holly}
+Graptophyllum.pictum{caricature-plant}
+Graptophyllum.reticulatum{buderim holly}
+Graptophyllum.spinigerum{samford holly}
+Graptophyllum.thorogoodii

@@ -1,0 +1,3 @@
+Populus.alba{European white poplar}
+Populus.canescens{gray poplar}
+Populus.nigra{black cottonwood}

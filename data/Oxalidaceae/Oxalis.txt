@@ -1,0 +1,27 @@
+Oxalis.articulata{Pink Oxalis}
+Oxalis.bifurca
+Oxalis.bowiei{Bowie's wood-sorrel}
+Oxalis.brasiliensis{Brazilian woodsorrel}
+Oxalis.caprina
+Oxalis.chnoodes
+Oxalis.compressa{Squashed Sorrel}
+Oxalis.corniculata{creeping ladies'-sorrel}
+Oxalis.debilis{Large-Flowered Pink-Sorrel}
+Oxalis.exilis{least yellow-sorrel}
+Oxalis.flava{Handleaf Sorrel}
+Oxalis.glabra
+Oxalis.hirta
+Oxalis.incarnata{crimson wood-sorrel}
+Oxalis.latifolia{Garden Pink-sorrel}
+Oxalis.magellanica{snowdrop woodsorrel}
+Oxalis.perdicaria
+Oxalis.perennans{Woody-rooted Yellow-sorrel}
+Oxalis.pes-caprae{Bermuda Buttercup}
+Oxalis.polyphylla{Manyleaf Sorrel}
+Oxalis.purpurea{large-flower oxalis}
+Oxalis.rubens
+Oxalis.stricta{European wood-sorrel}
+Oxalis.tetraphylla{Four-Leaved Pink-Sorrel}
+Oxalis.thompsoniae
+Oxalis.violacea{violet wood-sorrel}
+Oxalis.radicosa

@@ -1,0 +1,4 @@
+Sedum.acre{biting stonecrop}
+Sedum.cespitosum{Broad-leaved Stonecrop}
+Sedum.praealtum
+Sedum.sexangulare{hexagon stonecrop}

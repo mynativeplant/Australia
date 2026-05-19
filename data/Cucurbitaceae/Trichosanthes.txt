@@ -1,0 +1,10 @@
+Trichosanthes.cucumerina{Snake Gourd}
+Trichosanthes.holtzei
+Trichosanthes.jonesii
+Trichosanthes.morrisii
+Trichosanthes.odontosperma
+Trichosanthes.ovigera{Snake gourd}
+Trichosanthes.pentaphylla{red gourd}
+Trichosanthes.subvelutina{silky cucumber}
+Trichosanthes.cucumerina:var.cucumerina
+Trichosanthes.pilosa

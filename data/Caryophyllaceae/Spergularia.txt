@@ -1,0 +1,8 @@
+Spergularia.diandroides
+Spergularia.marina
+Spergularia.media{Greater Salt-Marsh Sand-Spurrey}
+Spergularia.nesophila
+Spergularia.rubra{purple sand-spurrey}
+Spergularia.tasmanica
+Spergularia.brevifolia
+Spergularia.villosa

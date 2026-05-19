@@ -1,0 +1,23 @@
+Shawia.aglossa
+Shawia.alpicola
+Shawia.alpina
+Shawia.archeri
+Shawia.argophylla
+Shawia.chrysophylla
+Shawia.covenyi
+Shawia.cydoniifolia
+Shawia.erubescens
+Shawia.grandiflora
+Shawia.ledifolia
+Shawia.megalophylla
+Shawia.myrsinoides
+Shawia.obcordata
+Shawia.oliganthema
+Shawia.oppositifolia
+Shawia.pannosa{Velvet Daisy-bush}
+Shawia.persoonioides
+Shawia.pinifolia{Pine-leafed Daisy-bush}
+Shawia.rosmarinifolia
+Shawia.speciosa{Netted Daisy-bush}
+Shawia.stilwelliae
+Shawia.viscosa{sticky daisy-bush}

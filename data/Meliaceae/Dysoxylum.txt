@@ -1,0 +1,19 @@
+Dysoxylum.acutangulum
+Dysoxylum.latifolium
+Dysoxylum.oppositifolium{Pink Mahogany}
+Dysoxylum.pumilum
+Dysoxylum.acutangulum:subsp.foveolatum
+Dysoxylum.alliaceum
+Dysoxylum.arborescens
+Dysoxylum.bijugum
+Dysoxylum.fraserianum
+Dysoxylum.gaudichaudianum
+Dysoxylum.klanderi
+Dysoxylum.mollissimum
+Dysoxylum.mollissimum:subsp.molle
+Dysoxylum.pachyphyllum
+Dysoxylum.papuanum
+Dysoxylum.parasiticum
+Dysoxylum.pettigrewianum
+Dysoxylum.rufum
+Dysoxylum.setosum

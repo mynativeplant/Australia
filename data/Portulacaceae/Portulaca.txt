@@ -1,0 +1,23 @@
+Portulaca.bicolor{Heart-plant}
+Portulaca.clavigera
+Portulaca.cyclophylla
+Portulaca.decipiens
+Portulaca.digyna
+Portulaca.filifolia{Slender Pigweed}
+Portulaca.filsonii{Pink Rock-wort}
+Portulaca.grandiflora{cultivated purslane}
+Portulaca.intraterranea
+Portulaca.oleracea{garden purslane}
+Portulaca.oligosperma
+Portulaca.pilosa
+Portulaca.arid
+Portulaca.australis
+Portulaca.clay
+Portulaca.conspicua
+Portulaca.finely
+Portulaca.napiformis
+Portulaca.oleracea:var.limestone
+Portulaca.oleracea:var.weedy
+Portulaca.rock
+Portulaca.smooth
+Portulaca.tuberosa

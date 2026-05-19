@@ -1,0 +1,3 @@
+Boehmeria.nivea{rhea-fibre}
+Boehmeria.virgata{native ramie}
+Boehmeria.virgata:var.austroqueenslandica

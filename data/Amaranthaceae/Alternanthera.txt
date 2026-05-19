@@ -1,0 +1,16 @@
+Alternanthera.angustifolia{narrow-leaf joyweed}
+Alternanthera.bettzickiana{calico-plant}
+Alternanthera.denticulata{lesser joyweed}
+Alternanthera.longipes
+Alternanthera.nana{downy joyweed}
+Alternanthera.paronychioides
+Alternanthera.philoxeroides{Alligator Weed}
+Alternanthera.pungens{creeping chaffweed}
+Alternanthera.sessilis{Rabbit-meat}
+Alternanthera.angustifolia:var.lanata
+Alternanthera.denticulata:var.denticulata
+Alternanthera.denticulata:var.micrantha
+Alternanthera.ficoidea
+Alternanthera.nahui
+Alternanthera.nodiflora
+Alternanthera.of

@@ -1,0 +1,5 @@
+Everistia.vacciniifolia{small-leaved canthium}
+Everistia.vacciniifolia:form.crassa
+Everistia.vacciniifolia:form.vacciniifolia
+Everistia.vacciniifolia:var.nervosa
+Everistia.vacciniifolia:var.vacciniifolia

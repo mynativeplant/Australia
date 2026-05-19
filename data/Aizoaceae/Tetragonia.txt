@@ -1,0 +1,9 @@
+Tetragonia.coronata
+Tetragonia.cristata
+Tetragonia.decumbens{Coast Lettuce}
+Tetragonia.diptera
+Tetragonia.eremaea{Desert Spinach}
+Tetragonia.implexicoma{New Zealand Climbing Spinach}
+Tetragonia.moorei
+Tetragonia.nigrescens{Tender Seacoral}
+Tetragonia.tetragonoides{New Zealand-spinach}

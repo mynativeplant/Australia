@@ -1,0 +1,4 @@
+Ambrosia.artemisiifolia{hogweed}
+Ambrosia.confertiflora{bur ragweed}
+Ambrosia.psilostachya{Cuman ragweed}
+Ambrosia.tenuifolia{Lacy Ambrosia}

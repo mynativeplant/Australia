@@ -1,0 +1,7 @@
+Scapisenecio.albogilvus
+Scapisenecio.leptocarpus
+Scapisenecio.papillosus
+Scapisenecio.pectinatus{alpine groundsel}
+Scapisenecio.primulifolius
+Scapisenecio.pectinatus:var.major
+Scapisenecio.pectinatus:var.pectinatus

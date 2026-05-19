@@ -1,0 +1,12 @@
+Eryngium.campestre{field eryngo}
+Eryngium.expansum{Queensland eryngo}
+Eryngium.fontanum
+Eryngium.maritimum{maritime eryngo}
+Eryngium.ovinum{blue devil}
+Eryngium.pandanifolium{Giant Sea Holly}
+Eryngium.pinnatifidum{blue devils}
+Eryngium.plantagineum{long eryngium}
+Eryngium.subdecumbens
+Eryngium.supinum
+Eryngium.vesiculosum{Blue Devils}
+Eryngium.paludosum

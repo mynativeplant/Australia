@@ -1,0 +1,10 @@
+Hypericum.androsaemum{tutsan}
+Hypericum.calycinum{creeping St. John's-wort}
+Hypericum.gramineum{small St. John's-wort}
+Hypericum.inodorum{tall tutsan}
+Hypericum.involutum
+Hypericum.japonicum{matted St. John's-wort}
+Hypericum.perforatum{European St. John's-wort}
+Hypericum.tetrapterum{four-winged St. John's-wort}
+Hypericum.triquetrifolium{tangled hypericum}
+Hypericum.pusillum

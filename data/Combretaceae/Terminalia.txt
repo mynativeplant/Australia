@@ -1,0 +1,34 @@
+Terminalia.arenicola{brown damson}
+Terminalia.aridicola
+Terminalia.arostrata{crocodile tree}
+Terminalia.canescens
+Terminalia.catappa{Beach Almond}
+Terminalia.complanata
+Terminalia.cunninghamii
+Terminalia.erythrocarpa
+Terminalia.ferdinandiana{Kakadu Plum}
+Terminalia.fitzgeraldii
+Terminalia.grandiflora
+Terminalia.hadleyana
+Terminalia.kumpaja
+Terminalia.latipes{billygoat-plum}
+Terminalia.melanocarpa{Brown Damson}
+Terminalia.muelleri{Australian-almond}
+Terminalia.oblongata{Yellow Wood}
+Terminalia.petiolaris
+Terminalia.platyphylla
+Terminalia.platyptera
+Terminalia.porphyrocarpa
+Terminalia.prostrata
+Terminalia.pterocarya
+Terminalia.sericocarpa
+Terminalia.subacroptera
+Terminalia.supranitifolia
+Terminalia.volucris
+Terminalia.aridicola:subsp.aridicola
+Terminalia.aridicola:subsp.chillagoensis
+Terminalia.bursarina
+Terminalia.carpentariae
+Terminalia.circumalata
+Terminalia.microcarpa
+Terminalia.savannicola

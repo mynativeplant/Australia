@@ -1,0 +1,11 @@
+Casuarina.cristata{black-oak}
+Casuarina.cunninghamiana
+Casuarina.equisetifolia
+Casuarina.glauca{Brazilian-oak}
+Casuarina.obesa{Swamp Oak}
+Casuarina.pauper{Belah}
+Casuarina.cunninghamiana:subsp.cunninghamiana
+Casuarina.cunninghamiana:subsp.miodon
+Casuarina.equisetifolia:subsp.equisetifolia
+Casuarina.equisetifolia:subsp.incana
+Casuarina[cristata|glauca]

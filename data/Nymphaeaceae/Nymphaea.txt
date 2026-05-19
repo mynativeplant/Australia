@@ -1,0 +1,22 @@
+Nymphaea.alexii
+Nymphaea.atrans
+Nymphaea.carpentariae
+Nymphaea.elleniae
+Nymphaea.georginae
+Nymphaea.gigantea{giant water-lily}
+Nymphaea.hastifolia
+Nymphaea.immutabilis{Black-soil Waterlily}
+Nymphaea.jacobsii
+Nymphaea.kakaduensis
+Nymphaea.kimberleyensis
+Nymphaea.lukei
+Nymphaea.macrosperma
+Nymphaea.mexicana{banana water-lily}
+Nymphaea.noelae
+Nymphaea.nouchali{Blue Lotus}
+Nymphaea.ondinea
+Nymphaea.pubescens{Hairy Water Lily}
+Nymphaea.vaporalis
+Nymphaea.violacea{Blue Waterlily}
+Nymphaea.ondinea:subsp.ondinea
+Nymphaea.ondinea:subsp.petaloidea

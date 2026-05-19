@@ -1,0 +1,63 @@
+Epacris.acuminata
+Epacris.apiculata
+Epacris.apsleyensis
+Epacris.barbata{bearded heath}
+Epacris.breviflora{drumstick heath}
+Epacris.browniae
+Epacris.calvertiana
+Epacris.celata
+Epacris.cerasicollina
+Epacris.coriacea
+Epacris.corymbiflora
+Epacris.crassifolia
+Epacris.curtisiae
+Epacris.decumbens
+Epacris.exserta
+Epacris.glabella
+Epacris.glacialis
+Epacris.gnidioides
+Epacris.grandis
+Epacris.graniticola
+Epacris.gunnii
+Epacris.hamiltonii
+Epacris.heteronema
+Epacris.impressa{common-heath}
+Epacris.lanuginosa{woolly-style heath}
+Epacris.limbata{border heath}
+Epacris.lithophila
+Epacris.longiflora{fuchsia-heath}
+Epacris.marginata
+Epacris.microphylla{Coral Heath}
+Epacris.moscalianus
+Epacris.mucronulata
+Epacris.muelleri
+Epacris.myrtifolia{cliff heath}
+Epacris.navicularis
+Epacris.obtusifolia{blunt-leaf Australian-heath}
+Epacris.paludosa{swamp-heath}
+Epacris.petrophila{Snow Heath}
+Epacris.pilosa
+Epacris.pinoidea
+Epacris.pulchella
+Epacris.purpurascens
+Epacris.reclinata{fuchsia heath}
+Epacris.rhombifolia
+Epacris.rigida
+Epacris.robusta
+Epacris.serpyllifolia{alpine heath}
+Epacris.sparsa
+Epacris.sprengelioides
+Epacris.stuartii
+Epacris.tasmanica
+Epacris.virgata{pretty heath}
+Epacris.calvertiana:var.calvertiana
+Epacris.calvertiana:var.versicolor
+Epacris.crassifolia:subsp.crassifolia
+Epacris.crassifolia:subsp.macroflora
+Epacris.franklinii
+Epacris.heteronema:var.gigantea
+Epacris.heteronema:var.heteronema
+Epacris.moscaliana
+Epacris.purpurascens:var.onosmiflora
+Epacris.purpurascens:var.purpurascens
+Epacris[longiflora|reclinata](Pan Pipes){Fuchsia Heath}

@@ -1,0 +1,4 @@
+Geum.aleppicum{yellow avens}
+Geum.talbotianum
+Geum.urbanum
+Geum.urbanum:var.strictum

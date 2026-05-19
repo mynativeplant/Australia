@@ -1,0 +1,13 @@
+Diplopeltis.eriocarpa
+Diplopeltis.huegelii
+Diplopeltis.intermedia
+Diplopeltis.petiolaris
+Diplopeltis.stuartii
+Diplopeltis.huegelii:subsp.huegelii
+Diplopeltis.huegelii:subsp.lehmannii
+Diplopeltis.huegelii:subsp.subintegra
+Diplopeltis.huegelli{Pepper Flower}
+Diplopeltis.intermedia:var.incana
+Diplopeltis.intermedia:var.intermedia
+Diplopeltis.stuartii:var.glandulosa
+Diplopeltis.stuartii:var.stuartii

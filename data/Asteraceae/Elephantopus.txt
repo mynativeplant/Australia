@@ -1,0 +1,3 @@
+Elephantopus.mollis{Soft Elephantsfoot}
+Elephantopus.scaber{Elephant's Foot}
+Elephantopus.scaber:subsp.plurisetus

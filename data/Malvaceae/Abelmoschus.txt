@@ -1,0 +1,7 @@
+Abelmoschus.ficulneus
+Abelmoschus.manihot
+Abelmoschus.moschatus
+Abelmoschus.sagittifolius
+Abelmoschus.manihot:subsp.tetraphyllus
+Abelmoschus.moschatus:subsp.biakensis
+Abelmoschus.moschatus:subsp.tuberosus{Native Rosella}

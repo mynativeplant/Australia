@@ -1,0 +1,10 @@
+Monotaxis.bracteata
+Monotaxis.grandiflora
+Monotaxis.linifolia
+Monotaxis.luteiflora
+Monotaxis.macrophylla
+Monotaxis.occidentalis
+Monotaxis.paxii
+Monotaxis.tenuis
+Monotaxis.grandiflora:var.grandiflora
+Monotaxis.grandiflora:var.obtusifolia

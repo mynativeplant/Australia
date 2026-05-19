@@ -1,0 +1,16 @@
+Opuntia.aurantiaca{Jointed Cactus}
+Opuntia.dejecta
+Opuntia.dillenii{Red Prickle}
+Opuntia.elatior{Broad prickly pear}
+Opuntia.engelmannii{cowtongue cactus}
+Opuntia.ficus-indica{Sweet Pickle}
+Opuntia.humifusa
+Opuntia.leoglossa{Lion's Tongue Cactus}
+Opuntia.leucotricha{Arborescent Pricklypear}
+Opuntia.microdasys{angel's-wings}
+Opuntia.phaeacantha{Brownspine Pricklypear}
+Opuntia.robusta{wheel cactus}
+Opuntia.streptacantha
+Opuntia.stricta{Erect prickly pear}
+Opuntia.sulphurea{sulphur cactus}
+Opuntia.tomentosa{Woollyjoint Pricklypear}

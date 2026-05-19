@@ -1,0 +1,20 @@
+Astrotricha.asperifolia
+Astrotricha.biddulphiana
+Astrotricha.brachyandra
+Astrotricha.cordata
+Astrotricha.crassifolia
+Astrotricha.floccosa
+Astrotricha.glabra
+Astrotricha.hamptonii
+Astrotricha.intermedia
+Astrotricha.latifolia{Broad-leaf Star Hair}
+Astrotricha.ledifolia
+Astrotricha.linearis
+Astrotricha.longifolia{Long-leaf Star-hair}
+Astrotricha.obovata
+Astrotricha.obtusifolia
+Astrotricha.parvifolia
+Astrotricha.pauciflora
+Astrotricha.pterocarpa
+Astrotricha.roddii
+Astrotricha.umbrosa

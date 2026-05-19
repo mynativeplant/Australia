@@ -1,0 +1,2 @@
+Lunasia.amara
+Lunasia.amara:var.amara

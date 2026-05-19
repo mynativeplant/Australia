@@ -1,0 +1,6 @@
+Pycnosorus.chrysanthus
+Pycnosorus.eremaeus
+Pycnosorus.globosus{drumsticks}
+Pycnosorus.melleus{Long-Head Buttons}
+Pycnosorus.pleiocephalus
+Pycnosorus.thompsonianus

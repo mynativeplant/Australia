@@ -1,0 +1,9 @@
+Helichrysum.adenocarpum
+Helichrysum.calvertianum
+Helichrysum.leucopsideum{Satin Everlasting}
+Helichrysum.oligochaetum
+Helichrysum.pumilum
+Helichrysum.semifertile
+Helichrysum.turbinatum
+Helichrysum.pumilum:var.pumilum
+Helichrysum.pumilum:var.spathulatum

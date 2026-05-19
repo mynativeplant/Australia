@@ -1,0 +1,8 @@
+Lophostemon.confertus{Brisbane boxtree}
+Lophostemon.grandiflorus
+Lophostemon.lactifluus{Milky Box}
+Lophostemon.suaveolens{Swamp Box}
+Lophostemon.grandiflorus:subsp.grandiflorus
+Lophostemon.grandiflorus:subsp.riparius
+Lophostemon[confertus|grandiflorus]
+Lophostemon[confertus|suaveolens]

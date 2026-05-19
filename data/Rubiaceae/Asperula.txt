@@ -1,0 +1,25 @@
+Asperula.acuminata
+Asperula.ambleia
+Asperula.arvensis{blue woodruff}
+Asperula.asthenes
+Asperula.charophyton
+Asperula.conferta{Common Woodruff}
+Asperula.cunninghamii
+Asperula.euryphylla{broad-leaved woodruff}
+Asperula.gemella
+Asperula.geminifolia
+Asperula.gunnii
+Asperula.hoskingii
+Asperula.minima
+Asperula.oblanceolata
+Asperula.polymera
+Asperula.pusilla
+Asperula.scoparia
+Asperula.subsimplex
+Asperula.subulifolia
+Asperula.syrticola
+Asperula.tetraphylla
+Asperula.wimmeriana
+Asperula.scoparia:subsp.scoparia
+Asperula.scoparia:subsp.subglabra
+Asperula.wimmerana

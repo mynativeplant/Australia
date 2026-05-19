@@ -1,0 +1,8 @@
+Quoya.atriplicina{saltbush foxglove}
+Quoya.cuneata
+Quoya.dilatata
+Quoya.loxocarpa
+Quoya.oldfieldii{Oldfield's foxglove}
+Quoya.paniculata
+Quoya.verbascina{golden bush}
+Quoya.zonalis

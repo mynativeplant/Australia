@@ -1,0 +1,335 @@
+Stylidium.accedens
+Stylidium.aceratum
+Stylidium.acuminatum
+Stylidium.adenophorum
+Stylidium.adnatum{Common Beaked Triggerplant}
+Stylidium.adpressum{Trigger-on-stilts}
+Stylidium.aeonioides
+Stylidium.affine{Queen Triggerplant}
+Stylidium.albolilacinum
+Stylidium.albomontis
+Stylidium.aliforme
+Stylidium.alsinoides
+Stylidium.amabile
+Stylidium.amoenum{Lovely Triggerplant}
+Stylidium.amphora
+Stylidium.androsaceum
+Stylidium.angustifolium
+Stylidium.anomalum
+Stylidium.applanatum
+Stylidium.aquaticum
+Stylidium.araeophyllum{Stilt Walker}
+Stylidium.arenicola
+Stylidium.armeria
+Stylidium.articulatum{Stout Triggerplant}
+Stylidium.assimile{Bronze-leaved Triggerplant}
+Stylidium.asymmetricum
+Stylidium.austrocapense
+Stylidium.barleei{Tooth-leaved Triggerplant}
+Stylidium.beaugleholei
+Stylidium.bellum
+Stylidium.bicolor
+Stylidium.bindoon
+Stylidium.brachyotis
+Stylidium.brennanianum
+Stylidium.breviscapum{Boomerang Triggerplant}
+Stylidium.brunonianum{Pink Fountain Triggerplant}
+Stylidium.bulbiferum{Circus Triggerplant}
+Stylidium.burbidgeanum
+Stylidium.caespitosum{Fly-Away Triggerplant}
+Stylidium.calcaratum{Book Triggerplant}
+Stylidium.candelabrum
+Stylidium.capillare
+Stylidium.caricifolium{milkmaids triggerplant}
+Stylidium.carlquistii
+Stylidium.carnosum{Fleshy-leaved Triggerplant}
+Stylidium.centrolepoides
+Stylidium.ceratophorum
+Stylidium.chiddarcoopingense
+Stylidium.choreanthum{Dancing Triggerplant}
+Stylidium.ciliatum{Golden Triggerplant}
+Stylidium.cilium
+Stylidium.clarksonii
+Stylidium.clavatum
+Stylidium.claytonioides
+Stylidium.coatesianum
+Stylidium.confertum
+Stylidium.confluens
+Stylidium.contrarium
+Stylidium.cordifolium
+Stylidium.cornuatum
+Stylidium.coroniforme
+Stylidium.corymbosum
+Stylidium.costulatum
+Stylidium.crassifolium{Thick-leaved Triggerplant}
+Stylidium.crossocephalum{Posy Triggerplant}
+Stylidium.cygnorum
+Stylidium.cymiferum
+Stylidium.daphne
+Stylidium.debile{frail trigger plant}
+Stylidium.decipiens
+Stylidium.delicatum
+Stylidium.desertorum
+Stylidium.despectum{Small Triggerplant}
+Stylidium.diademum
+Stylidium.diceratum
+Stylidium.dichotomum{Pins-and-needles}
+Stylidium.dielsianum{Tangle Triggerplant}
+Stylidium.diffusum
+Stylidium.diplectroglossum
+Stylidium.diplotrichum
+Stylidium.dispermum
+Stylidium.diuroides{Dwarf Donkey Trigger Plant}
+Stylidium.divaricatum{Daddy-long-legs}
+Stylidium.divergens
+Stylidium.diversifolium{Touch-me-not}
+Stylidium.drummondianum
+Stylidium.dunlopianum
+Stylidium.ecorne{Foot Triggerplant}
+Stylidium.edentatum
+Stylidium.eglandulosum
+Stylidium.elachophyllum
+Stylidium.elongatum{Tall Triggerplant}
+Stylidium.eludens
+Stylidium.emarginatum{Biddy-four-legs}
+Stylidium.ensatum
+Stylidium.ericksoniae
+Stylidium.eriorrhizum
+Stylidium.evolutum
+Stylidium.exappendiculatum
+Stylidium.exiguum
+Stylidium.expeditionis{Tutanning Triggerplant}
+Stylidium.falcatum{Slender Beaked Triggerplant}
+Stylidium.fasciculatum
+Stylidium.ferricola
+Stylidium.fimbriatum
+Stylidium.fissilobum
+Stylidium.flagellum
+Stylidium.floodii
+Stylidium.floribundum
+Stylidium.fluminense
+Stylidium.foveolatum
+Stylidium.galioides
+Stylidium.gemmatum
+Stylidium.glabrifolium
+Stylidium.glandulosissimum
+Stylidium.glandulosum
+Stylidium.glaucum
+Stylidium.gloeophyllum
+Stylidium.graminifolium{grass triggerplant}
+Stylidium.guttatum{Dotted Triggerplant}
+Stylidium.hesperium
+Stylidium.hirsutum{Hairy Triggerplant}
+Stylidium.hispidum{White Butterfly Triggerplant}
+Stylidium.hortiorum
+Stylidium.humphreysii
+Stylidium.hygrophilum
+Stylidium.hymenocraspedum
+Stylidium.imbricatum
+Stylidium.inaequipetalum
+Stylidium.incognitum
+Stylidium.induratum{Desert Triggerplant}
+Stylidium.insensitivum
+Stylidium.inundatum{Hundreds and Thousands}
+Stylidium.inversiflorum
+Stylidium.involucratum
+Stylidium.ireneae
+Stylidium.irriguum
+Stylidium.junceum{Reed Triggerplant}
+Stylidium.kalbarriense
+Stylidium.keigheryi
+Stylidium.korijekup
+Stylidium.lachnopodum
+Stylidium.laciniatum
+Stylidium.laricifolium
+Stylidium.lateriticola
+Stylidium.latrodectus
+Stylidium.leeuwinense
+Stylidium.leiophyllum
+Stylidium.lepidum
+Stylidium.leptocalyx
+Stylidium.leptophyllum{Needle-leaved Triggerplant}
+Stylidium.leptorrhizum
+Stylidium.limbatum
+Stylidium.lineare
+Stylidium.lineatum
+Stylidium.lithophilum
+Stylidium.lobuliflorum
+Stylidium.longibracteatum
+Stylidium.longicornu
+Stylidium.longissimum
+Stylidium.longitubum
+Stylidium.lowrieanum
+Stylidium.luteum
+Stylidium.macranthum{Crab Claws}
+Stylidium.maitlandianum{fountain triggerplant}
+Stylidium.maritimum
+Stylidium.marradongense
+Stylidium.megacarpum
+Stylidium.merrallii{Merralls Triggerplant}
+Stylidium.milleri
+Stylidium.miniatum{pink butterfly triggerplant}
+Stylidium.mitrasacmoides
+Stylidium.modicum
+Stylidium.montanum{Alpine Triggerplant}
+Stylidium.monticola
+Stylidium.mucronatum
+Stylidium.multiscapum
+Stylidium.muscicola
+Stylidium.neglectum
+Stylidium.neurophyllum
+Stylidium.nitidum
+Stylidium.nominatum
+Stylidium.nonscandens
+Stylidium.notabile
+Stylidium.nungarinense
+Stylidium.nymphaeum
+Stylidium.obtusatum
+Stylidium.oreophilum
+Stylidium.ornatum
+Stylidium.osculum
+Stylidium.oviflorum
+Stylidium.pachyrhizum
+Stylidium.paludicola
+Stylidium.paniculatum
+Stylidium.paulineae
+Stylidium.pedunculatum
+Stylidium.pendulum
+Stylidium.periscelianthum
+Stylidium.perizostera
+Stylidium.perplexum
+Stylidium.perpusillum{Tiny Triggerplant}
+Stylidium.perula
+Stylidium.petiolare
+Stylidium.pezidium
+Stylidium.piliferum{Common Butterfly Triggerplant}
+Stylidium.pilosum
+Stylidium.pindanicum
+Stylidium.pingrupense
+Stylidium.planirosulum
+Stylidium.plantagineum
+Stylidium.ponticulus
+Stylidium.preissii
+Stylidium.pritzelianum{Royal Triggerplant}
+Stylidium.productum
+Stylidium.prophyllum
+Stylidium.pseudocaespitosum
+Stylidium.pseudohirsutum
+Stylidium.pseudosacculatum
+Stylidium.pseudotenellum
+Stylidium.pubigerum
+Stylidium.pulchellum
+Stylidium.pulviniforme
+Stylidium.purpureum
+Stylidium.pycnostachyum{downy triggerplant}
+Stylidium.pygmaeum
+Stylidium.ramosissimum
+Stylidium.recurvum
+Stylidium.repens{Matted Triggerplant}
+Stylidium.rhipidium
+Stylidium.rhynchocarpum{Black-beaked Triggerplant}
+Stylidium.ricae
+Stylidium.rigidulum
+Stylidium.rivulosum
+Stylidium.roseoalatum
+Stylidium.roseonanum
+Stylidium.rosulatum
+Stylidium.rotundifolium
+Stylidium.rubricalyx
+Stylidium.rubriscapum
+Stylidium.rupestre
+Stylidium.sacculatum
+Stylidium.saintpaulioides
+Stylidium.salmoneum
+Stylidium.scabridum
+Stylidium.scandens{Climbing Triggerplant}
+Stylidium.scariosum
+Stylidium.schizanthum
+Stylidium.schoenoides{Cow Kicks}
+Stylidium.scintillans
+Stylidium.sejunctum
+Stylidium.semaphorum
+Stylidium.semipartitum
+Stylidium.septentrionale
+Stylidium.shepherdianum
+Stylidium.simulans
+Stylidium.soboliferum{Grampians Triggerplant}
+Stylidium.spathulatum{Creamy Triggerplant}
+Stylidium.spiciforme
+Stylidium.spinulosum
+Stylidium.squamellosum
+Stylidium.squamosotuberosum{Rhizomatous Reed Triggerplant}
+Stylidium.stenophyllum
+Stylidium.stenosepalum
+Stylidium.striatum
+Stylidium.strigosum
+Stylidium.symonii
+Stylidium.synaptum
+Stylidium.tantillum
+Stylidium.tenerrimum
+Stylidium.tenue
+Stylidium.tenuicarpum
+Stylidium.tepperianum
+Stylidium.thesioides
+Stylidium.thryonides
+Stylidium.thylax
+Stylidium.tinkeri
+Stylidium.torquatum
+Stylidium.torticarpum
+Stylidium.tremendum
+Stylidium.trichopodum
+Stylidium.trudgenii
+Stylidium.turbinatum
+Stylidium.turleyae
+Stylidium.tylosum
+Stylidium.udusicola
+Stylidium.uliginosum{Swamp Trigger Plant}
+Stylidium.uniflorum
+Stylidium.utricularioides
+Stylidium.validum
+Stylidium.velleioides
+Stylidium.verticillatum{Pink Mountain Triggerplant}
+Stylidium.vinosum
+Stylidium.violaceum
+Stylidium.warriedarense
+Stylidium.weeliwolli
+Stylidium.willingii
+Stylidium.wilroyense
+Stylidium.xanthellum
+Stylidium.xanthopis
+Stylidium.yilgarnense
+Stylidium.youwanjela
+Stylidium.zeicolor
+Stylidium.acuminatum:subsp.acuminatum
+Stylidium.acuminatum:subsp.meridionale
+Stylidium.amoenum:var.amoenum
+Stylidium.amoenum:var.caulescens
+Stylidium.angustifolium:subsp.angustifolium
+Stylidium.angustifolium:subsp.glaucifolium
+Stylidium.armeria:subsp.armeria
+Stylidium.armeria:subsp.pilosifolium
+Stylidium.asteroideum
+Stylidium.carnosum:subsp.leaves
+Stylidium.centrolepidoides
+Stylidium.coroniforme:subsp.amblyphyllum
+Stylidium.coroniforme:subsp.coroniforme
+Stylidium.corymbosum:var.corymbosum
+Stylidium.corymbosum:var.proliferum
+Stylidium.diuroides:subsp.diuroides
+Stylidium.diuroides:subsp.nanum
+Stylidium.diuroides:subsp.paucifoliatum
+Stylidium.egralliforme
+Stylidium.emarginatum:subsp.emarginatum
+Stylidium.eriopodum
+Stylidium.eriorhizum
+Stylidium.fasciculatum:subsp.gigantic
+Stylidium.pachyrrhizum
+Stylidium.perizoster
+Stylidium.planirosula
+Stylidium.spinulosum:subsp.montanum
+Stylidium.spinulosum:subsp.spinulosum
+Stylidium.tenerum
+Stylidium.tenue:subsp.majusculum
+Stylidium.tenue:subsp.tenue
+Stylidium.uniflorum:subsp.extensum
+Stylidium.uniflorum:subsp.uniflorum

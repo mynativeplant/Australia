@@ -1,0 +1,3 @@
+Gynura.drymophila{gynura}
+Gynura.drymophila:var.drymophila
+Gynura.drymophila:var.glabrifolia

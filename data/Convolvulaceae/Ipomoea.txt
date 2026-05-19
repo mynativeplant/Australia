@@ -1,0 +1,64 @@
+Ipomoea.abrupta
+Ipomoea.alba{White Moonflower}
+Ipomoea.antonschmidii
+Ipomoea.aquatica{Chinese water-spinach}
+Ipomoea.argillicola
+Ipomoea.batatas{sweet-potato}
+Ipomoea.biflora{bellvine}
+Ipomoea.bracteolata
+Ipomoea.brassii
+Ipomoea.cairica{Railway Creeper}
+Ipomoea.calobra{weirvine}
+Ipomoea.carnea{bush morning-glory}
+Ipomoea.costata{bush potato}
+Ipomoea.densivestita
+Ipomoea.diamantinensis
+Ipomoea.diantha
+Ipomoea.dunlopii
+Ipomoea.eriocarpa{Tiny Morning Glory}
+Ipomoea.funicularis
+Ipomoea.gracilis{almor-ira}
+Ipomoea.graminea
+Ipomoea.hastifolia
+Ipomoea.hederifolia{ivy-leaf morning-glory}
+Ipomoea.indica{blue dawnflower}
+Ipomoea.johnsoniana
+Ipomoea.kalumburu
+Ipomoea.limosa
+Ipomoea.littoralis{Coastal Morning Glory}
+Ipomoea.lonchophylla{cowvine}
+Ipomoea.mauritiana{Mauritanian convolvulus}
+Ipomoea.muelleri{poison morning-glory}
+Ipomoea.nil{Morning Glory}
+Ipomoea.obscura{obscure morning-glory}
+Ipomoea.pes-caprae{Indian Beach Morning Glory}
+Ipomoea.pes-tigridis{Tiger's Footprint}
+Ipomoea.polpha
+Ipomoea.polymorpha
+Ipomoea.purpurea{common morning glory}
+Ipomoea.quamoclit{cypress vine morning glory}
+Ipomoea.racemigera
+Ipomoea.saintronanensis
+Ipomoea.tiliacea{Wild Potato Vine}
+Ipomoea.tolmerana
+Ipomoea.trichosperma
+Ipomoea.triloba{Little-bell}
+Ipomoea.velutina
+Ipomoea.versipellis
+Ipomoea.violacea{Sea Moonflower}
+Ipomoea.yardiensis
+Ipomoea.aculeata
+Ipomoea.brownii
+Ipomoea.coptica
+Ipomoea.diversifolia
+Ipomoea.imperati
+Ipomoea.pes-caprae:subsp.brasiliensis
+Ipomoea.plebeia
+Ipomoea.polpha:subsp.latzii
+Ipomoea.polpha:subsp.polpha
+Ipomoea.polpha:subsp.weirana
+Ipomoea.queenslandica
+Ipomoea.tiliifolia
+Ipomoea.tolmerana:subsp.occidentalis
+Ipomoea.tolmerana:subsp.tolmerana
+Ipomoea.urceolata

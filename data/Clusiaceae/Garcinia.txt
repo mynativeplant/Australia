@@ -1,0 +1,9 @@
+Garcinia.brassii
+Garcinia.dulcis{Claudie mangosteen}
+Garcinia.gibbsiae{mountain mangosteen}
+Garcinia.jensenii
+Garcinia.leggeae
+Garcinia.mestonii
+Garcinia.russellii
+Garcinia.warrenii{Warren's mangosteen}
+Garcinia.zichii

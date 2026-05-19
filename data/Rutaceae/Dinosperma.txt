@@ -1,0 +1,8 @@
+Dinosperma.erythrococca{clubwood}
+Dinosperma.longifolia
+Dinosperma.melanophloia{Hard Aspen}
+Dinosperma.stipitata
+Dinosperma.erythrococcum
+Dinosperma.longifolium
+Dinosperma.melanophloium
+Dinosperma.stipitatum

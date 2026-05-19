@@ -1,0 +1,25 @@
+# mod_mynativeplant discovery
+
+This web root contains the public HTML pages and API discovery assets for the Australian Native Plant Repository.
+
+Primary API documentation:
+
+- `openapi.json` - machine-readable API description for the `/webservice` handlers.
+
+API handlers:
+
+- `/webservice/list-families`
+- `/webservice/list-genera?family=...`
+- `/webservice/list-plants?family=...[&genera=...|&genus=...]`
+- `/webservice/search?string=...`
+
+Rules of use:
+
+- `family` is required for `list-genera` and `list-plants`.
+- `genera` is the canonical genus filter for `list-plants`.
+- `genus` is accepted as a singular alias for `genera` when only one genus is requested.
+- `search` requires `string`.
+- Responses are JSON and include a `result` field with values like `OK`, `Mostly-OK`, or `Not-OK`.
+- Responses also include `creator`, `compile_time`, and `run_time`.
+
+See `../module/README.md` for the module-level description of payload behavior and error handling.

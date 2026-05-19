@@ -1,0 +1,5 @@
+Verbascum.blattaria{moth mullein}
+Verbascum.creticum{Cretan Mullein}
+Verbascum.sinuatum
+Verbascum.thapsus{common mullein}
+Verbascum.virgatum{purple-stemmed mullein}

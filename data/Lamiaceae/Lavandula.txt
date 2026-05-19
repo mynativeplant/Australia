@@ -1,0 +1,2 @@
+Lavandula.angustifolia{English lavender}
+Lavandula.dentata{French lavender}

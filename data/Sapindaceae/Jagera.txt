@@ -1,0 +1,6 @@
+Jagera.discolor
+Jagera.madida
+Jagera.pseudorhus{fern-leaf-tamarind}
+Jagera.javanica
+Jagera.pseudorhus:var.integerrima
+Jagera.pseudorhus:var.pseudorhus

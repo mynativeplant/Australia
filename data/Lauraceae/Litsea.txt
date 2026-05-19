@@ -1,0 +1,11 @@
+Litsea.australis{Brown Bolly Gum}
+Litsea.bennettii
+Litsea.bindoniana{Big leaf Bollywood}
+Litsea.breviumbellata
+Litsea.connorsii
+Litsea.fawcettiana{Bollywood}
+Litsea.glutinosa{Indian-laurel}
+Litsea.granitica
+Litsea.leefeana{Big leaf Bollywood}
+Litsea.reticulata{bolly gum}
+Litsea.macrophylla

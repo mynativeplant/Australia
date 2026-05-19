@@ -1,0 +1,4 @@
+Lycium.afrum{Kaffir boxthorn}
+Lycium.australe{Australian Boxthorn}
+Lycium.barbarum{Barbary matrimony vine}
+Lycium.ferocissimum{Box Thorn}

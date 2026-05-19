@@ -1,0 +1,8 @@
+Lachnostachys.bracteosa
+Lachnostachys.coolgardiensis
+Lachnostachys.eriobotrya{Lambswool}
+Lachnostachys.ferruginea
+Lachnostachys.verbascifolia
+Lachnostachys.albicans
+Lachnostachys.verbascifolia:var.paniculata
+Lachnostachys.verbascifolia:var.verbascifolia

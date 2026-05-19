@@ -1,0 +1,15 @@
+Alyxia.buxifolia{dysentery-bush}
+Alyxia.evansii
+Alyxia.grandis
+Alyxia.ilicifolia
+Alyxia.orophila{Chain Fruit}
+Alyxia.ruscifolia
+Alyxia.sharpei
+Alyxia.spicata{Chain Fruit}
+Alyxia.tetanifolia
+Alyxia.tropica
+Alyxia.gynopogon
+Alyxia.magnifolia
+Alyxia.oblongata
+Alyxia.squamulosa
+Alyxia.stellata

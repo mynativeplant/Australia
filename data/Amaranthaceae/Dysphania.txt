@@ -1,0 +1,27 @@
+Dysphania.ambrosioides{worm-seed}
+Dysphania.atriplicifolia{plains tumbleweed}
+Dysphania.bontei
+Dysphania.carinata{green crumbweed}
+Dysphania.christii
+Dysphania.congestiflora
+Dysphania.cristata{crested crumbweed}
+Dysphania.glandulosa
+Dysphania.glomulifera
+Dysphania.kalpari
+Dysphania.littoralis{Red Crumbweed}
+Dysphania.melanocarpa
+Dysphania.multifida{cut-leaf goosefoot}
+Dysphania.plantaginella
+Dysphania.platycarpa
+Dysphania.pumilio{Australian goosefoot}
+Dysphania.rhadinostachya
+Dysphania.saxatilis
+Dysphania.simulans
+Dysphania.sphaerosperma
+Dysphania.truncata
+Dysphania.valida
+Dysphania.glomulifera:subsp.eremaea
+Dysphania.glomulifera:subsp.glomulifera
+Dysphania.rhadinostachya:subsp.inflata
+Dysphania.rhadinostachya:subsp.rhadinostachya
+Dysphania[carinata|cristata]

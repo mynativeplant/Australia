@@ -1,0 +1,10 @@
+Aluta.appressa
+Aluta.aspera
+Aluta.maisonneuvei
+Aluta.quadrata
+Aluta.teres
+Aluta.aspera:subsp.aspera
+Aluta.aspera:subsp.hesperia
+Aluta.aspera:subsp.localis
+Aluta.maisonneuvei:subsp.auriculata
+Aluta.maisonneuvei:subsp.maisonneuvei

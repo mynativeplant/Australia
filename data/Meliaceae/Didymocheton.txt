@@ -1,0 +1,7 @@
+Didymocheton.fraserianus{Australian rosewood}
+Didymocheton.gaudichaudianus{Ivory Mahogany}
+Didymocheton.muelleri{miva-mahogany}
+Didymocheton.papuanus
+Didymocheton.pettigrewianus{Spur Mahogany}
+Didymocheton.rufus
+Didymocheton.setosus

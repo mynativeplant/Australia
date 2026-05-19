@@ -1,0 +1,25 @@
+Gentianella.adamsii
+Gentianella.barringtonensis{Barrington snow gentian}
+Gentianella.bawbawensis
+Gentianella.brevisepala
+Gentianella.clelandii
+Gentianella.cunninghamii
+Gentianella.demissa
+Gentianella.diemensis
+Gentianella.eichleri
+Gentianella.gunniana
+Gentianella.muelleriana{Mueller’s Snow-Gentian}
+Gentianella.pleurogynoides
+Gentianella.polysperes
+Gentianella.sylvicola
+Gentianella.cunninghamii:subsp.cunninghamii
+Gentianella.cunninghamii:subsp.major
+Gentianella.diemensis:subsp.diemensis
+Gentianella.diemensis:subsp.plantaginea
+Gentianella.grandis
+Gentianella.muelleriana:subsp.alpestris
+Gentianella.muelleriana:subsp.jingerensis
+Gentianella.muelleriana:subsp.muelleriana
+Gentianella.muelleriana:subsp.willisiana
+Gentianella.pleurogynoides:subsp.milliganii
+Gentianella.pleurogynoides:subsp.pleurogynoides

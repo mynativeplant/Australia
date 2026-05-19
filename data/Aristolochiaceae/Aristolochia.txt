@@ -1,0 +1,21 @@
+Aristolochia.acuminata{Indian birthwort}
+Aristolochia.australopithecurus{Cairns Birdwing Butterfly plant}
+Aristolochia.chalmersii
+Aristolochia.deltantha
+Aristolochia.holtzei
+Aristolochia.indica{Indian birthwort}
+Aristolochia.laheyana
+Aristolochia.littoralis{Duck}
+Aristolochia.meridionalis
+Aristolochia.odoratissima
+Aristolochia.ornithopterae
+Aristolochia.peninsulensis
+Aristolochia.praevenosa{birdwing butterfly vine}
+Aristolochia.pubera
+Aristolochia.ringens
+Aristolochia.sparusifolia
+Aristolochia.thozetii
+Aristolochia.meridionalis:subsp.centralis
+Aristolochia.meridionalis:subsp.meridionalis
+Aristolochia.pubera:var.aromatica
+Aristolochia.pubera:var.pubera

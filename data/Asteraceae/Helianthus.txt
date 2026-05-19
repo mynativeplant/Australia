@@ -1,0 +1,5 @@
+Helianthus.annuus{annual sunflower}
+Helianthus.argophyllus{Silver-leaf Sunflower}
+Helianthus.ciliaris
+Helianthus.debilis{cucumber-leaf sunflower}
+Helianthus.tuberosus{Jerusalem artichoke}

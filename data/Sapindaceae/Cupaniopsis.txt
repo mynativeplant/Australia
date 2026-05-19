@@ -1,0 +1,19 @@
+Cupaniopsis.anacardioides{beach-tamarind}
+Cupaniopsis.cooperorum
+Cupaniopsis.dallachyi
+Cupaniopsis.diploglottoides
+Cupaniopsis.flagelliformis{brown tuckeroo}
+Cupaniopsis.fleckeri
+Cupaniopsis.foveolata{Narrow-leaved Tuckeroo}
+Cupaniopsis.newmanii{Long-leaved Tuckeroo}
+Cupaniopsis.papillosa
+Cupaniopsis.parvifolia{small-leaved tuckeroo}
+Cupaniopsis.serrata{Rusty Tuckeroo}
+Cupaniopsis.shirleyana{wedge-leaf tuckeroo}
+Cupaniopsis.simulata{Northern tuckeroo}
+Cupaniopsis.tomentella{Boonah tuckeroo}
+Cupaniopsis.wadsworthii{duckfoot}
+Cupaniopsis.anarcardiodes{Tuckeroo}
+Cupaniopsis.baileyana
+Cupaniopsis.flagelliformis:var.australis
+Cupaniopsis.flagelliformis:var.flagelliformis

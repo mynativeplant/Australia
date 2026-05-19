@@ -1,0 +1,62 @@
+Ranunculus.acaulis{Sand buttercup}
+Ranunculus.acris
+Ranunculus.acrophilus
+Ranunculus.amphitrichus{small river buttercup}
+Ranunculus.amplus
+Ranunculus.anemoneus{anemone buttercup}
+Ranunculus.arvensis{Corn Buttercup}
+Ranunculus.clivicola
+Ranunculus.collicola
+Ranunculus.collinus
+Ranunculus.colonorum
+Ranunculus.decurvus
+Ranunculus.diminutus
+Ranunculus.dissectifolius
+Ranunculus.eichleranus
+Ranunculus.flammula{Lesser Spearwort}
+Ranunculus.glabrifolius{Shining Buttercup}
+Ranunculus.graniticola
+Ranunculus.gunnianus{Gunn's alpine buttercup}
+Ranunculus.hamatosetosus
+Ranunculus.inundatus{river buttercup}
+Ranunculus.jugosus
+Ranunculus.lappaceus{Australian buttercup}
+Ranunculus.ligulatus
+Ranunculus.meristus
+Ranunculus.millanii
+Ranunculus.muelleri{felted buttercup}
+Ranunculus.muricatus{rough-fruited buttercup}
+Ranunculus.nanus
+Ranunculus.niphophilus
+Ranunculus.ophioglossifolius{Adder's-Tongue Spearwort}
+Ranunculus.pachycarpus{Thick-fruit Buttercup}
+Ranunculus.papulentus
+Ranunculus.parviflorus
+Ranunculus.pascuinus
+Ranunculus.pentandrus
+Ranunculus.pimpinellifolius
+Ranunculus.plebeius{forest buttercup}
+Ranunculus.prasinus
+Ranunculus.productus
+Ranunculus.pumilio
+Ranunculus.repens{creeping buttercup}
+Ranunculus.robertsonii{slender buttercup}
+Ranunculus.sardous{Sardinian buttercup}
+Ranunculus.scapiger{Hairy Buttercup}
+Ranunculus.sceleratus{blister buttercup}
+Ranunculus.sessiliflorus
+Ranunculus.setaceus
+Ranunculus.trichophyllus{thread-leaved water-crowfoot}
+Ranunculus.trilobus{threelobe buttercup}
+Ranunculus.triplodontus
+Ranunculus.undosus
+Ranunculus.victoriensis
+Ranunculus.crassipes
+Ranunculus.eichlerianus
+Ranunculus.pentandrus:var.pentandrus
+Ranunculus.pentandrus:var.platycarpus
+Ranunculus.pumilio:var.politus
+Ranunculus.pumilio:var.pumilio
+Ranunculus.sessiliflorus:var.pilulifer
+Ranunculus.sessiliflorus:var.sessiliflorus
+Ranunculus[ranunculus|ligulatus]

@@ -1,0 +1,7 @@
+Linum.catharticum{cathartic flax}
+Linum.flavum
+Linum.marginale
+Linum.strictum
+Linum.trigynum{French flax}
+Linum.usitatissimum{flax}
+Linum.albidum

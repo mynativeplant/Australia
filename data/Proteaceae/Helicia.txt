@@ -1,1 +1,10 @@
 
+Helicia.australasica{Austral oak}
+Helicia.blakei
+Helicia.ferruginea{hairy honeysuckle}
+Helicia.glabriflora{Brown Oak}
+Helicia.grayi
+Helicia.lamingtoniana{Silky Oak}
+Helicia.lewisensis
+Helicia.nortoniana{Norton's silky oak}
+Helicia.recurva

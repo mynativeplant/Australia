@@ -1,0 +1,21 @@
+Gossia.acmenoides{scrub ironwood}
+Gossia.bamagensis
+Gossia.bidwillii{Lignum}
+Gossia.byrnesii
+Gossia.dallachyana
+Gossia.floribunda{Cape Ironwood}
+Gossia.fragrantissima
+Gossia.gonoclada{Angle-stemmed Myrtle}
+Gossia.grayi
+Gossia.hillii{scaly myrtle}
+Gossia.inophloia{threadbark myrtle}
+Gossia.lewisensis
+Gossia.lucida
+Gossia.macilwraithensis
+Gossia.myrsinocarpa
+Gossia.pubiflora
+Gossia.punctata{dotted myrtle}
+Gossia.retusa
+Gossia.sankowskyorum
+Gossia.shepherdii
+Gossia.dallachiana

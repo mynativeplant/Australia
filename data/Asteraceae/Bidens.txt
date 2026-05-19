@@ -1,0 +1,6 @@
+Bidens.alba{Spanish-needle}
+Bidens.aurea{Arizona beggar-ticks}
+Bidens.bipinnata{Spanish needles}
+Bidens.pilosa{Petaled Hairy Beggarticks}
+Bidens.subalternans{Great beggarticks}
+Bidens.tripartita{European beggarticks}

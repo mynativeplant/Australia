@@ -1,0 +1,22 @@
+Logania.albiflora
+Logania.archeri
+Logania.buxifolia
+Logania.cordifolia
+Logania.crassifolia{coast logania}
+Logania.diffusa
+Logania.fasciculata
+Logania.granitica
+Logania.insularis
+Logania.linifolia{flax-leaved logania}
+Logania.litoralis
+Logania.micrantha
+Logania.minor{Spoon-leaf Logania}
+Logania.nanophylla
+Logania.ovata{oval-leaf logania}
+Logania.perryana
+Logania.recurva{recurved logania}
+Logania.saxatilis{rock logania}
+Logania.scabrella
+Logania.stenophylla
+Logania.sylvicola
+Logania.vaginalis

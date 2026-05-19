@@ -1,0 +1,19 @@
+Persicaria.attenuata{Hairy Knotweed}
+Persicaria.barbata{bearded knotweed}
+Persicaria.capitata{Knotweed}
+Persicaria.decipiens{slender knotweed}
+Persicaria.dichotoma
+Persicaria.elatior{Tall Knotweed}
+Persicaria.glabra{smooth smartweed}
+Persicaria.hydropiper
+Persicaria.lanigera
+Persicaria.lapathifolia
+Persicaria.maculosa{blackheart}
+Persicaria.orientalis{kiss-me-over-the-garden-gate}
+Persicaria.prostrata{Creeping Knotweed}
+Persicaria.serrulata
+Persicaria.strigosa{spotted knotweed}
+Persicaria.subsessilis{Bristly waterpepper}
+Persicaria.attenuata:subsp.attenuata
+Persicaria.attenuata:subsp.pulchra
+Persicaria.praetermissa

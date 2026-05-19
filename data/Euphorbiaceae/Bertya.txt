@@ -1,0 +1,39 @@
+Bertya.brownii
+Bertya.calycina
+Bertya.cunninghamii
+Bertya.dimerostigma
+Bertya.ernestiana
+Bertya.findlayi
+Bertya.glandulosa
+Bertya.grampiana
+Bertya.granitica
+Bertya.gummifera
+Bertya.ingramii
+Bertya.lapicola
+Bertya.linearifolia
+Bertya.mollissima
+Bertya.oblonga
+Bertya.oleifolia
+Bertya.opponens
+Bertya.pedicellata
+Bertya.pinifolia{Moogerah Peaks bertya-shrub}
+Bertya.polystigma
+Bertya.pomaderrioides
+Bertya.recurvata
+Bertya.riparia
+Bertya.rosmarinifolia
+Bertya.rotundifolia{Kangaroo Island bertya}
+Bertya.sharpeana
+Bertya.tasmanica{Mitchell's Bertya}
+Bertya.virgata
+Bertya.cunninghamii:subsp.cunninghamii
+Bertya.cunninghamii:subsp.pubiramula
+Bertya.cunninghamii:subsp.rupicola
+Bertya.lapicola:subsp.brevifolia
+Bertya.lapicola:subsp.lapicola
+Bertya.pomaderroides
+Bertya.tasmanica:subsp.tasmanica
+Bertya.tasmanica:subsp.vestita
+Bertya.tasmanica:var.hairs
+Bertya.tasmanica:var.ovary
+Bertya.tasmanica:var.variant

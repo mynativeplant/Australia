@@ -1,0 +1,13 @@
+Picris.angustifolia
+Picris.barbarorum
+Picris.burbidgeae{Ox-tongue}
+Picris.compacta
+Picris.conyzoides
+Picris.drummondii
+Picris.eichleri
+Picris.evae
+Picris.squarrosa
+Picris.wagenitzii
+Picris.angustifolia:subsp.angustifolia
+Picris.angustifolia:subsp.carolorum-henricorum
+Picris.angustifolia:subsp.merxmuelleri

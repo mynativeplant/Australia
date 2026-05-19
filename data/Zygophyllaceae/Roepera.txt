@@ -1,0 +1,36 @@
+Roepera.ammophila{sand twinleaf}
+Roepera.angustifolia
+Roepera.apiculata{Pointed Twinleaf}
+Roepera.aurantiaca{Shrubby Twinleaf}
+Roepera.billardieri{Coast Twinleaf}
+Roepera.compressa{Rabbit-ears Twinleaf}
+Roepera.confluens{Forked Twinleaf}
+Roepera.crassissima
+Roepera.crenata{Notched Twinleaf}
+Roepera.eichleri
+Roepera.emarginata
+Roepera.eremaea{climbing twinleaf}
+Roepera.flava
+Roepera.fruticulosa
+Roepera.glauca{Pale twinleaf}
+Roepera.halophila
+Roepera.howittii{clasping twinleaf}
+Roepera.humillima
+Roepera.hybrida
+Roepera.iodocarpa{Violet Twinleaf}
+Roepera.kochii
+Roepera.lobulata
+Roepera.marliesiae
+Roepera.ovata{Dwarf Twinleaf}
+Roepera.prismatotheca
+Roepera.reticulata
+Roepera.retivalvis
+Roepera.rowelliae
+Roepera.similis{White Twinleaf}
+Roepera.tesquorum
+Roepera.tetraptera
+Roepera.aurantiaca:subsp.aurantiaca
+Roepera.aurantiaca:subsp.cuneata
+Roepera.aurantiaca:subsp.simplicifolia
+Roepera.aurantiaca:subsp.verticillata
+Roepera.billardierei

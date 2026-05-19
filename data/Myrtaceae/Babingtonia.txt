@@ -1,0 +1,13 @@
+Babingtonia.camphorosmae{Camphor Myrtle}
+Babingtonia.cherticola
+Babingtonia.delicata
+Babingtonia.erecta
+Babingtonia.fascifolia
+Babingtonia.grandiflora{large flowered babingtonia}
+Babingtonia.maleyae
+Babingtonia.minutifolia
+Babingtonia.pelloeae{Pelloe's Babingtonia}
+Babingtonia.peteriana
+Babingtonia.triandra
+Babingtonia.urbana
+Babingtonia.virgata(Howie's Sweet Midget){Heath Myrtle}

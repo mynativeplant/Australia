@@ -1,0 +1,10 @@
+Celtis.australis{European Hackberry}
+Celtis.occidentalis{hackberry}
+Celtis.paniculata{investigator-tree}
+Celtis.philippensis{Wight's hackberry}
+Celtis.sinensis{Chinese hackberry}
+Celtis.strychnoides
+Celtis.conferta
+Celtis.conferta:subsp.amblyphylla
+Celtis.hildebrandii
+Celtis.timorensis

@@ -1,0 +1,4 @@
+Ocimum.americanum{American basil}
+Ocimum.basilicum{basil}
+Ocimum.caryophyllinum
+Ocimum.tenuiflorum{brush-leaf-tea}

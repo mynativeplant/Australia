@@ -1,0 +1,16 @@
+Clematis.aristata{goat's-beard}
+Clematis.clitorioides
+Clematis.decipiens{Slender Clematis}
+Clematis.delicata
+Clematis.fawcettii{stream clematis}
+Clematis.flammula{Fragrant Clematis}
+Clematis.gentianoides{bushy clematis}
+Clematis.glycinoides{forest clematis}
+Clematis.leptophylla{fine-leaved clematis}
+Clematis.linearifolia{slender clematis}
+Clematis.microphylla{headachevine}
+Clematis.pickeringii{tropical clematis}
+Clematis.vitalba{evergreen clematis}
+Clematis.dubia
+Clematis.pubescens
+Clematis[](Southern Stars)

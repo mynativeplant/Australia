@@ -1,0 +1,34 @@
+Thomasia.angustifolia{Narrow-leaved thomasia}
+Thomasia.brachystachys
+Thomasia.cognata
+Thomasia.dielsii
+Thomasia.discolor
+Thomasia.foliosa
+Thomasia.formosa
+Thomasia.gardneri
+Thomasia.glabripetala
+Thomasia.grandiflora{large flowered thomasia}
+Thomasia.julietiae
+Thomasia.macrocalyx
+Thomasia.macrocarpa{large-fruited thomasia}
+Thomasia.microphylla
+Thomasia.montana
+Thomasia.multiflora
+Thomasia.pauciflora
+Thomasia.petalocalyx{paper flower}
+Thomasia.purpurea
+Thomasia.pygmaea{tiny thomasia}
+Thomasia.quercifolia
+Thomasia.rhynchocarpa
+Thomasia.rugosa
+Thomasia.sarotes
+Thomasia.solanacea
+Thomasia.stelligera
+Thomasia.tenuivestita
+Thomasia.tremandroides
+Thomasia.triloba
+Thomasia.triphylla
+Thomasia.paniculata
+Thomasia.rulingioides
+Thomasia[purpurea|solanacea]
+Thomasia[thomasia|formosa]

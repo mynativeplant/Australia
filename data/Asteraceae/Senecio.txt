@@ -1,0 +1,130 @@
+Senecio.anethifolius
+Senecio.angulatus{Cape-ivy}
+Senecio.apargiifolius
+Senecio.barkhausioides
+Senecio.bathurstianus{Rough Fireweed}
+Senecio.behrianus
+Senecio.bipinnatisectus{Australian Fireweed}
+Senecio.biserratus{Jagged Fireweed}
+Senecio.brigalowensis{fireweed}
+Senecio.campylocarpus
+Senecio.condylus
+Senecio.conferruminatus
+Senecio.crassiflorus{lavender steps}
+Senecio.cunninghamii{bushy groundsel}
+Senecio.daltonii
+Senecio.depressicola
+Senecio.diaschides{Shingle fireweed}
+Senecio.distalilobatus
+Senecio.dolichocephalus
+Senecio.elegans{Purple Groundsel}
+Senecio.eremicola
+Senecio.esleri{Esler's weed}
+Senecio.euclaensis
+Senecio.extensus
+Senecio.garlandii{woolly ragwort}
+Senecio.gawlerensis
+Senecio.georgianus
+Senecio.gilbertii
+Senecio.glabrescens
+Senecio.glastifolius{Woad-leaved Ragwort}
+Senecio.glomeratus
+Senecio.glossanthus{Slender Groundsel}
+Senecio.gunnii{mountain fireweed}
+Senecio.gypsicola
+Senecio.halophilus
+Senecio.hamersleyensis
+Senecio.helichrysoides
+Senecio.hispidissimus
+Senecio.hispidulus
+Senecio.hypoleucus{pale groundsel}
+Senecio.interpositus
+Senecio.laceratus
+Senecio.lacustrinus
+Senecio.lageniformis
+Senecio.lanibracteus{inland shrubby groundsel}
+Senecio.leucoglossus
+Senecio.linearifolius{Fireweed Groundsel}
+Senecio.longicollaris{riverina fireweed}
+Senecio.longipilus
+Senecio.macranthus
+Senecio.macrocarpus{fluffy groundsel}
+Senecio.macroglossus{Cape-ivy}
+Senecio.madagascariensis{Madagascar ragwort}
+Senecio.magnificus{camelweed}
+Senecio.megaglossus{superb groundsel}
+Senecio.microbasis
+Senecio.minimus{Toothed Fireweed}
+Senecio.multicaulis
+Senecio.murrayanus
+Senecio.nigrapicus
+Senecio.niveoplanus
+Senecio.odoratus
+Senecio.oldfieldii
+Senecio.orarius
+Senecio.phelleus{Rock Fireweed}
+Senecio.picridioides{fireweed}
+Senecio.pinnatifolius{pinnate-leaved groundsel}
+Senecio.platylepis
+Senecio.prenanthoides{Beaked Fireweed}
+Senecio.productus
+Senecio.psilocarpus
+Senecio.psilophyllus
+Senecio.pterophorus{Shoddy Ragwort}
+Senecio.quadridentatus{Cotton Fireweed}
+Senecio.queenslandicus
+Senecio.ramosissimus
+Senecio.runcinifolius{thistle-leaf groundsel}
+Senecio.scabrellus
+Senecio.serratiformis
+Senecio.spanomerus{Variable Groundsel}
+Senecio.spathulatus
+Senecio.squarrosus
+Senecio.tamoides{Canary Ragwort}
+Senecio.tasmanicus
+Senecio.tenuiflorus
+Senecio.tuberculatus
+Senecio.vagus
+Senecio.vulgaris
+Senecio.warrenensis
+Senecio.anethifolius:subsp.anethifolius
+Senecio.anethifolius:subsp.brevibracteolatus
+Senecio.australis
+Senecio.cunninghamii:var.cunninghamii
+Senecio.cunninghamii:var.flindersensis
+Senecio.evansianus
+Senecio.glomeratus:subsp.glomeratus
+Senecio.glomeratus:subsp.longifructus
+Senecio.gregorii
+Senecio.hooglandii
+Senecio.howeanus
+Senecio.linearifolius:var.arachnoideus
+Senecio.linearifolius:var.dangarensis
+Senecio.linearifolius:var.denticulatus
+Senecio.linearifolius:var.gariwerdensis
+Senecio.linearifolius:var.graniticola
+Senecio.linearifolius:var.intermedius
+Senecio.linearifolius:var.latifolius
+Senecio.linearifolius:var.linearifolius
+Senecio.linearifolius:var.macrodontus
+Senecio.multicaulis:subsp.multicaulis
+Senecio.multicaulis:subsp.stirlingensis
+Senecio.pauciradiatus
+Senecio.pinnatifolius:var.alpinus
+Senecio.pinnatifolius:var.capillifolius
+Senecio.pinnatifolius:var.lanceolatus
+Senecio.pinnatifolius:var.latilobus
+Senecio.pinnatifolius:var.leucocarpus
+Senecio.pinnatifolius:var.maritimus
+Senecio.pinnatifolius:var.pinnatifolius
+Senecio.pinnatifolius:var.serratus
+Senecio.productus:subsp.magnus
+Senecio.productus:subsp.productus
+Senecio.serratiformis:subsp.serratiformis
+Senecio.serratiformis:subsp.stenophyllus
+Senecio.spathulatus:var.attenuatus
+Senecio.spathulatus:var.latifructus
+Senecio.spathulatus:var.spathulatus
+Senecio.vagus:subsp.eglandulosus
+Senecio.vagus:subsp.vagus
+Senecio[senecio|orarius]

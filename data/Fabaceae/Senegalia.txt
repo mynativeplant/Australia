@@ -1,0 +1,7 @@
+Senegalia.albizioides
+Senegalia.chundra{Red Cutch Tree}
+Senegalia.kerrii{Climbing Wattle}
+Senegalia.pennata{Climbing Acacia}
+Senegalia.rugata{soap-pod}
+Senegalia.pennata:subsp.insuavis
+Senegalia.pennata:subsp.pennata

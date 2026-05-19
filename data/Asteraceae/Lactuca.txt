@@ -1,0 +1,2 @@
+Lactuca.saligna{least lettuce}
+Lactuca.serriola{China lettuce}

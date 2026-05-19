@@ -1,0 +1,279 @@
+Goodenia.affinis
+Goodenia.albiflora{white goodenia}
+Goodenia.aluta
+Goodenia.amplexans{clasping goodenia}
+Goodenia.anfracta
+Goodenia.angustifolia
+Goodenia.arachnoidea
+Goodenia.arenicola
+Goodenia.argillacea
+Goodenia.arguta{Toothed Velleia}
+Goodenia.armitiana
+Goodenia.armstrongiana
+Goodenia.arthrotricha
+Goodenia.asteriscus
+Goodenia.atriplexifolia
+Goodenia.austrina{Southern Blue-flowered Goodenia}
+Goodenia.azurea
+Goodenia.barbata
+Goodenia.bellidifolia
+Goodenia.benthamiana
+Goodenia.berardiana
+Goodenia.berringbinensis
+Goodenia.bicolor
+Goodenia.blackiana{Black's goodenia}
+Goodenia.brachypoda
+Goodenia.brendannarum
+Goodenia.brunnea
+Goodenia.byrnesii
+Goodenia.caerulea
+Goodenia.calcarata{streaked goodenia}
+Goodenia.campestris
+Goodenia.capillosa
+Goodenia.careyi
+Goodenia.caroliniana
+Goodenia.centralis
+Goodenia.chambersii
+Goodenia.chisholmii
+Goodenia.chthonocephala
+Goodenia.cirrifica
+Goodenia.claytoniacea
+Goodenia.collaris
+Goodenia.concinna
+Goodenia.connata{Cup Velleia}
+Goodenia.convexa
+Goodenia.coronopifolia
+Goodenia.corralina
+Goodenia.corynocarpa
+Goodenia.cravenii
+Goodenia.crenata
+Goodenia.crescentiloba
+Goodenia.cusackiana
+Goodenia.cycloptera{Cut-Leaf Goodenia}
+Goodenia.cycnopotamica
+Goodenia.cylindrocarpa
+Goodenia.daviesii
+Goodenia.debilis
+Goodenia.decurrens
+Goodenia.decursiva
+Goodenia.delicata
+Goodenia.dimorpha
+Goodenia.discophora
+Goodenia.disperma
+Goodenia.drummondii
+Goodenia.durackiana
+Goodenia.dyeri
+Goodenia.eatoniana
+Goodenia.effusa
+Goodenia.elaiosoma
+Goodenia.elderi
+Goodenia.elongata
+Goodenia.eremophila
+Goodenia.etheira
+Goodenia.exigua
+Goodenia.expansa
+Goodenia.fascicularis{mallee goodenia}
+Goodenia.fasciculata
+Goodenia.faucium
+Goodenia.filiformis
+Goodenia.fordiana
+Goodenia.forestii
+Goodenia.geniculata{Bent Goodenia}
+Goodenia.gibbosa
+Goodenia.glabra
+Goodenia.glabrata
+Goodenia.glandulosa
+Goodenia.glareicola
+Goodenia.glauca
+Goodenia.gloeophylla
+Goodenia.glomerata
+Goodenia.goodeniacea
+Goodenia.gracilis{slender goodenia}
+Goodenia.grandiflora{Large-flowered Goodenia}
+Goodenia.granitica
+Goodenia.gypsicola
+Goodenia.halophila
+Goodenia.hartiana
+Goodenia.hassallii
+Goodenia.havilandi
+Goodenia.heatheriana
+Goodenia.hederacea{Ivy Goodenia}
+Goodenia.helmsii
+Goodenia.heppleana
+Goodenia.heterochila
+Goodenia.heteromera
+Goodenia.heterophylla
+Goodenia.heterotricha
+Goodenia.hirsuta
+Goodenia.hispida
+Goodenia.holtzeana
+Goodenia.humilis{swamp Goodenia}
+Goodenia.incana{Hoary Goodenia}
+Goodenia.integerrima
+Goodenia.inundata
+Goodenia.iyouta
+Goodenia.jabailyae
+Goodenia.janamba
+Goodenia.jaurdiensis
+Goodenia.kakadu
+Goodenia.katabudjar
+Goodenia.kingiana
+Goodenia.krauseana
+Goodenia.laevis
+Goodenia.lamprosperma
+Goodenia.lanata{trailing Goodenia}
+Goodenia.lancifolia
+Goodenia.larapinta
+Goodenia.leiosperma
+Goodenia.leptoclada
+Goodenia.lineata{Grampians goodenia}
+Goodenia.lobata
+Goodenia.lunata{Hairy Goodenia}
+Goodenia.lyrata
+Goodenia.macbarronii
+Goodenia.macmillanii{Pinnate Goodenia}
+Goodenia.macrocalyx
+Goodenia.macrophylla
+Goodenia.macroplectra
+Goodenia.maideniana
+Goodenia.malvina
+Goodenia.maretensis
+Goodenia.megasepala
+Goodenia.micrantha
+Goodenia.microptera
+Goodenia.mimuloides
+Goodenia.minutiflora
+Goodenia.modesta
+Goodenia.montana
+Goodenia.mueckeana
+Goodenia.muelleriana
+Goodenia.mystrophylla{northern velleia}
+Goodenia.neglecta
+Goodenia.neogoodenia
+Goodenia.nigrescens
+Goodenia.nocoleche
+Goodenia.nuda
+Goodenia.obscurata
+Goodenia.occidentalis
+Goodenia.ochracea
+Goodenia.odonnellii
+Goodenia.oenpelliensis
+Goodenia.ovata{hop goodenia}
+Goodenia.pallida
+Goodenia.paludicola
+Goodenia.panduriformis{Pindan poison}
+Goodenia.paniculata{branched goodenia}
+Goodenia.paradoxa{Spur Goodenia}
+Goodenia.parvisepta
+Goodenia.pascua
+Goodenia.peacockiana
+Goodenia.pedicellata
+Goodenia.perfoliata
+Goodenia.perryi
+Goodenia.phillipsiae
+Goodenia.phylicoides
+Goodenia.pilosa
+Goodenia.pinifolia
+Goodenia.pinnatifida{cut-leaf goodenia}
+Goodenia.porphyrea
+Goodenia.potamica
+Goodenia.procumbens{Procumbent Goodenia}
+Goodenia.prostrata
+Goodenia.psammophila
+Goodenia.pterygosperma
+Goodenia.pulchella
+Goodenia.pumilio
+Goodenia.purpurascens
+Goodenia.purpurea
+Goodenia.pusilla
+Goodenia.pusilliflora{small-flower Goodenia}
+Goodenia.quadrifida
+Goodenia.quadrilocularis
+Goodenia.quartzitica
+Goodenia.quasilibera
+Goodenia.racemosa
+Goodenia.radicans{Bonking grass}
+Goodenia.ramelii
+Goodenia.redacta
+Goodenia.reinwardtii{common verreauxia}
+Goodenia.robusta{woolly goodenia}
+Goodenia.rosea{Pink Velleia}
+Goodenia.rostrivalvis
+Goodenia.rotundifolia{Star Goodenia}
+Goodenia.rupestris
+Goodenia.saccata
+Goodenia.salina
+Goodenia.salmoniana
+Goodenia.scaevolina
+Goodenia.scapigera
+Goodenia.schwerinensis
+Goodenia.sepalosa
+Goodenia.sericostachya
+Goodenia.splendida
+Goodenia.stellata
+Goodenia.stelligera{spiked goodenia}
+Goodenia.stenophylla
+Goodenia.stephensonii
+Goodenia.stirlingii
+Goodenia.stobbsiana
+Goodenia.strangfordii{Wide-leaved Goodenia}
+Goodenia.strophiolata
+Goodenia.subauriculata
+Goodenia.subsolana
+Goodenia.suffrutescens
+Goodenia.symonii
+Goodenia.tenuiloba
+Goodenia.trichophylla
+Goodenia.trinervis{Common Velleia}
+Goodenia.triodiophila{spinifex goodenia}
+Goodenia.tripartita
+Goodenia.turleyae
+Goodenia.valdentata
+Goodenia.vanleeuweniana
+Goodenia.varia{Sticky Goodenia}
+Goodenia.vernicosa{wavy goodenia}
+Goodenia.verreauxii
+Goodenia.vilmorinae
+Goodenia.virgata
+Goodenia.viridula
+Goodenia.viscida{viscid goodenia}
+Goodenia.viscidula
+Goodenia.watsonii
+Goodenia.willisiana{Sandhill Goodenia}
+Goodenia.wilunensis
+Goodenia.xanthosperma{yellow seed goodenia}
+Goodenia.xanthotricha
+Goodenia.azurea:subsp.azurea
+Goodenia.azurea:subsp.hesperia
+Goodenia.bellidifolia:subsp.argentea
+Goodenia.bellidifolia:subsp.bellidifolia
+Goodenia.dimorpha:var.angustifolia
+Goodenia.dimorpha:var.dimorpha
+Goodenia.drummondii:subsp.drummondii
+Goodenia.drummondii:subsp.megaphylla
+Goodenia.forrestii
+Goodenia.havilandii
+Goodenia.hederacea:subsp.alpestris
+Goodenia.hederacea:subsp.hederacea
+Goodenia.heterophylla:subsp.eglandulosa
+Goodenia.heterophylla:subsp.heterophylla
+Goodenia.heterophylla:subsp.montana
+Goodenia.heterophylla:subsp.teucriifolia
+Goodenia.hirsuta:subsp.areas
+Goodenia.laevis:subsp.humifusa
+Goodenia.laevis:subsp.laevis
+Goodenia.pritzelii
+Goodenia.psammophila:subsp.hiddinsiana
+Goodenia.psammophila:subsp.psammophila
+Goodenia.pterigosperma
+Goodenia.racemosa:var.latifolia
+Goodenia.racemosa:var.racemosa
+Goodenia.rosulata
+Goodenia.scaevolina:subsp.scaevolina
+Goodenia.scapigera:subsp.graniticola
+Goodenia.scapigera:subsp.scapigera
+Goodenia.sepalosa:var.glandulosa
+Goodenia.sepalosa:var.sepalosa
+Goodenia.vilmoriniae
+Goodenia.watsonii:subsp.glandulosa
+Goodenia.watsonii:subsp.watsonii

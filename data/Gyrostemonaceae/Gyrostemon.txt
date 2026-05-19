@@ -1,0 +1,13 @@
+Gyrostemon.australasicus{false buckbush}
+Gyrostemon.brownii
+Gyrostemon.ditrigynus
+Gyrostemon.osmus
+Gyrostemon.prostratus
+Gyrostemon.racemiger
+Gyrostemon.ramulosus
+Gyrostemon.reticulatus
+Gyrostemon.sessilis
+Gyrostemon.sheathii
+Gyrostemon.subnudus
+Gyrostemon.tepperi
+Gyrostemon.thesioides{Broom Wheel-fruit}

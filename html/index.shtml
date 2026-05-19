@@ -1,0 +1,586 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Native Plant</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --bg: #f3efe3;
+      --bg-accent: #d7e6c5;
+      --card: rgba(255, 255, 255, 0.86);
+      --card-border: rgba(54, 78, 45, 0.14);
+      --text: #20311c;
+      --muted: #5f6f59;
+      --accent: #3f6a35;
+      --accent-strong: #2d5224;
+      --shadow: 0 24px 60px rgba(41, 59, 31, 0.14);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: Georgia, "Times New Roman", serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at top left, rgba(214, 233, 197, 0.95), transparent 36%),
+        radial-gradient(circle at right 20%, rgba(164, 201, 141, 0.35), transparent 28%),
+        linear-gradient(180deg, var(--bg) 0%, #faf7ef 100%);
+    }
+
+    main {
+      min-height: 100vh;
+      display: grid;
+      place-items: center;
+      padding: 2rem;
+    }
+
+    .panel {
+      width: min(720px, 100%);
+      padding: clamp(1.5rem, 4vw, 3rem);
+      border: 1px solid var(--card-border);
+      border-radius: 28px;
+      background: var(--card);
+      box-shadow: var(--shadow);
+      backdrop-filter: blur(14px);
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(2.2rem, 5.4vw, 4rem);
+      line-height: 0.98;
+      letter-spacing: -0.04em;
+    }
+
+    .page-title {
+      margin: 0;
+      font-size: clamp(1.6rem, 4vw, 2.8rem);
+      line-height: 1.05;
+    }
+
+    .lede {
+      margin: 1rem 0 0;
+      max-width: 56ch;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1rem;
+      line-height: 1.6;
+      color: var(--muted);
+    }
+
+    form {
+      margin-top: 2rem;
+      display: grid;
+      gap: 1rem;
+    }
+
+    .search-panel {
+      margin-top: 1.75rem;
+      padding: 1.1rem 1.1rem 0.9rem;
+      border: 1px solid rgba(63, 106, 53, 0.16);
+      border-radius: 20px;
+      background: rgba(255, 255, 255, 0.55);
+    }
+
+    .search-header {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.4rem 0.75rem;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 0.8rem;
+    }
+
+    .search-title {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--accent-strong);
+    }
+
+    .search-hint {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.86rem;
+      color: var(--muted);
+    }
+
+    .search-results {
+      display: grid;
+      gap: 0.75rem;
+      margin-top: 0.9rem;
+    }
+
+    .search-result {
+      padding: 0.9rem 1rem;
+      border-radius: 16px;
+      border: 1px solid rgba(63, 106, 53, 0.14);
+      background: rgba(248, 245, 234, 0.92);
+    }
+
+    .search-result.search-result-species {
+      background: rgba(244, 242, 228, 0.98);
+    }
+
+    .search-result.search-result-hybrid {
+      background: rgba(236, 245, 236, 0.98);
+    }
+
+    .search-result.search-result-cultivar {
+      background: rgba(244, 238, 246, 0.98);
+    }
+
+    .search-result-main {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.45rem;
+    }
+
+    .search-result-matched {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.33rem 0.7rem;
+      border-radius: 999px;
+      border: 1px solid rgba(63, 106, 53, 0.18);
+      background: rgba(63, 106, 53, 0.1);
+      color: var(--accent-strong);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .search-result-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.33rem 0.7rem;
+      border-radius: 999px;
+      border: 1px solid rgba(63, 106, 53, 0.18);
+      background: rgba(63, 106, 53, 0.08);
+      color: var(--accent-strong);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.8rem;
+      font-weight: 700;
+      white-space: nowrap;
+    }
+
+    .search-result-badges {
+      display: inline-flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    .search-result-name {
+      margin: 0;
+      font-weight: 700;
+      color: var(--accent-strong);
+    }
+
+    .search-result-code {
+      margin-top: 0.55rem;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.85rem;
+      line-height: 1.5;
+      color: var(--muted);
+      word-break: break-word;
+    }
+
+    .search-result a {
+      color: var(--accent-strong);
+      font-weight: 700;
+      text-decoration: none;
+    }
+
+    .search-result a:hover,
+    .search-result a:focus-visible {
+      text-decoration: underline;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 0.45rem;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.92rem;
+      font-weight: 700;
+      color: var(--accent-strong);
+    }
+
+    select,
+    input,
+    button {
+      width: 100%;
+      min-height: 3.25rem;
+      border-radius: 14px;
+      border: 1px solid rgba(63, 106, 53, 0.24);
+      font: inherit;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+
+    select {
+      padding: 0.8rem 1rem;
+      background: rgba(255, 255, 255, 0.95);
+      color: var(--text);
+    }
+
+    input {
+      padding: 0.8rem 1rem;
+      background: rgba(255, 255, 255, 0.95);
+      color: var(--text);
+    }
+
+    button {
+      padding: 0.85rem 1.1rem;
+      border: 0;
+      background: linear-gradient(180deg, var(--accent) 0%, var(--accent-strong) 100%);
+      color: #fff;
+      font-weight: 700;
+      cursor: pointer;
+      box-shadow: 0 12px 24px rgba(45, 82, 36, 0.2);
+    }
+
+    button:disabled {
+      opacity: 0.55;
+      cursor: not-allowed;
+    }
+
+    .status {
+      min-height: 1.5rem;
+      margin: 0.65rem 0 0;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.92rem;
+      color: var(--muted);
+    }
+
+    .footer {
+      margin-top: 1.5rem;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.85rem;
+      color: var(--muted);
+    }
+
+    .footer a {
+      color: var(--accent-strong);
+    }
+
+    .chip {
+      display: inline-flex;
+      align-items: center;
+      min-height: 1.7rem;
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+      background: rgba(63, 106, 53, 0.08);
+      border: 1px solid rgba(63, 106, 53, 0.14);
+      color: var(--accent-strong);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.78rem;
+      font-weight: 700;
+    }
+
+    .empty {
+      padding: 0.9rem 1rem;
+      border-radius: 16px;
+      border: 1px dashed rgba(63, 106, 53, 0.2);
+      background: rgba(255, 255, 255, 0.7);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="panel" aria-labelledby="page-title">
+      <!--#include virtual="/header.html" -->
+      <h1 id="page-title" class="page-title">Choose a family and genus</h1>
+      <p class="lede">
+        Explore the collection by family and genus. Choose a family first, then select a specific genus to open the listing.
+      </p>
+
+      <form id="family-form">
+        <div>
+          <label for="family-select">Family</label>
+          <select id="family-select" name="family" disabled>
+            <option>Loading families...</option>
+          </select>
+        </div>
+        <div>
+          <label for="genus-select">Genus</label>
+          <select id="genus-select" name="genus" disabled>
+            <option value="">Choose a family first</option>
+          </select>
+        </div>
+        <button id="view-family" type="submit" disabled>View plants</button>
+        <p class="status" id="status" aria-live="polite"></p>
+      </form>
+
+      <section class="search-panel" aria-labelledby="quick-search-title">
+        <div class="search-header">
+          <h2 id="quick-search-title" class="search-title">Quick Search</h2>
+          <p class="search-hint">Live fuzzy search across every family and genus.</p>
+        </div>
+        <div>
+          <label for="quick-search">Search string</label>
+          <input id="quick-search" name="quick-search" type="search" autocomplete="off" placeholder="Try banksia, birthday candles, or giant triggerplant">
+        </div>
+        <p class="status" id="search-status" aria-live="polite"></p>
+        <div id="search-results" class="search-results" aria-live="polite"></div>
+      </section>
+
+      <p class="footer">
+        Family data is loaded from <a href="/webservice/list-families">/webservice/list-families</a>, and genus data comes from <a href="/webservice/list-genera">/webservice/list-genera</a>. Both selections are required.
+      </p>
+      <!--#include virtual="/footer.html" -->
+    </section>
+  </main>
+
+  <script>
+    (function () {
+      const select = document.getElementById("family-select");
+      const genusSelect = document.getElementById("genus-select");
+      const form = document.getElementById("family-form");
+      const status = document.getElementById("status");
+      const button = document.getElementById("view-family");
+      const searchInput = document.getElementById("quick-search");
+      const searchStatus = document.getElementById("search-status");
+      const searchResults = document.getElementById("search-results");
+      let genusRequestId = 0;
+      let searchRequestId = 0;
+      let searchTimer = 0;
+
+      function escapeHtml(value) {
+        return String(value)
+          .replace(/&/g, "&amp;")
+          .replace(/</g, "&lt;")
+          .replace(/>/g, "&gt;")
+          .replace(/\"/g, "&quot;");
+      }
+
+      function setStatus(message, isError) {
+        status.textContent = message;
+        status.style.color = isError ? "#8a3b2f" : "";
+      }
+
+      function setSearchStatus(message, isError) {
+        searchStatus.textContent = message;
+        searchStatus.style.color = isError ? "#8a3b2f" : "";
+      }
+
+      function populateFamilies(families) {
+        const options = ["<option value=\"\">Choose a family</option>"];
+        families.forEach((family) => {
+          const escaped = escapeHtml(family);
+          options.push(`<option value="${escaped}">${escaped}</option>`);
+        });
+        select.innerHTML = options.join("");
+        select.disabled = false;
+        setStatus(`${families.length} families loaded.`);
+      }
+
+      function populateGenera(genera) {
+        const options = ["<option value=\"\">Choose a genus</option>"];
+        genera.forEach((genus) => {
+          const escaped = escapeHtml(genus);
+          options.push(`<option value="${escaped}">${escaped}</option>`);
+        });
+        genusSelect.innerHTML = options.join("");
+        genusSelect.disabled = false;
+        button.disabled = false;
+      }
+
+      function clearGenera(message) {
+        genusSelect.innerHTML = `<option value=\"\">${escapeHtml(message)}</option>`;
+        genusSelect.disabled = true;
+        button.disabled = true;
+      }
+
+      function renderSearchResults(results, searchQuery) {
+        if (!results.length) {
+          searchResults.innerHTML = '<div class="empty">No matching plants were returned.</div>';
+          return;
+        }
+
+        searchResults.innerHTML = results.map((result) => {
+          const displayName = escapeHtml(result.display_name || "Unnamed plant");
+          const type = String(result.type || "").toLowerCase();
+          const typeClass = `search-result-${String(result.type || "").toLowerCase()}`;
+          const family = escapeHtml(result.family || "");
+          const genus = escapeHtml(result.genus || "");
+          const matchedField = escapeHtml(result.matched_field || "");
+          const plantLink = result.family && result.genus
+            ? `/index_plants.shtml?family=${encodeURIComponent(result.family)}&genus=${encodeURIComponent(result.genus)}`
+            : "#";
+
+          return `
+            <article class="search-result ${typeClass}">
+              <div class="search-result-main">
+                <p class="search-result-name"><a href="${plantLink}">${displayName}</a></p>
+                <div class="search-result-badges">
+                  <span class="search-result-matched">Matched: ${matchedField}</span>
+                  <span class="search-result-pill">Family: ${family}</span>
+                  <span class="search-result-pill">Genus: ${genus}</span>
+                </div>
+              </div>
+            </article>
+          `;
+        }).join("");
+      }
+
+      function clearSearchResults(message) {
+        searchResults.innerHTML = "";
+        setSearchStatus(message || "", false);
+      }
+
+      function loadSearchResults(query) {
+        const searchQuery = String(query || "").trim();
+        const requestId = ++searchRequestId;
+
+        if (!searchQuery) {
+          clearSearchResults("Type to search the full collection.");
+          return;
+        }
+
+        setSearchStatus(`Searching for ${searchQuery}...`);
+        searchResults.innerHTML = '<div class="empty">Searching...</div>';
+
+        fetch(`/webservice/search?string=${encodeURIComponent(searchQuery)}`, {
+          headers: { Accept: "application/json" },
+        })
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error(`Request failed with status ${response.status}`);
+            }
+            return response.json();
+          })
+          .then((payload) => {
+            if (requestId !== searchRequestId) {
+              return;
+            }
+
+            const results = Array.isArray(payload.results) ? payload.results.slice() : [];
+            renderSearchResults(results, searchQuery);
+            setSearchStatus(
+              results.length
+                ? `${results.length} result${results.length === 1 ? "" : "s"} returned for ${searchQuery}.`
+                : `No results were returned for ${searchQuery}.`
+            );
+          })
+          .catch((error) => {
+            if (requestId !== searchRequestId) {
+              return;
+            }
+            searchResults.innerHTML = '<div class="empty">Search results could not be loaded.</div>';
+            setSearchStatus(`Could not load search results: ${error.message}`, true);
+          });
+      }
+
+      function scheduleSearch() {
+        if (searchTimer) {
+          window.clearTimeout(searchTimer);
+        }
+        searchTimer = window.setTimeout(function () {
+          loadSearchResults(searchInput.value);
+        }, 220);
+      }
+
+      function loadGenera(family) {
+        if (!family) {
+          clearGenera("Choose a family first");
+          return;
+        }
+
+        const requestId = ++genusRequestId;
+        clearGenera("Loading genera...");
+        setStatus(`Loading genera for ${family}...`);
+
+        fetch(`/webservice/list-genera?family=${encodeURIComponent(family)}`, {
+          headers: { Accept: "application/json" },
+        })
+          .then((response) => {
+            if (!response.ok) {
+              throw new Error(`Request failed with status ${response.status}`);
+            }
+            return response.json();
+          })
+          .then((payload) => {
+            if (requestId !== genusRequestId) {
+              return;
+            }
+            const genera = Array.isArray(payload.genera) ? payload.genera.slice() : [];
+            genera.sort((a, b) => String(a).localeCompare(String(b)));
+            populateGenera(genera);
+            setStatus(
+              genera.length ? `${genera.length} genera loaded for ${family}.` : `No genera were returned for ${family}.`
+            );
+          })
+          .catch((error) => {
+            if (requestId !== genusRequestId) {
+              return;
+            }
+            clearGenera("Genera unavailable");
+            setStatus(`Could not load genera: ${error.message}`, true);
+          });
+      }
+
+      fetch("/webservice/list-families", { headers: { Accept: "application/json" } })
+        .then((response) => {
+          if (!response.ok) {
+            throw new Error(`Request failed with status ${response.status}`);
+          }
+          return response.json();
+        })
+        .then((payload) => {
+          const families = Array.isArray(payload.families) ? payload.families.slice() : [];
+          families.sort((a, b) => String(a).localeCompare(String(b)));
+          if (!families.length) {
+            throw new Error("No families were returned.");
+          }
+          populateFamilies(families);
+        })
+        .catch((error) => {
+          select.innerHTML = "<option value=\"\">Families unavailable</option>";
+          genusSelect.innerHTML = "<option value=\"\">Genera unavailable</option>";
+          setStatus(`Could not load families: ${error.message}`, true);
+        });
+
+      select.addEventListener("change", function () {
+        const family = select.value;
+        button.disabled = true;
+        if (!family) {
+          clearGenera("Choose a family first");
+          setStatus("Pick a family first.", true);
+          return;
+        }
+        loadGenera(family);
+      });
+
+      form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        const family = select.value;
+        const genus = genusSelect.value;
+        if (!family) {
+          setStatus("Pick a family first.", true);
+          return;
+        }
+        if (!genus) {
+          setStatus("Pick a genus first.", true);
+          return;
+        }
+        window.sessionStorage.setItem("mnpSelectedFamily", family);
+        window.sessionStorage.setItem("mnpSelectedGenus", genus);
+        window.location.href = "/index_plants.shtml";
+      });
+
+      searchInput.addEventListener("input", scheduleSearch);
+      setSearchStatus("Type to search the full collection.");
+    })();
+  </script>
+</body>
+</html>

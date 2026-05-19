@@ -1,0 +1,5 @@
+Carduus.acanthoides{plumeless-thistle}
+Carduus.macrocephalus{Giant Thistle}
+Carduus.nutans{musk thistle}
+Carduus.pycnocephalus
+Carduus.tenuiflorus{Winged thistle}

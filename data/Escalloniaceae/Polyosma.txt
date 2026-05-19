@@ -1,0 +1,8 @@
+Polyosma.alangiacea{White alder}
+Polyosma.cunninghamii{Featherwood}
+Polyosma.globosa
+Polyosma.hirsuta{Hairy polyosma}
+Polyosma.nigrescens
+Polyosma.reducta
+Polyosma.rhytiphloia
+Polyosma.rigidiuscula

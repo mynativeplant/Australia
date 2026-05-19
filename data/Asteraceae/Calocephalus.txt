@@ -1,0 +1,16 @@
+Calocephalus.badmanii
+Calocephalus.beardii
+Calocephalus.birchii
+Calocephalus.brownii
+Calocephalus.citreus{Lemon Beauty-heads}
+Calocephalus.francisii{Fine-leaf Beauty-heads}
+Calocephalus.glabratus
+Calocephalus.globosus
+Calocephalus.knappii
+Calocephalus.lacteus{Milky Beauty-heads}
+Calocephalus.multiflorus{Yellow-top}
+Calocephalus.pilbarensis
+Calocephalus.platycephalus{Billy Buttons}
+Calocephalus.priceanus
+Calocephalus.skeatsiana
+Calocephalus.sonderi{Pale Beauty-heads}

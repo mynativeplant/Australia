@@ -1,0 +1,13 @@
+Leiocarpa.brevicompta{flat billybuttons}
+Leiocarpa.gatesii
+Leiocarpa.leptolepis{stalked plover-daisy}
+Leiocarpa.panaetioides
+Leiocarpa.pluriseta
+Leiocarpa.semicalva
+Leiocarpa.serpens
+Leiocarpa.supina{coast plover daisy}
+Leiocarpa.tomentosa
+Leiocarpa.websteri
+Leiocarpa.semicalva:subsp.semicalva
+Leiocarpa.semicalva:subsp.tenuifolia
+Leiocarpa.semicalva:subsp.vinacea

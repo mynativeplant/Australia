@@ -1,0 +1,5 @@
+Stachytarpheta.adulterina
+Stachytarpheta.cayennensis{Cayenne snakeweed}
+Stachytarpheta.jamaicensis{Purple Worm Bush}
+Stachytarpheta.mutabilis{coral porterweed}
+Stachytarpheta.urticifolia

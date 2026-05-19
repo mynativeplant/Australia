@@ -1,0 +1,11 @@
+Peperomia.bellendenkerensis
+Peperomia.enervis
+Peperomia.hunteriana
+Peperomia.leptostachya
+Peperomia.pellucida{Icing Grass}
+Peperomia.tetraphylla{Four-leafed Pepper Plant}
+Peperomia.blanda
+Peperomia.laevifolia
+Peperomia.rossii
+Peperomia.urvilleana
+Peperomia[leptostachya|tetraphylla]

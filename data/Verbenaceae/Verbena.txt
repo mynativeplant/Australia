@@ -1,0 +1,11 @@
+Verbena.bonariensis{Argentina vervain}
+Verbena.brasiliensis{Brazilian vervain}
+Verbena.hispida{Hairy Vervain}
+Verbena.litoralis{Brazilian Vervain}
+Verbena.officinalis{European vervain}
+Verbena.rigida{Slender Vervain}
+Verbena.supina{Trailing Vervain}
+Verbena.africana
+Verbena.gaudichaudii
+Verbena.macrostachya
+Verbena.officinalis:var.monticola

@@ -1,0 +1,2 @@
+Cichorium.endivia{endive}
+Cichorium.intybus{chicory}

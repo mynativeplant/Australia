@@ -1,0 +1,4 @@
+Gamochaeta.antillana{Caribbean everlasting}
+Gamochaeta.pensylvanica{Pennsylvania cudweed}
+Gamochaeta.platensis
+Gamochaeta.purpurea{purple cudweed}

@@ -1,0 +1,5 @@
+Tetracera.daemeliana{Large-leaved fire vine}
+Tetracera.nordtiana{small-leaved fire vine}
+Tetracera.nordtiana:var.moluccana
+Tetracera.nordtiana:var.nordtiana
+Tetracera.nordtiana:var.wuthiana

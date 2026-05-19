@@ -1,0 +1,3 @@
+Scutellaria.humilis{dwarf skullcap}
+Scutellaria.mollis
+Scutellaria.racemosa

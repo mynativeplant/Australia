@@ -1,0 +1,3 @@
+Jatropha.curcas{Grave Physic Nut}
+Jatropha.gossypiifolia{Oil Nut Tree}
+Jatropha.multifida{French physicnut}

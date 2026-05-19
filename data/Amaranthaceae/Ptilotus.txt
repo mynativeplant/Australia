@@ -1,0 +1,145 @@
+Ptilotus.actinocladus
+Ptilotus.aervoides
+Ptilotus.albidus
+Ptilotus.alexandri
+Ptilotus.andersonii
+Ptilotus.angustifolius
+Ptilotus.aphyllus{leafless mulla mulla}
+Ptilotus.appendiculatus
+Ptilotus.aristatus
+Ptilotus.arthrolasius
+Ptilotus.astrolasius
+Ptilotus.auriculifolius
+Ptilotus.axillaris{mat mulla mulla}
+Ptilotus.barkeri
+Ptilotus.beardii
+Ptilotus.beckerianus{Ironstone Mulla Mulla}
+Ptilotus.benlii
+Ptilotus.blackii
+Ptilotus.brachyanthus
+Ptilotus.caespitulosus
+Ptilotus.calostachyus{weeping mulla mulla}
+Ptilotus.capensis
+Ptilotus.capitatus
+Ptilotus.carinatus
+Ptilotus.carlsonii
+Ptilotus.chamaecladus
+Ptilotus.chippendalei
+Ptilotus.chortophytum
+Ptilotus.chrysocomus
+Ptilotus.clementii{tassel top}
+Ptilotus.clivicolus
+Ptilotus.comatus
+Ptilotus.conicus
+Ptilotus.corymbosus
+Ptilotus.crinitus
+Ptilotus.crispus
+Ptilotus.crosslandii
+Ptilotus.daphne
+Ptilotus.davisii
+Ptilotus.decalvatus
+Ptilotus.decipiens
+Ptilotus.declinatus{curved mulla mulla}
+Ptilotus.disparilis
+Ptilotus.dissitiflorus
+Ptilotus.distans
+Ptilotus.divaricatus{climbing mulla mulla}
+Ptilotus.drummondii{Drummond's mulla mulla}
+Ptilotus.durus
+Ptilotus.eremita
+Ptilotus.eriotrichus
+Ptilotus.erubescens{hairy heads}
+Ptilotus.esquamatus
+Ptilotus.exaltatus{Pink Mulla Mulla}
+Ptilotus.exiliflorus
+Ptilotus.extenuatus
+Ptilotus.falcatus
+Ptilotus.fasciculatus
+Ptilotus.fusiformis
+Ptilotus.gardneri
+Ptilotus.gaudichaudii{paper foxtail}
+Ptilotus.giganteus
+Ptilotus.gomphrenoides
+Ptilotus.grandiflorus
+Ptilotus.halophilus
+Ptilotus.helichrysoides
+Ptilotus.helipteroides{hairy mulla mulla}
+Ptilotus.holosericeus
+Ptilotus.humilis
+Ptilotus.incanus
+Ptilotus.indivisus
+Ptilotus.johnstonianus
+Ptilotus.kenneallyanus
+Ptilotus.lanatus
+Ptilotus.latifolius{Tangled Mulla Mulla}
+Ptilotus.lazaridis
+Ptilotus.leucocoma
+Ptilotus.lophotrichus
+Ptilotus.luteolus
+Ptilotus.maconochiei
+Ptilotus.macrocephalus{featherheads}
+Ptilotus.manglesii{pom pom}
+Ptilotus.marduguru
+Ptilotus.mitchellii
+Ptilotus.modestus
+Ptilotus.mollis
+Ptilotus.murrayi
+Ptilotus.nobilis{regal-foxtail}
+Ptilotus.obovatus{Prince-of-Wales-feather}
+Ptilotus.ostentans
+Ptilotus.parviflorus
+Ptilotus.parvifolius
+Ptilotus.pedleyanus
+Ptilotus.polakii
+Ptilotus.polystachyus{Prince of Wales Feather}
+Ptilotus.procumbens
+Ptilotus.propinquus
+Ptilotus.pseudohelipteroides
+Ptilotus.psilorhachis
+Ptilotus.pyramidatus{pyramid mulla mulla}
+Ptilotus.remotiflorus
+Ptilotus.rigidus
+Ptilotus.robynsianus
+Ptilotus.roei
+Ptilotus.rotundatus
+Ptilotus.rotundifolius{Royal Mulla Mulla}
+Ptilotus.royceanus
+Ptilotus.schwartzii{Horse mulla mulla}
+Ptilotus.semilanatus
+Ptilotus.seminudus{Rabbit-tails}
+Ptilotus.senarius
+Ptilotus.sericostachyus
+Ptilotus.sessilifolius{Crimson Foxtail}
+Ptilotus.spathulatus{pussy tails}
+Ptilotus.spicatus
+Ptilotus.stipitatus
+Ptilotus.stirlingii
+Ptilotus.subspinescens
+Ptilotus.symonii
+Ptilotus.tetrandrus
+Ptilotus.trichocephalus
+Ptilotus.uncinellus
+Ptilotus.unguiculatus
+Ptilotus.villosiflorus
+Ptilotus.whitei
+Ptilotus.wilsonii
+Ptilotus.xerophilus
+Ptilotus.yapukaratja
+Ptilotus.aristatus:subsp.aristatus
+Ptilotus.aristatus:subsp.micranthus
+Ptilotus.chortophytus
+Ptilotus.clivicola
+Ptilotus.drummondii:var.drummondii
+Ptilotus.drummondii:var.elongatus
+Ptilotus.drummondii:var.minor
+Ptilotus.drummondii:var.scaposus
+Ptilotus.gomphrenoides:var.gomphrenoides
+Ptilotus.polakii:subsp.juxta
+Ptilotus.polakii:subsp.polakii
+Ptilotus.schwartzii:var.georgei
+Ptilotus.schwartzii:var.schwartzii
+Ptilotus.sericostachyus:subsp.roseus
+Ptilotus.sericostachyus:subsp.sericostachyus
+Ptilotus.stirlingii:subsp.australis
+Ptilotus.stirlingii:subsp.stirlingii
+Ptilotus[polystachyus|xerophilus]

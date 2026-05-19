@@ -1,0 +1,20 @@
+Pterocaulon.ciliosum
+Pterocaulon.discolor
+Pterocaulon.globuliferus
+Pterocaulon.intermedium
+Pterocaulon.niveum
+Pterocaulon.paradoxum
+Pterocaulon.redolens
+Pterocaulon.serrulatum{Apple Bush}
+Pterocaulon.sphacelatum{Applebush}
+Pterocaulon.sphaeranthoides
+Pterocaulon.tricholobum
+Pterocaulon.verbascifolium
+Pterocaulon.xenicum
+Pterocaulon.globuliflorum
+Pterocaulon.serrulatum:var.serrulatum
+Pterocaulon.serrulatum:var.velutinum
+Pterocaulon[ciliosum|serrulatum:var.serrulatum]
+Pterocaulon[ciliosum|verbascifolium]
+Pterocaulon[intermedium|paradoxum]
+Pterocaulon[serrulatum|sphacelatum]

@@ -1,0 +1,31 @@
+Rumex.acetosa{Common Sorrel}
+Rumex.acetosella{Narrow-Leaved Sheep's Sorrel}
+Rumex.alcockii
+Rumex.bidens{mud dock}
+Rumex.brownii{Hooked Dock}
+Rumex.bucephalophorus{Horned Dock}
+Rumex.comaumensis
+Rumex.conglomeratus{clustered dock}
+Rumex.crispus{curled dock}
+Rumex.crystallinus{Glistening Dock}
+Rumex.drummondii
+Rumex.dumosus
+Rumex.frutescens{Argentine Dock}
+Rumex.hymenosepalus{Arizona dock}
+Rumex.hypogaeus{Cape-spinach}
+Rumex.johannis-moorei
+Rumex.muretii
+Rumex.obtusifolius{bitter dock}
+Rumex.pratensis
+Rumex.pseudopulcher
+Rumex.pulcher
+Rumex.sagittatus{climbing dock}
+Rumex.schulzei
+Rumex.spinosus{devil's-thorn}
+Rumex.stenoglottis
+Rumex.tenax
+Rumex.vesicarius{bladder dock}
+Rumex[rumex|comaumensis]
+Rumex[rumex|johannis-moorei]
+Rumex[rumex|muretii]
+Rumex[rumex|schultzei]

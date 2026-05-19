@@ -1,0 +1,9 @@
+Osteocarpum.acropterum
+Osteocarpum.dipterocarpum
+Osteocarpum.pentapterum
+Osteocarpum.salsuginosum
+Osteocarpum.scleropterum
+Osteocarpum.acropterum:var.acropterum
+Osteocarpum.acropterum:var.deminutum
+Osteocarpum[acropterum|pentapterum]
+Osteocarpum[osteocarpum|scleropterum]

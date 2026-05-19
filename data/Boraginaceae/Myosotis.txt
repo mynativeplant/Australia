@@ -1,0 +1,8 @@
+Myosotis.arvensis{Field Forget-me-not}
+Myosotis.australis
+Myosotis.discolor
+Myosotis.exarrhena
+Myosotis.laxa
+Myosotis.scorpioides{European forget-me-not}
+Myosotis.sylvatica
+Myosotis.australis:subsp.australis

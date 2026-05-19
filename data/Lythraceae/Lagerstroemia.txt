@@ -1,0 +1,5 @@
+Lagerstroemia.engleriana
+Lagerstroemia.indica{crape-myrtle}
+Lagerstroemia.speciosa
+Lagerstroemia.archeriana
+Lagerstroemia.archeriana:subsp.divaricatiflora

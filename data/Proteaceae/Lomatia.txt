@@ -1,1 +1,10 @@
 
+Lomatia.arborescens{smooth lomatia}
+Lomatia.fraseri{forest lomatia}
+Lomatia.ilicifolia{holly lomatia}
+Lomatia.milnerae
+Lomatia.myricoides{longleaf lomatia}
+Lomatia.polymorpha{mountain guitar plant}
+Lomatia.silaifolia{crinklebush}
+Lomatia.tasmanica{King's lomatia}
+Lomatia.tinctoria{Guitar Plant}

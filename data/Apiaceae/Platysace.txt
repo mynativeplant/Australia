@@ -1,0 +1,26 @@
+Platysace.arnhemica
+Platysace.cirrosa
+Platysace.clelandii
+Platysace.commutata
+Platysace.compressa{Tapeworm Plant}
+Platysace.deflexa
+Platysace.effusa
+Platysace.ericoides{heath platysace}
+Platysace.filiformis
+Platysace.haplosciadia
+Platysace.heterophylla
+Platysace.juncea
+Platysace.lanceolata{Shrubby Platysace}
+Platysace.linearifolia{Carrot Tops}
+Platysace.maxwellii
+Platysace.pendula
+Platysace.ramosissima
+Platysace.saxatilis
+Platysace.stephensonii
+Platysace.tenuissima
+Platysace.trachymenioides
+Platysace.valida
+Platysace.xerophila
+Platysace.heterophylla:var.heterophylla
+Platysace.heterophylla:var.tepperi
+Platysace[](Edna Walling Pom Pom)

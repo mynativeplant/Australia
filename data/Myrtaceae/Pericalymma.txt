@@ -1,0 +1,6 @@
+Pericalymma.crassipes
+Pericalymma.ellipticum{Swamp Teatree}
+Pericalymma.megaphyllum
+Pericalymma.spongiocaule
+Pericalymma.ellipticum:var.ellipticum
+Pericalymma.ellipticum:var.floridum

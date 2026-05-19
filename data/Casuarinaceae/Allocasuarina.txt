@@ -1,0 +1,81 @@
+Allocasuarina.acuaria
+Allocasuarina.acutivalvis
+Allocasuarina.anfractuosa
+Allocasuarina.brachystachya
+Allocasuarina.campestris
+Allocasuarina.corniculata
+Allocasuarina.crassa
+Allocasuarina.decaisneana{desert sheoak}
+Allocasuarina.decussata{karri she-oak}
+Allocasuarina.defungens{dwarf heath casuarina}
+Allocasuarina.dielsiana
+Allocasuarina.diminuta
+Allocasuarina.distyla{Scrub Sheoak}
+Allocasuarina.drummondiana
+Allocasuarina.duncanii
+Allocasuarina.emuina
+Allocasuarina.eriochlamys
+Allocasuarina.fibrosa
+Allocasuarina.filidens
+Allocasuarina.fraseriana{bull-oak}
+Allocasuarina.glareicola
+Allocasuarina.globosa
+Allocasuarina.grampiana{Grampians Sheoak}
+Allocasuarina.grevilleoides
+Allocasuarina.gymnanthera
+Allocasuarina.helmsii
+Allocasuarina.huegeliana{rock she-oak}
+Allocasuarina.humilis{dwarf sheoak}
+Allocasuarina.hystricosa
+Allocasuarina.inophloia{stringybark she-oak}
+Allocasuarina.lehmanniana
+Allocasuarina.littoralis{black she-oak}
+Allocasuarina.luehmannii{Bulloak}
+Allocasuarina.mackliniana
+Allocasuarina.media
+Allocasuarina.microstachya
+Allocasuarina.misera
+Allocasuarina.monilifera{necklace she-oak}
+Allocasuarina.muelleriana{Kangaroo Island Oak-bush}
+Allocasuarina.nana{stunted she-oak}
+Allocasuarina.ophiolitica
+Allocasuarina.paludosa{scrub she-oak}
+Allocasuarina.paradoxa{Dwarf Sheoak}
+Allocasuarina.pinaster{Compass Bush}
+Allocasuarina.portuensis
+Allocasuarina.pusilla{dwarf she-oak}
+Allocasuarina.ramosissima
+Allocasuarina.rigida
+Allocasuarina.robusta{Mount Compass sheoak}
+Allocasuarina.rupicola
+Allocasuarina.scleroclada
+Allocasuarina.simulans{nabiac casuarina}
+Allocasuarina.spinosissima
+Allocasuarina.striata{Small Bull Oak}
+Allocasuarina.tessellata
+Allocasuarina.thalassoscopica
+Allocasuarina.thuyoides{horned sheoak}
+Allocasuarina.tortiramula
+Allocasuarina.torulosa{forest she-oak}
+Allocasuarina.trichodon
+Allocasuarina.verticillata{drooping she-oak}
+Allocasuarina.zephyrea{western she-oak}
+Allocasuarina.acutivalvis:subsp.acutivalvis
+Allocasuarina.acutivalvis:subsp.prinsepiana
+Allocasuarina.diminuta:subsp.annectens
+Allocasuarina.diminuta:subsp.diminuta
+Allocasuarina.diminuta:subsp.mimica
+Allocasuarina.eriochlamys:subsp.eriochlamys
+Allocasuarina.eriochlamys:subsp.grossa
+Allocasuarina.lehmanniana:subsp.ecarinata
+Allocasuarina.lehmanniana:subsp.lehmanniana
+Allocasuarina.mackliniana:subsp.hirtilinea
+Allocasuarina.mackliniana:subsp.mackliniana
+Allocasuarina.mackliniana:subsp.xerophila
+Allocasuarina.muelleriana:subsp.alticola
+Allocasuarina.muelleriana:subsp.muelleriana
+Allocasuarina.muelleriana:subsp.notocolpica
+Allocasuarina.rigida:subsp.exsul
+Allocasuarina.rigida:subsp.rigida
+Allocasuarina.spinosissima:subsp.spine
+Allocasuarina[littoralis|thalassoscopica]

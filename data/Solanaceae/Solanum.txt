@@ -1,0 +1,226 @@
+Solanum.abutiloides{Dwarf Tamarillo}
+Solanum.acanthodapis
+Solanum.aculeastrum
+Solanum.adenophorum
+Solanum.adoxum
+Solanum.albostellatum
+Solanum.amblymerum
+Solanum.americanum{American black nightshade}
+Solanum.ammophilum
+Solanum.anguivi{Forest Bitterberry}
+Solanum.angustifolium
+Solanum.apodophyllum
+Solanum.argopetalum
+Solanum.aridicola
+Solanum.armourense
+Solanum.ashbyae
+Solanum.asperolanatum{devil's-fig}
+Solanum.asymmetriphyllum
+Solanum.austropiceum
+Solanum.aviculare{kangaroo-apple}
+Solanum.beaugleholei
+Solanum.betaceum{Tree Tomato}
+Solanum.brownii
+Solanum.callosum
+Solanum.campanulatum
+Solanum.capitaneum
+Solanum.capsiciforme{native pepper}
+Solanum.capsicoides{Cockroach-berry}
+Solanum.carduiforme
+Solanum.cataphractum
+Solanum.celatum
+Solanum.centrale{bush tomato}
+Solanum.chenopodinum{goosefoot potato-bush}
+Solanum.chenopodioides{Tall Nightshade}
+Solanum.chillagoense
+Solanum.chippendalei{bush tomato}
+Solanum.cinereum{Narrawa-bur}
+Solanum.clarkiae
+Solanum.cleistogamum{sly nightshade}
+Solanum.coactiliferum{western nightshade}
+Solanum.cocosoides
+Solanum.cookii
+Solanum.coracinum
+Solanum.corifolium{Climbing Nightshade}
+Solanum.cowiei
+Solanum.crebrispinum
+Solanum.cunninghamii
+Solanum.curvicuspe
+Solanum.defensum
+Solanum.densevestitum{furry nightshade}
+Solanum.dianthophorum
+Solanum.dimidiatum{Carolina horse-nettle}
+Solanum.dimorphispinum
+Solanum.dioicum
+Solanum.discolor
+Solanum.dissectum
+Solanum.ditrichum{sprawling solanum}
+Solanum.diversiflorum{Bush Tomato}
+Solanum.dryanderense
+Solanum.dulcamara{European bittersweet}
+Solanum.dumicola
+Solanum.dunalianum
+Solanum.dysprosium
+Solanum.eardleyae
+Solanum.eburneum
+Solanum.echinatum
+Solanum.elachophyllum
+Solanum.elaeagnifolium{bull-nettle}
+Solanum.elatius
+Solanum.elegans
+Solanum.ellipticum{potato-bush}
+Solanum.eminens
+Solanum.emmottii
+Solanum.eremophilum
+Solanum.erianthum{China flowerleaf}
+Solanum.esuriale{wild tomato}
+Solanum.fecundum
+Solanum.ferocissimum
+Solanum.fervens
+Solanum.francisii
+Solanum.furcatum{forked nightshade}
+Solanum.furfuraceum
+Solanum.gabrielae
+Solanum.galbinum
+Solanum.gilesii{wild tomato}
+Solanum.graniticum
+Solanum.gympiense
+Solanum.hamulosum
+Solanum.hapalum{furry nightshade}
+Solanum.hesperium
+Solanum.heteropodium
+Solanum.hoplopetalum
+Solanum.hystrix{prickly potato weed}
+Solanum.inaequilaterum
+Solanum.innoxium
+Solanum.intonsum
+Solanum.involucratum
+Solanum.iodinum
+Solanum.jobsonii
+Solanum.johnsonianum
+Solanum.jucundum
+Solanum.karsense
+Solanum.kentrocaule
+Solanum.lachnophyllum
+Solanum.laciniatum{Kangaroo-Apple}
+Solanum.lacunarium{Lagoon Nightshade}
+Solanum.lapidosum
+Solanum.lasiophyllum{flannelbush}
+Solanum.latens
+Solanum.laxum{jasmine nightshade}
+Solanum.leopoldense
+Solanum.limitare{border ranges nightshade}
+Solanum.linearifolium{mountain kangaroo apple}
+Solanum.linnaeanum{Apple of Sodom}
+Solanum.lobatum
+Solanum.lucani
+Solanum.lycopersicum{tomato}
+Solanum.lythrocarpum
+Solanum.macoorai{Nightshade}
+Solanum.magnifolium
+Solanum.mammosum{macawbush}
+Solanum.marginatum{purple African nightshade}
+Solanum.mauritianum{bugtree}
+Solanum.medicagineum
+Solanum.melanospermum
+Solanum.melongena{brinjal}
+Solanum.mentiens
+Solanum.multiglochidiatum
+Solanum.nectarifolium
+Solanum.nemophilum
+Solanum.neoanglicum
+Solanum.nigrum{European black nightshade}
+Solanum.nobile
+Solanum.nummularium
+Solanum.octonum
+Solanum.oedipus
+Solanum.oldfieldii
+Solanum.oligacanthum{desert nightshade}
+Solanum.oligandrum
+Solanum.opacum{green-berry nightshade}
+Solanum.orbiculatum
+Solanum.orgadophilum{Capella potato bush}
+Solanum.ossicruentum
+Solanum.osteocarpum
+Solanum.palitans
+Solanum.pallidifolium
+Solanum.papaverifolium
+Solanum.parvifolium
+Solanum.perarmatum
+Solanum.petraeum
+Solanum.petrophilum{rock nightshade}
+Solanum.phlomoides
+Solanum.piceum
+Solanum.pisinnum
+Solanum.plastisexum
+Solanum.plicatile
+Solanum.prinophyllum{forest nightshade}
+Solanum.prolatum
+Solanum.pseudocapsicum{Jerusalem-cherry}
+Solanum.pugiunculiferum
+Solanum.pungetium
+Solanum.pusillum
+Solanum.pycnorichum
+Solanum.quadriloculatum{tomato-bush}
+Solanum.reclusum
+Solanum.retroflexum{sunberry}
+Solanum.rhaphiotes
+Solanum.rixosum
+Solanum.sarrachoides{Leafy-Fruited Nightshade}
+Solanum.scalarium
+Solanum.seaforthianum{Brazilian nightshade}
+Solanum.sejunctum
+Solanum.semiarmatum
+Solanum.senticosum
+Solanum.serpens{hoop pine solanum}
+Solanum.shirleyanum
+Solanum.silvestre
+Solanum.simile{oondoroo}
+Solanum.singulare
+Solanum.sisymbriifolium{sticky nightshade}
+Solanum.spirale
+Solanum.sporadotrichum
+Solanum.stelligerum{devil's needles}
+Solanum.stenopterum
+Solanum.stupefactum
+Solanum.sturtianum{Thargomindah nightshade}
+Solanum.succosum
+Solanum.sulphureum
+Solanum.symonii{South Australian kangaroo-apple}
+Solanum.terraneum
+Solanum.tetrandrum
+Solanum.tetrathecum
+Solanum.torvum{Devil's-fig}
+Solanum.triflorum{cut-leaved nightshade}
+Solanum.tuberosum{potato}
+Solanum.tudununggae
+Solanum.tumulicola
+Solanum.ultimum
+Solanum.ultraspinosum
+Solanum.unispinum
+Solanum.vansittartense
+Solanum.versicolor
+Solanum.vescum{green kangaroo-apple}
+Solanum.vicinum{forest nightshade}
+Solanum.villosum{Red Nightshade}
+Solanum.viridifolium
+Solanum.watneyi
+Solanum.yirrkalensis
+Solanum.zoeae
+Solanum.angustum
+Solanum.bauerianum
+Solanum.crassitomentosum
+Solanum.et
+Solanum.ferox
+Solanum.horridum
+Solanum.lasiocarpum
+Solanum.lithophilum
+Solanum.mitchellianum
+Solanum.morrisonii
+Solanum.octona
+Solanum.orbiculatum:subsp.macrophyllum
+Solanum.orbiculatum:subsp.orbiculatum
+Solanum.parvifolium:subsp.parvifolium
+Solanum.parvifolium:subsp.tropicum
+Solanum.pycnotrichum
+Solanum.wilkinsii

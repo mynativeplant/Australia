@@ -1,0 +1,3 @@
+Berberis.aristata{Indian Barberry}
+Berberis.darwinii{Darwin's Barberry}
+Berberis.floribunda

@@ -1,0 +1,8 @@
+Colobanthus.affinis
+Colobanthus.apetalus
+Colobanthus.curtisiae
+Colobanthus.nivicola
+Colobanthus.subulatus{Emerald-bog}
+Colobanthus.kerguelensis
+Colobanthus.muscoides
+Colobanthus.pulvinatus

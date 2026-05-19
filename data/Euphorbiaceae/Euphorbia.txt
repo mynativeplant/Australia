@@ -1,0 +1,121 @@
+Euphorbia.accedens
+Euphorbia.albrechtii
+Euphorbia.armstrongiana
+Euphorbia.australis{hairy causticweed}
+Euphorbia.baueri
+Euphorbia.biconvexa
+Euphorbia.bifida
+Euphorbia.boophthona{Gascoyne spurge}
+Euphorbia.brownii
+Euphorbia.careyi
+Euphorbia.carissoides
+Euphorbia.centralis
+Euphorbia.cinerea
+Euphorbia.coghlanii
+Euphorbia.crassimarginata
+Euphorbia.cyathophora{dwarf poinsettia}
+Euphorbia.cyparissias{cemetary spurge}
+Euphorbia.dallachyana{caustic weed}
+Euphorbia.dendroides{tree spurge}
+Euphorbia.dentata{dentate spurge}
+Euphorbia.depauperata
+Euphorbia.drummondii{Caustic Spurge}
+Euphorbia.exigua{dwarf spurge}
+Euphorbia.falcata{Sickle spurge}
+Euphorbia.ferdinandi
+Euphorbia.fitzroyensis
+Euphorbia.flindersica
+Euphorbia.gregoriensis
+Euphorbia.hassallii
+Euphorbia.helioscopia
+Euphorbia.heterophylla{Mexican fireplant}
+Euphorbia.hirta{Asthma-plant}
+Euphorbia.hyssopifolia{hyssop-leaf sandmat}
+Euphorbia.inappendiculata
+Euphorbia.kimberleyensis
+Euphorbia.laciniloba
+Euphorbia.lathyris{caper spurge}
+Euphorbia.litticola
+Euphorbia.macdonaldii
+Euphorbia.maconochieana
+Euphorbia.maculata{blotched spurge}
+Euphorbia.marginata{smoke-on-the-prairie}
+Euphorbia.mitchelliana
+Euphorbia.muelleri
+Euphorbia.multifaria
+Euphorbia.myrtoides
+Euphorbia.nutans{eyebane}
+Euphorbia.occidentaustralica
+Euphorbia.operta
+Euphorbia.ophiolitica
+Euphorbia.pallens
+Euphorbia.papillata
+Euphorbia.papillifolia
+Euphorbia.paralias{Sea Spurge}
+Euphorbia.parvicaruncula
+Euphorbia.peplus{petty spurge}
+Euphorbia.petala
+Euphorbia.philochalix
+Euphorbia.planiticola
+Euphorbia.platyphyllos
+Euphorbia.plumerioides
+Euphorbia.porcata
+Euphorbia.prostrata{Prostrate Sandmat}
+Euphorbia.psammogeton{Sand spurge}
+Euphorbia.psilosperma
+Euphorbia.pubicaulis
+Euphorbia.sarcostemmoides{climbing caustic}
+Euphorbia.schizolepis
+Euphorbia.schultzii
+Euphorbia.segetalis{Corn Spurge}
+Euphorbia.sharkoensis
+Euphorbia.stevenii{Caustic Bottletree}
+Euphorbia.tannensis{causticbush}
+Euphorbia.terracina{Geraldton carnation spurge}
+Euphorbia.thelephora
+Euphorbia.thymifolia{Gulf Sandmat}
+Euphorbia.tirucalli{African milkbush}
+Euphorbia.trigonosperma
+Euphorbia.vaccaria
+Euphorbia.verrucitesta
+Euphorbia.vicina
+Euphorbia.victoriensis
+Euphorbia.wheeleri
+Euphorbia.armstrongiana:var.armstrongiana
+Euphorbia.armstrongiana:var.distans
+Euphorbia.australis:var.australis
+Euphorbia.australis:var.erythrantha
+Euphorbia.australis:var.glabra
+Euphorbia.australis:var.hispidula
+Euphorbia.australis:var.subtomentosa
+Euphorbia.clementii
+Euphorbia.ferdinandi:var.appendiculata
+Euphorbia.ferdinandi:var.ferdinandi
+Euphorbia.ferdinandi:var.saxosiplanitiicola
+Euphorbia.inappendiculata:var.inappendiculata
+Euphorbia.inappendiculata:var.queenslandica
+Euphorbia.inappendiculata:var.robustior
+Euphorbia.large
+Euphorbia.macdonaldii:var.macdonaldii
+Euphorbia.macdonaldii:var.potentillina
+Euphorbia.mitchelliana:var.filipes
+Euphorbia.mitchelliana:var.longiloba
+Euphorbia.mitchelliana:var.mitchelliana
+Euphorbia.norfolkiana
+Euphorbia.obliqua
+Euphorbia.papillata:var.laevicaulis
+Euphorbia.papillata:var.papillata
+Euphorbia.papillifolia:var.papillifolia
+Euphorbia.papillifolia:var.polyandra
+Euphorbia.planitiicola
+Euphorbia.plants
+Euphorbia.schultzii:var.comans
+Euphorbia.schultzii:var.schultzii
+Euphorbia.small
+Euphorbia.tannensis:subsp.eremophila
+Euphorbia.tannensis:subsp.tannensis
+Euphorbia.thelephora:var.australis
+Euphorbia.thelephora:var.rugosa
+Euphorbia.thelephora:var.thelephora
+Euphorbia.vaccaria:var.erucoides
+Euphorbia.vaccaria:var.vaccaria

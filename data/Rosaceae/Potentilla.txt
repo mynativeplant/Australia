@@ -1,0 +1,6 @@
+Potentilla.anglica{English cinquefoil}
+Potentilla.indica{yellow-strawberry}
+Potentilla.nanopetala
+Potentilla.recta
+Potentilla.reptans{European five-finger}
+Potentilla.supina

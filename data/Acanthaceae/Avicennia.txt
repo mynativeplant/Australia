@@ -1,0 +1,8 @@
+Avicennia.alba
+Avicennia.balanophora
+Avicennia.integra
+Avicennia.marina{Grey Mangrove}
+Avicennia.officinalis{baen}
+Avicennia.marina:subsp.australasica
+Avicennia.marina:subsp.eucalyptifolia
+Avicennia.marina:subsp.marina

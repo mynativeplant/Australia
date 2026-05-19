@@ -1,0 +1,15 @@
+Vachellia.bidwillii{Corkwood Wattle}
+Vachellia.clarksoniana
+Vachellia.ditricha
+Vachellia.douglasica
+Vachellia.etbaica
+Vachellia.farnesiana{Ellington-curse}
+Vachellia.karroo{Sweet Thorn}
+Vachellia.nilotica{Babul}
+Vachellia.pachyphloia
+Vachellia.pallidifolia
+Vachellia.suberosa{Corkybark Wattle}
+Vachellia.sutherlandii{Barkly's Wattle}
+Vachellia.valida
+Vachellia.pachyphloia:subsp.brevipinnula
+Vachellia.pachyphloia:subsp.pachyphloia

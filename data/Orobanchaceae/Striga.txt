@@ -1,0 +1,5 @@
+Striga.asiatica{witchweed}
+Striga.curviflora
+Striga.multiflora
+Striga.parviflora
+Striga.squamigera
