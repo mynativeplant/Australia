@@ -1,8 +1,8 @@
 
 Telopea.aspera{Gibraltar Range Waratah}
-Telopea.mongaensis{Braidwood waratah}
-Telopea.oreades{Gippsland waratah}
-Telopea.speciosissima{New South Wales waratah}
+Telopea.mongaensis{Braidwood Waratah}
+Telopea.oreades{Gippsland Waratah}
+Telopea.speciosissima{New South Wales Waratah}
 Telopea.truncata{Tasmanian Waratah}
-Telopea[](Braidwood Brilliant){Waratah}
+Telopea[mongaensis|speciosissima](Braidwood Brilliant){Waratah}
 Telopea[mongaensis|oreades]
