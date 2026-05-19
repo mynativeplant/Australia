@@ -481,7 +481,7 @@
           titleCasedGenus,
           normalizedGenus.toLowerCase(),
         ])).map(function (name) {
-          return `/banners/${encodeURIComponent(name)}.png`;
+          return `/banners/${encodeURIComponent(name)}.jpg`;
         });
 
         function showBanner(src) {
