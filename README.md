@@ -34,6 +34,8 @@ Australian plants are stored in `data/`, grouped first by family and then by gen
 
 Generated database artifacts live in `db/`. The `make dbload` target writes `db/plant-family.dbload.txt`, and the `make db` target builds the Berkeley DB file at `db/Australia.db`.
 
+For a weekly deployment refresh on another machine, use `scripts/refresh-australia-db.sh`. It updates a dedicated git clone from `https://github.com/mynativeplant/Australia.git`, builds the load file and Berkeley DB directly, and writes the finished `Australia.db` into the clone's `db/` directory. The target host needs `git`, `python3`, `db_load`, and `install` available.
+
 The helper script `scripts/init-family-layout.py` recreates the family directory tree and can also create missing genus files from `native-plant-catalog.txt` inside the matching family directory. Existing genus files are left untouched.
 
 Each `{GENUS}.txt` file may contain comments. A comment is any record whose first byte is `#`, or any blank record. All other records must contain a parsable plant record.

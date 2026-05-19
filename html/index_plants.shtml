@@ -52,6 +52,30 @@
       backdrop-filter: blur(14px);
     }
 
+    .genus-banner {
+      display: none;
+      margin: 1.5rem 0 0;
+      border: 1px solid rgba(63, 106, 53, 0.16);
+      border-radius: 22px;
+      overflow: hidden;
+      background: linear-gradient(180deg, rgba(221, 232, 207, 0.72), rgba(255, 255, 255, 0.4));
+      box-shadow: 0 14px 34px rgba(41, 59, 31, 0.1);
+      aspect-ratio: 2 / 1;
+    }
+
+    .genus-banner.is-visible {
+      display: block;
+    }
+
+    .genus-banner img {
+      display: block;
+      width: calc(100% + 2px);
+      height: calc(100% + 2px);
+      margin: -1px;
+      object-fit: cover;
+      object-position: center;
+    }
+
     .topbar {
       display: flex;
       flex-wrap: wrap;
@@ -334,13 +358,15 @@
     }
   </style>
 </head>
-<body>
+  <body>
   <main>
-    <section class="panel" aria-labelledby="page-title">
+    <section class="panel" aria-label="Plant list">
       <!--#include virtual="/header.html" -->
+      <figure class="genus-banner" id="genus-banner" hidden aria-hidden="true">
+        <img id="genus-banner-image" alt="" decoding="async">
+      </figure>
       <div class="topbar">
         <div>
-          <h1 id="page-title" class="page-title">Plant list</h1>
           <div class="summary" id="summary" hidden></div>
         </div>
         <div class="actions">
@@ -375,6 +401,8 @@
       const genusNav = document.getElementById("genus-nav");
       const previousGenusLink = document.getElementById("previous-genus-link");
       const nextGenusLink = document.getElementById("next-genus-link");
+      const genusBanner = document.getElementById("genus-banner");
+      const genusBannerImage = document.getElementById("genus-banner-image");
       const params = new URLSearchParams(window.location.search);
       const family = params.get("family") || window.sessionStorage.getItem("mnpSelectedFamily") || "";
       const genus = params.get("genera") || params.get("genus") || window.sessionStorage.getItem("mnpSelectedGenus") || "";
@@ -431,6 +459,65 @@
 
       function scrollToBottom() {
         window.scrollTo({ top: document.documentElement.scrollHeight, behavior: "smooth" });
+      }
+
+      function setupGenusBanner(genusName) {
+        const trimmedGenus = valueOrEmpty(genusName).trim();
+        if (!trimmedGenus) {
+          genusBanner.hidden = true;
+          genusBanner.classList.remove("is-visible");
+          genusBannerImage.removeAttribute("src");
+          return;
+        }
+
+        const normalizedGenus = trimmedGenus.replace(/\s+/g, " ").trim();
+        const titleCasedGenus = normalizedGenus
+          .toLowerCase()
+          .replace(/\b[a-z]/g, function (ch) {
+            return ch.toUpperCase();
+          });
+        const candidatePaths = Array.from(new Set([
+          normalizedGenus,
+          titleCasedGenus,
+          normalizedGenus.toLowerCase(),
+        ])).map(function (name) {
+          return `/banners/${encodeURIComponent(name)}.png`;
+        });
+
+        function showBanner(src) {
+          genusBannerImage.src = src;
+          genusBanner.hidden = false;
+          genusBanner.classList.add("is-visible");
+        }
+
+        function hideBanner() {
+          genusBanner.hidden = true;
+          genusBanner.classList.remove("is-visible");
+          genusBannerImage.removeAttribute("src");
+        }
+
+        function tryCandidate(index) {
+          if (index >= candidatePaths.length) {
+            hideBanner();
+            return;
+          }
+
+          const probe = new Image();
+          probe.onload = function () {
+            showBanner(candidatePaths[index]);
+          };
+          probe.onerror = function () {
+            tryCandidate(index + 1);
+          };
+          probe.src = candidatePaths[index];
+
+          if (probe.complete && probe.naturalWidth > 0) {
+            showBanner(candidatePaths[index]);
+          }
+        }
+
+        hideBanner();
+        tryCandidate(0);
       }
 
       function valueOrEmpty(value) {
@@ -549,6 +636,7 @@
       }
 
       document.title = `My Native Plant - ${family} / ${genus}`;
+      setupGenusBanner(genus);
       summary.hidden = false;
       summary.innerHTML = `<span class="chip">Family: ${escapeHtml(family)}</span><span class="chip">Genus: ${escapeHtml(genus)}</span>`;
       setMetaItems([
