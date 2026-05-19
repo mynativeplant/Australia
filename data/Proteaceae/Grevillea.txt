@@ -173,7 +173,7 @@ Grevillea.integrifolia
 Grevillea.intricata
 Grevillea.involucrata
 Grevillea.irrasa
-Grevillea.jephcottii
+Grevillea.jephcottii{Green Grevillea}
 Grevillea.johnsonii
 Grevillea.juncifolia
 Grevillea.juniperina
@@ -299,7 +299,7 @@ Grevillea.renwickiana
 Grevillea.repens
 Grevillea.reptans
 Grevillea.rhizomatosa
-Grevillea.rhyolitica
+Grevillea.rhyolitica{Deua Grevillea}
 Grevillea.rigida
 Grevillea.ripicola
 Grevillea.rivularis
@@ -611,3 +611,7 @@ Grevillea[banksii|sessilis](Misty Pink)
 Grevillea[grevillea|gaudichaudii]
 Grevillea[juniperina|victoriae](Tangerine)
 Grevillea[lavandulacea|alpina](Jelly Baby)
+Grevillea[rhyolitica](Marble Flame)
+Grevillea[rhyolitica[](Duea Flame)
+Grevillea[rhyolitica](Golden Flame)
+Grevillea[longifolia|caleyi](Grevillea Ivenhoe)
