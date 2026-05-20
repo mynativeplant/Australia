@@ -10,16 +10,17 @@ Telopea[speciosissima|oreades](Enchanted Dawn)
 #
 # Proteaflora Range
 #
-Telopea[mongaensis|speciosissima](Braidwood Brilliant)
-Telopea[speciosissima](Enchanted Flame)
-Telopea[speciosissima](Enchanted Pink)
-Telopea[speciosissima](Enchanted Red)
-Telopea[speciosissima](Enchanted Rose)
-Telopea[speciosissima](Mallee Boy)
+Telopea.speciosissima(Enchanted Flame)
+Telopea.speciosissima(Enchanted Pink)
+Telopea.speciosissima(Enchanted Red)
+Telopea.speciosissima(Enchanted Rose)
+Telopea.speciosissima(Mallee Boy)
+Telopea.speciosissima(Sugar Plum)
 Telopea[speciosissima|oreades](Shady Lady Crimson)
 Telopea[speciosissima|oreades](Shady Lady Pink)
 Telopea[speciosissima|oreades](Shady Lady Red)
 Telopea[speciosissima|oreades](Shady Lady White)
 Telopea[speciosissima|oreades](Shady Lady Yellow)
-Telopea[speciosissima](Sugar Plum)
+Telopea[mongaensis|speciosissima](Braidwood Brilliant)
+
 
