@@ -36,20 +36,23 @@ def build_db_load_file(data_root: Path, output_path: Path) -> int:
             with text_path.open("r", encoding="utf-8") as handle:
                 for line_number, raw_line in enumerate(handle, start=1):
                     key = raw_line.rstrip("\r\n")
-                    if not key:
+                    stripped = key.strip()
+                    if not stripped:
+                        continue
+                    if stripped.startswith("#"):
                         continue
 
-                    previous = seen.get(key)
+                    previous = seen.get(stripped)
                     if previous is not None:
                         previous_family, previous_path, previous_line = previous
                         raise ValueError(
                             "duplicate plant syntax key: "
-                            f"{key!r} in {text_path}:{line_number} "
+                            f"{stripped!r} in {text_path}:{line_number} "
                             f"(already seen in {previous_path}:{previous_line}, family {previous_family})"
                         )
 
-                    seen[key] = (family, text_path, line_number)
-                    out.write(f"{escape_db_load_text(key)}\n")
+                    seen[stripped] = (family, text_path, line_number)
+                    out.write(f"{escape_db_load_text(stripped)}\n")
                     out.write(f"{escape_db_load_text(family)}\n")
                     record_count += 1
 
