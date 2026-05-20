@@ -5,7 +5,7 @@ Telopea.oreades{Gippsland Waratah}
 Telopea.speciosissima{New South Wales Waratah}
 Telopea.truncata{Tasmanian Waratah}
 Telopea[mongaensis|oreades]
-Telopea[speciosissima](Corrakee)
+Telopea.speciosissima(Corrakee)
 Telopea[speciosissima|oreades](Enchanted Dawn)
 #
 # Proteaflora Range
