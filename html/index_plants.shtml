@@ -104,20 +104,24 @@
       color: var(--muted);
     }
 
+    .topbar {
+      display: grid;
+      gap: 1rem;
+      align-items: start;
+    }
+
+    .topbar-divider {
+      width: 100%;
+      height: 1px;
+      background: rgba(63, 106, 53, 0.16);
+    }
+
     .actions {
       display: flex;
-      flex: 1 1 auto;
       flex-wrap: wrap;
       gap: 0.75rem;
       align-items: center;
       justify-content: flex-start;
-    }
-
-    .genus-nav {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 0.75rem;
-      align-items: center;
     }
 
     .button,
@@ -369,6 +373,7 @@
         <div>
           <div class="summary" id="summary" hidden></div>
         </div>
+        <div class="topbar-divider" aria-hidden="true"></div>
         <div class="actions">
           <div class="genus-nav" id="genus-nav" hidden>
             <a class="link-button" id="previous-genus-link" href="#">Previous genus</a>
@@ -403,9 +408,55 @@
       const nextGenusLink = document.getElementById("next-genus-link");
       const genusBanner = document.getElementById("genus-banner");
       const genusBannerImage = document.getElementById("genus-banner-image");
+      const requestUri = "<!--#echo var=\"REQUEST_URI\" -->";
       const params = new URLSearchParams(window.location.search);
-      const family = params.get("family") || window.sessionStorage.getItem("mnpSelectedFamily") || "";
-      const genus = params.get("genera") || params.get("genus") || window.sessionStorage.getItem("mnpSelectedGenus") || "";
+      const serverParams = new URLSearchParams("<!--#echo var=\"QUERY_STRING\" -->");
+      const serverFamily = "<!--#echo var=\"PLANTS_FAMILY\" -->";
+      const serverGenus = "<!--#echo var=\"PLANTS_GENUS\" -->";
+      function decodePathSegment(value) {
+        try {
+          return decodeURIComponent(value);
+        } catch (error) {
+          return value;
+        }
+      }
+
+      function parsePlantPath(value) {
+        const text = value == null ? "" : String(value).trim();
+        if (!text) {
+          return { family: "", genus: "" };
+        }
+
+        const pathOnly = text.split("?")[0].split("#")[0].replace(/\/+$/, "");
+        const parts = pathOnly.split("/").filter(Boolean);
+        if (parts[0] !== "plants" || parts.length < 3) {
+          return { family: "", genus: "" };
+        }
+
+        return {
+          family: normalizeSelectionValue(decodePathSegment(parts[1])),
+          genus: normalizeSelectionValue(decodePathSegment(parts[2])),
+        };
+      }
+
+      function normalizeSelectionValue(value) {
+        const text = value == null ? "" : String(value).trim();
+        const normalized = text.toLowerCase();
+        if (!text || normalized === "none" || normalized === "(none)") {
+          return "";
+        }
+        return text;
+      }
+
+      const requestPath = parsePlantPath(requestUri);
+      const pathFromLocation = parsePlantPath(window.location.pathname);
+      const pathFamily = requestPath.family || pathFromLocation.family;
+      const pathGenus = requestPath.genus || pathFromLocation.genus;
+      const family = normalizeSelectionValue(params.get("family") || serverParams.get("family") || serverFamily || pathFamily || window.sessionStorage.getItem("mnpSelectedFamily") || "");
+      const genus = normalizeSelectionValue(params.get("genus") || params.get("genera") || serverParams.get("genus") || serverParams.get("genera") || serverGenus || pathGenus || window.sessionStorage.getItem("mnpSelectedGenus") || "");
+      if (family && genus) {
+        window.history.replaceState(null, "", "/plants/" + encodeURIComponent(family) + "/" + encodeURIComponent(genus));
+      }
 
       function escapeHtml(value) {
         return String(value)
@@ -426,8 +477,11 @@
       }
 
       function setGenusNavigation(previousGenus, nextGenus) {
-        const hasPrevious = Boolean(previousGenus);
-        const hasNext = Boolean(nextGenus);
+        const safeFamily = normalizeSelectionValue(family);
+        const safePreviousGenus = normalizeSelectionValue(previousGenus);
+        const safeNextGenus = normalizeSelectionValue(nextGenus);
+        const hasPrevious = Boolean(safePreviousGenus);
+        const hasNext = Boolean(safeNextGenus);
 
         if (!hasPrevious && !hasNext) {
           genusNav.hidden = true;
@@ -438,16 +492,16 @@
 
         if (hasPrevious) {
           previousGenusLink.hidden = false;
-          previousGenusLink.href = `/index_plants.shtml?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(previousGenus)}`;
-          previousGenusLink.textContent = `Previous genus: ${previousGenus}`;
+          previousGenusLink.href = "/index_plants.shtml?family=" + encodeURIComponent(safeFamily) + "&genus=" + encodeURIComponent(safePreviousGenus);
+          previousGenusLink.textContent = `Previous genus: ${safePreviousGenus}`;
         } else {
           previousGenusLink.hidden = true;
         }
 
         if (hasNext) {
           nextGenusLink.hidden = false;
-          nextGenusLink.href = `/index_plants.shtml?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(nextGenus)}`;
-          nextGenusLink.textContent = `Next genus: ${nextGenus}`;
+          nextGenusLink.href = "/index_plants.shtml?family=" + encodeURIComponent(safeFamily) + "&genus=" + encodeURIComponent(safeNextGenus);
+          nextGenusLink.textContent = `Next genus: ${safeNextGenus}`;
         } else {
           nextGenusLink.hidden = true;
         }
@@ -631,21 +685,22 @@
       bottomButton.addEventListener("click", scrollToBottom);
 
       if (!family || !genus) {
-        setStatus("Missing family or genus in the page URL.", true);
+        window.location.replace("/index.shtml");
         return;
       }
+
 
       document.title = `My Native Plant - ${family} / ${genus}`;
       setupGenusBanner(genus);
       summary.hidden = false;
       summary.innerHTML = `<span class="chip">Family: ${escapeHtml(family)}</span><span class="chip">Genus: ${escapeHtml(genus)}</span>`;
       setMetaItems([
-        `<span>Source: <a href="/webservice/list-plants?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(genus)}">webservice/list-plants</a></span>`,
+        `<span>Source: <a href="/webservice/list-plants?family=${encodeURIComponent(family)}&genus=${encodeURIComponent(genus)}" target="_blank" rel="noopener noreferrer">webservice/list-plants</a></span>`, 
       ]);
 
       setStatus("Loading plants...");
 
-      fetch(`/webservice/list-plants?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(genus)}`, {
+      fetch(`/webservice/list-plants?family=${encodeURIComponent(family)}&genus=${encodeURIComponent(genus)}`, {
         headers: { Accept: "application/json" },
       })
         .then((response) => {
@@ -668,11 +723,11 @@
           }
 
           const metaItems = [
-            `<span>Source: <a href="/webservice/list-plants?family=${encodeURIComponent(family)}&genera=${encodeURIComponent(genus)}">webservice/list-plants</a></span>`,
+            `<span>Source: <a href="/webservice/list-plants?family=${encodeURIComponent(family)}&genus=${encodeURIComponent(genus)}" target="_blank" rel="noopener noreferrer">webservice/list-plants</a></span>`, 
           ];
           if (valueOrEmpty(payload.github_path)) {
             metaItems.push(
-              `<span>GitHub: <a href="${escapeHtml(payload.github_path)}" rel="noopener noreferrer">source path</a></span>`
+              `<span>GitHub: <a href="${escapeHtml(payload.github_path)}" target="_blank" rel="noopener noreferrer">source path</a></span>`
             );
           }
           setGenusNavigation(valueOrEmpty(payload.previous_genus), valueOrEmpty(payload.next_genus));
