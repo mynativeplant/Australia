@@ -166,8 +166,6 @@ Banksia.seminuda{River Banksia}
 Banksia.seneciifolia
 Banksia.serra
 Banksia.serrata{Old Man Banksia}
-Banksia.serrata(Pygmy Possum)
-Banksia.serrata(Superman)
 Banksia.serratuloides
 Banksia.sessilis{Parrot Bush}
 Banksia.shanklandiorum
@@ -175,18 +173,6 @@ Banksia.shuttleworthiana
 Banksia.solandri{Stirling Range banksia}
 Banksia.speciosa{Showy Banksia}
 Banksia.sphaerocarpa{Fox Banksia}
-Banksia.spinulosa(Birthday Candles)
-Banksia.spinulosa(Cherry Candles)
-Banksia.spinulosa(Coastal Cushion)
-Banksia[spinulosa|collina](Stumpy Gold)
-Banksia.spinulosa(Dwarf Red)
-Banksia[spinulosa|ericifolia](Bird Song)
-Banksia.spinulosa(Goldenlighthouse)
-Banksia.spinulosa{Hairpin Banksia}
-Banksia.spinulosa(Honey Pots)
-Banksia.spinulosa(Palerang Purple)
-Banksia.spinulosa:var.cunninghamii(Black Magic)
-Banksia.spinulosa:var.cunninghamii(Lemon Glow)
 Banksia.splendida
 Banksia.squarrosa
 Banksia.stenoprion
@@ -303,3 +289,32 @@ Banksia.tenuis:var.tenuis
 Banksia.undata:var.splendens
 Banksia.undata:var.undata
 Banksia[oblongifolia|robur]
+#
+# Cultivars
+#
+Banksia[](Bronzed Aussie)
+Banksia[](Purple Pygmy)
+Banksia[](Port Wine)
+Banksia[](St Pauls)
+Banksia[](Creamed Honey)
+Banksia[](Carnarvon Gold)
+Banksia[](Coastal Candles)
+Banksia[](Golden Cascade)
+Banksia[](Schnapper Point)
+Banksia[](Christmas Candles)
+Banksia[](Ruby Clusters)
+Banksia[](Scarlet Honey Possum)
+Banksia.spinulosa(Birthday Candles)
+Banksia.spinulosa(Cherry Candles)
+Banksia.spinulosa(Coastal Cushion)
+Banksia[spinulosa|collina](Stumpy Gold)
+Banksia.spinulosa(Dwarf Red)
+Banksia[spinulosa|ericifolia](Bird Song)
+Banksia.spinulosa(Goldenlighthouse)
+Banksia.spinulosa{Hairpin Banksia}
+Banksia.spinulosa(Honey Pots)
+Banksia.spinulosa(Palerang Purple)
+Banksia.spinulosa:var.cunninghamii(Black Magic)
+Banksia.spinulosa:var.cunninghamii(Lemon Glow)
+Banksia.serrata(Pygmy Possum)
+Banksia.serrata(Superman)
