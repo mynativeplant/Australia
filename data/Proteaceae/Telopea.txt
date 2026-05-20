@@ -1,4 +1,3 @@
-
 Telopea.aspera{Gibraltar Range Waratah}
 Telopea.mongaensis{Braidwood Waratah}
 Telopea.oreades{Gippsland Waratah}
