@@ -187,29 +187,11 @@ Hakea.stenophylla:subsp.notialis
 Hakea.stenophylla:subsp.stenophylla
 Hakea.teretifolia:subsp.hirsuta
 Hakea.teretifolia:subsp.teretifolia
-Hakea[myrtoides|petiolaris](Burrendong Beauty)
-Hakea[myrtoides|petiolaris](Kincora)
 #
 # Cultivars
 #
-Hakea[](Burrendong Blue)
-Hakea[](Burrendong Beauty Compact)
-Hakea[](Pinball)
-Hakea[](Sunset)
-Hakea[](Moonlight)
-Hakea[](Snow Queen)
-Hakea[](Silver Princess)
-Hakea[](Golden Flame)
-Hakea[](Fireworks)
-Hakea[bucculenta|multilineata](Red Emperor)
-Hakea[](Coral Burst)
-Hakea[](Pink Glow)
-Hakea.victoria(Little Lanterns)
-Hakea[](White Knight)
-Hakea.bucculenta(Red Sunset)
-Hakea.salicifolia(Gold Medal)
+Hakea[myrtoides|petiolaris](Burrendong Beauty)
+Hakea[myrtoides|petiolaris](Kincora)
+Hakea[laurina|petiolaris](Pinball)
 Hakea.laurina(Stockdale Sensation)
-Hakea.decurrens(Pink Lace)
 Hakea.laurina(Mini Pini)
-Hakea.francisiana(Hi Ho Silver)
-Hakea.multilineata(Winter Burgundy)
