@@ -1,1 +1,10 @@
-Angophorai.hispida{Dwarf Apple}
+Angophora.bakeri{Narrow-leaved Apple}
+Angophora.costata{Sydney Red Gum}
+Angophora.floribunda{Rough-barked Apple}
+Angophora.hispida{Dwarf Apple}
+Angophora.inopina{Charmhaven Apple}
+Angophora.leiocarpa{Rusty Gum}
+Angophora.melanoxylon{Coolabah Apple}
+Angophora.robur{Sandstone Rough-barked Apple}
+Angophora.subvelutina{Broad-leaved Apple}
+Angophora.woodsiana{Smudgee}
