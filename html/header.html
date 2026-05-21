@@ -57,6 +57,7 @@
   .site-links a {
     display: inline-flex;
     align-items: center;
+    gap: 0.45rem;
     min-height: 2.6rem;
     padding: 0.55rem 0.85rem;
     border-radius: 999px;
@@ -72,6 +73,14 @@
     text-decoration: none;
     background: rgba(63, 106, 53, 0.14);
   }
+
+  .site-link-icon {
+    width: 1rem;
+    height: 1rem;
+    flex: 0 0 auto;
+    stroke: currentColor;
+    fill: none;
+  }
 </style>
 <header class="site-header">
   <a class="site-brand" href="/index.shtml" aria-label="My Native Plant home">
@@ -82,8 +91,32 @@
     </span>
   </a>
   <nav class="site-links" aria-label="Site links">
-    <a href="https://github.com/mynativeplant/Australia" rel="noopener noreferrer">GitHub repository</a>
-    <a href="/openapi.json" rel="noopener noreferrer">API docs</a>
-    <a href="https://www.facebook.com/groups/mynativeplant/" rel="noopener noreferrer">Facebook group</a>
+    <a href="https://github.com/mynativeplant/Australia" rel="noopener noreferrer">
+      <span>GitHub repository</span>
+      <svg class="site-link-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M14 5h5v5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M10 14L19 5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M19 14v5h-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M5 10v9h9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+    </a>
+    <a href="/openapi.json" rel="noopener noreferrer">
+      <span>API docs</span>
+      <svg class="site-link-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M14 5h5v5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M10 14L19 5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M19 14v5h-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M5 10v9h9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+    </a>
+    <a href="https://www.facebook.com/groups/mynativeplant/" rel="noopener noreferrer">
+      <span>Facebook group</span>
+      <svg class="site-link-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+        <path d="M14 5h5v5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M10 14L19 5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M19 14v5h-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M5 10v9h9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+      </svg>
+    </a>
   </nav>
 </header>

@@ -4,6 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My Native Plant</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6G7RJN2C4S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6G7RJN2C4S');
+  </script>
   <style>
     :root {
       color-scheme: light;
@@ -90,9 +99,24 @@
       display: flex;
       flex-wrap: wrap;
       gap: 0.4rem 0.75rem;
-      align-items: baseline;
+      align-items: center;
       justify-content: space-between;
       margin-bottom: 0.8rem;
+    }
+
+    .search-title-wrap {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .search-icon {
+      width: 1.15rem;
+      height: 1.15rem;
+      flex: 0 0 auto;
+      opacity: 0.9;
+      display: block;
+      color: var(--accent-strong);
     }
 
     .search-title {
@@ -323,7 +347,13 @@
 
       <section class="search-panel" aria-labelledby="quick-search-title">
         <div class="search-header">
-          <h2 id="quick-search-title" class="search-title">Quick Search</h2>
+          <div class="search-title-wrap">
+            <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+              <circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"></circle>
+              <path d="M16 16l4.5 4.5" fill="none" stroke="currentColor" stroke-linecap="round" stroke-width="2"></path>
+            </svg>
+            <h2 id="quick-search-title" class="search-title">Quick Search</h2>
+          </div>
           <p class="search-hint">Live fuzzy search across every family and genus.</p>
         </div>
         <div>

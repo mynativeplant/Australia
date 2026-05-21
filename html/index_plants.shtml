@@ -4,6 +4,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My Native Plant - Plants</title>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-6G7RJN2C4S"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-6G7RJN2C4S');
+  </script>
   <style>
     :root {
       color-scheme: light;
@@ -124,13 +133,19 @@
       justify-content: flex-start;
     }
 
+    .genus-nav {
+      display: inline-flex;
+      gap: 0.75rem;
+      align-items: center;
+    }
+
     .button,
     .link-button {
       display: inline-flex;
       align-items: center;
       justify-content: center;
       min-height: 3rem;
-      padding: 0.75rem 1rem;
+      padding: 0.78rem 1rem;
       border-radius: 14px;
       border: 0;
       font: inherit;
@@ -138,6 +153,7 @@
       font-weight: 700;
       cursor: pointer;
       text-decoration: none;
+      line-height: 1;
     }
 
     .button {
@@ -150,6 +166,28 @@
       background: rgba(63, 106, 53, 0.08);
       color: var(--accent-strong);
       border: 1px solid rgba(63, 106, 53, 0.18);
+    }
+
+    .nav-icon {
+      width: 1.05em;
+      height: 1.05em;
+      flex: 0 0 auto;
+      stroke: currentColor;
+      fill: none;
+    }
+
+    .nav-icon-left,
+    .nav-icon-up,
+    .nav-icon-down {
+      margin-right: 0.45rem;
+    }
+
+    .nav-icon-right {
+      margin-left: 0.45rem;
+    }
+
+    .nav-icon-home {
+      margin-left: 0.45rem;
     }
 
     .summary {
@@ -343,7 +381,19 @@
     .bottom-actions {
       margin-top: 1.25rem;
       display: flex;
-      justify-content: flex-end;
+      justify-content: flex-start;
+    }
+
+    .bottom-actions .link-button,
+    .actions .link-button,
+    .actions button {
+      align-self: center;
+    }
+
+    .bottom-divider {
+      margin: 1.5rem 0 1rem;
+      border: 0;
+      border-top: 1px solid rgba(63, 106, 53, 0.22);
     }
 
     #bottom-button {
@@ -388,6 +438,7 @@
 
       <div class="meta" id="meta" hidden></div>
       <div class="grid" id="plants"></div>
+      <hr class="bottom-divider" aria-hidden="true">
       <div class="bottom-actions">
         <button class="link-button" id="top-button" type="button">Top</button>
       </div>
@@ -450,12 +501,27 @@
 
       const requestPath = parsePlantPath(requestUri);
       const pathFromLocation = parsePlantPath(window.location.pathname);
+      const historyState = window.history.state && typeof window.history.state === "object" ? window.history.state : {};
+      const hashParams = new URLSearchParams(window.location.hash.replace(/^#/, ""));
       const pathFamily = requestPath.family || pathFromLocation.family;
       const pathGenus = requestPath.genus || pathFromLocation.genus;
-      const family = normalizeSelectionValue(params.get("family") || serverParams.get("family") || serverFamily || pathFamily || window.sessionStorage.getItem("mnpSelectedFamily") || "");
-      const genus = normalizeSelectionValue(params.get("genus") || params.get("genera") || serverParams.get("genus") || serverParams.get("genera") || serverGenus || pathGenus || window.sessionStorage.getItem("mnpSelectedGenus") || "");
+      const family = normalizeSelectionValue(historyState.family || params.get("family") || serverParams.get("family") || hashParams.get("family") || serverFamily || pathFamily || window.sessionStorage.getItem("mnpSelectedFamily") || "");
+      const genus = normalizeSelectionValue(historyState.genus || params.get("genus") || params.get("genera") || serverParams.get("genus") || serverParams.get("genera") || hashParams.get("genus") || hashParams.get("genera") || serverGenus || pathGenus || window.sessionStorage.getItem("mnpSelectedGenus") || "");
+      try {
+        if (family) {
+          window.sessionStorage.setItem("mnpSelectedFamily", family);
+        }
+        if (genus) {
+          window.sessionStorage.setItem("mnpSelectedGenus", genus);
+        }
+      } catch (error) {
+        // Ignore storage failures and fall back to the URL-derived values above.
+      }
       if (family && genus) {
-        window.history.replaceState(null, "", "/plants/" + encodeURIComponent(family) + "/" + encodeURIComponent(genus));
+        window.history.replaceState({ family, genus }, "", "/plants/" + encodeURIComponent(family) + "/" + encodeURIComponent(genus));
+        if (window.location.hash !== `#family=${encodeURIComponent(family)}&genus=${encodeURIComponent(genus)}`) {
+          window.location.hash = `family=${encodeURIComponent(family)}&genus=${encodeURIComponent(genus)}`;
+        }
       }
 
       function escapeHtml(value) {
@@ -464,6 +530,32 @@
           .replace(/</g, "&lt;")
           .replace(/>/g, "&gt;")
           .replace(/\"/g, "&quot;");
+      }
+
+      function navIcon(kind) {
+        if (kind === "external") {
+          return '<svg class="nav-icon nav-icon-right" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 5h5v5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M10 14L19 5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M19 14v5h-5" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path><path d="M5 10v9h9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+        }
+
+        if (kind === "left") {
+          return '<svg class="nav-icon nav-icon-left" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M14 6l-6 6 6 6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+        }
+
+        if (kind === "right") {
+          return '<svg class="nav-icon nav-icon-right" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M10 6l6 6-6 6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+        }
+
+        if (kind === "up") {
+          return '<svg class="nav-icon nav-icon-up" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 14l6-6 6 6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+        }
+
+        return '<svg class="nav-icon nav-icon-down" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 10l6 6 6-6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path></svg>';
+      }
+
+      function navLabel(direction, label, iconPlacement) {
+        const icon = navIcon(direction);
+        const text = `<span>${escapeHtml(label)}</span>`;
+        return iconPlacement === "right" ? `${text}${icon}` : `${icon}${text}`;
       }
 
       function setStatus(message, isError) {
@@ -493,7 +585,7 @@
         if (hasPrevious) {
           previousGenusLink.hidden = false;
           previousGenusLink.href = "/index_plants.shtml?family=" + encodeURIComponent(safeFamily) + "&genus=" + encodeURIComponent(safePreviousGenus);
-          previousGenusLink.textContent = `Previous genus: ${safePreviousGenus}`;
+          previousGenusLink.innerHTML = navLabel("left", `Previous genus: ${safePreviousGenus}`);
         } else {
           previousGenusLink.hidden = true;
         }
@@ -501,7 +593,7 @@
         if (hasNext) {
           nextGenusLink.hidden = false;
           nextGenusLink.href = "/index_plants.shtml?family=" + encodeURIComponent(safeFamily) + "&genus=" + encodeURIComponent(safeNextGenus);
-          nextGenusLink.textContent = `Next genus: ${safeNextGenus}`;
+          nextGenusLink.innerHTML = navLabel("right", `Next genus: ${safeNextGenus}`, "right");
         } else {
           nextGenusLink.hidden = true;
         }
@@ -683,9 +775,11 @@
 
       topButton.addEventListener("click", scrollToTop);
       bottomButton.addEventListener("click", scrollToBottom);
+      topButton.innerHTML = navLabel("up", "Top");
+      bottomButton.innerHTML = navLabel("down", "Bottom");
 
       if (!family || !genus) {
-        window.location.replace("/index.shtml");
+        setStatus("This plant listing could not determine the selected family and genus.", true);
         return;
       }
 
