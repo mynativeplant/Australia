@@ -214,23 +214,23 @@ Banksia ericifolia x (Banksia spinulosa x Banksia marginata)
 
 Each bracket level must contain exactly two parents.
 
-### Cultivar-bearing hybrid parents
+### Cultivar-bearing parentage
 
-A hybrid parent may itself be a cultivar name in round brackets. When a cultivar is used as a parent, do not expand the underlying species of that cultivar in the hybrid expression.
+A parent inside `[]` may itself be a cultivar name in round brackets. When a cultivar is used as a parent, do not expand the underlying species of that cultivar in the parent expression.
 
 Example:
 
 ```text
-Genus[parent_species1|(Cultivar Name)]
+Genus[(Cultivar Name)](Child Cultivar)
 ```
 
 Meaning:
 
 ```text
-Genus parent_species1 x 'Cultivar Name'
+Genus 'Cultivar Name' x 'Child Cultivar'
 ```
 
-This is an atomic cultivar-parent form inside `[]`. It does not use curly braces and does not list the underlying species of the cultivar parent.
+This is an atomic cultivar-parent form inside `[]`. It does not use curly braces and does not list the underlying species of the cultivar parent. If a cultivar appears as the only parent, the enclosing expression must also have a cultivar name.
 
 ## Cultivars
 
@@ -398,6 +398,12 @@ Hybrid with a cultivar-bearing parent:
 Grevillea[rosmarinifolia|(Example Cultivar)]
 ```
 
+Hybrid with a sole cultivar parent:
+
+```text
+Grevillea[(Little Jessie)](Flame 'n Beauty)
+```
+
 Hybrid with an unknown parent:
 
 ```text
@@ -550,7 +556,7 @@ Reject or flag expressions with:
 8. More than one common-name part.
 9. Common name before cultivar.
 10. Unsupported infraspecific rank.
-11. Hybrid expressions without exactly two parents at each bracket level.
+11. Hybrid expressions without exactly two parents at each bracket level, except for a single cultivar parent when the enclosing expression also has a cultivar name.
 
 Examples to reject or flag:
 
@@ -562,6 +568,7 @@ Banksia[ericifolia|spinulosa
 Banksia.spinulosa){Birthday Candles}
 Banksia.spinulosa{Hairpin Banksia}(Birthday Candles)
 Banksia.spinulosa:forma.prostrata
+Grevillea[(Little Jessie)]
 ```
 
 ## Display rendering rules

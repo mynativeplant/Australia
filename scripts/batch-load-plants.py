@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """Batch load plant syntax records into the family tree.
 
+All syntax parsing should go through the shared C API or `bin/mnpparse`.
+Do not add a separate parser here.
+
 For each input record, the loader:
 
 1. Parses the record using the repository plant syntax.
@@ -15,10 +18,15 @@ The script writes a detailed report describing every decision it makes.
 from __future__ import annotations
 
 import argparse
+import json
 from collections import defaultdict
 from dataclasses import dataclass
 from pathlib import Path
+import subprocess
 from typing import TextIO
+
+
+MNPARSE_BIN = Path(__file__).resolve().parents[1] / "bin" / "mnpparse"
 
 
 def is_identifier_start(ch: str) -> bool:
@@ -117,12 +125,13 @@ class SyntaxParser:
             raise ParseError("missing taxon expression")
 
         empty_hybrid = False
+        sole_cultivar_parent = False
         if self.text[index] == ".":
             index += 1
             index = skip_spaces(self.text, index)
             base, index, kind = self._parse_species_or_infraspecific(genus, index)
         elif self.text[index] == "[":
-            base, index, kind, empty_hybrid = self._parse_hybrid(genus, index)
+            base, index, kind, empty_hybrid, sole_cultivar_parent = self._parse_hybrid(genus, index)
         else:
             raise ParseError("expected '.' for species or '[' for hybrid")
 
@@ -142,6 +151,8 @@ class SyntaxParser:
 
         if empty_hybrid and cultivar_name is None and common_name is None:
             raise ParseError("empty hybrid requires cultivar or common-name suffix")
+        if sole_cultivar_parent and cultivar_name is None:
+            raise ParseError("single cultivar parent requires a cultivar name")
 
         canonical = base
         if cultivar_name is not None:
@@ -280,7 +291,7 @@ class SyntaxParser:
         parent, index = self._parse_bare_parent_species(genus, index)
         return parent, index
 
-    def _parse_hybrid(self, genus: str, index: int) -> tuple[str, int, str, bool]:
+    def _parse_hybrid(self, genus: str, index: int) -> tuple[str, int, str, bool, bool]:
         if self.text[index] != "[":
             raise ParseError("expected '['")
 
@@ -288,33 +299,73 @@ class SyntaxParser:
         index = skip_spaces(self.text, index)
 
         if index < len(self.text) and self.text[index] == "]":
-            return f"{genus}[]", index + 1, "hybrid", True
+            return f"{genus}[]", index + 1, "hybrid", True, False
 
         if index < len(self.text) and self.text[index] == "?":
             probe = skip_spaces(self.text, index + 1)
             if probe < len(self.text) and self.text[probe] == "]":
-                return f"{genus}[]", probe + 1, "hybrid", True
+                return f"{genus}[]", probe + 1, "hybrid", True, False
 
         parents: list[str] = []
-        for parent_index in range(2):
-            parent, index = self._parse_parent_expression(genus, index)
-            parents.append(parent)
+        parent, index = self._parse_parent_expression(genus, index)
+        parents.append(parent)
 
-            index = skip_spaces(self.text, index)
-            if parent_index == 0:
-                if index >= len(self.text) or self.text[index] != "|":
-                    raise ParseError("hybrid expression must contain exactly two parents")
-                index += 1
-                index = skip_spaces(self.text, index)
+        index = skip_spaces(self.text, index)
+        if index < len(self.text) and self.text[index] == "]":
+            if not parent.startswith("("):
+                raise ParseError("single cultivar parent requires a cultivar name")
+            return f"{genus}[{parents[0]}]", index + 1, "hybrid", False, True
+
+        if index >= len(self.text) or self.text[index] != "|":
+            raise ParseError("hybrid expression must contain exactly two parents")
+        index += 1
+        index = skip_spaces(self.text, index)
+
+        parent, index = self._parse_parent_expression(genus, index)
+        parents.append(parent)
 
         if index >= len(self.text) or self.text[index] != "]":
             raise ParseError("missing closing ']' in hybrid expression")
 
-        return f"{genus}[{parents[0]}|{parents[1]}]", index + 1, "hybrid", False
+        return f"{genus}[{parents[0]}|{parents[1]}]", index + 1, "hybrid", False, False
 
 
 def parse_record(text: str) -> ParsedRecord:
-    return SyntaxParser(text).parse()
+    try:
+        completed = subprocess.run(
+            [str(MNPARSE_BIN), text],
+            check=True,
+            capture_output=True,
+            text=True,
+        )
+    except FileNotFoundError as error:
+        raise ParseError(f"mnpparse not found at {MNPARSE_BIN}") from error
+    except subprocess.CalledProcessError as error:
+        message = error.stderr.strip() or error.stdout.strip() or "mnpparse failed"
+        raise ParseError(message) from error
+
+    try:
+        payload = json.loads(completed.stdout)
+    except json.JSONDecodeError as error:
+        raise ParseError(f"mnpparse returned invalid JSON: {error.msg}") from error
+
+    if payload.get("error") != "OK":
+        raise ParseError(payload.get("error", "mnpparse failed"))
+
+    parsed = SyntaxParser(payload["raw"]).parse()
+
+    return ParsedRecord(
+        raw_input=parsed.raw_input,
+        canonical=parsed.canonical,
+        taxon_key=parsed.taxon_key,
+        genus=parsed.genus,
+        family="",
+        target_path=Path(),
+        kind=parsed.kind,
+        cultivar_name=parsed.cultivar_name,
+        common_name=parsed.common_name,
+        normalized=parsed.normalized,
+    )
 
 
 def load_genus_family_map(data_root: Path) -> dict[str, str]:
