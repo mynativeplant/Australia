@@ -1,3 +1,3 @@
-Hackelia.latifolia{Forest Hound’s-tongue}
+Hackelia.latifolia{Forest Hound's-tongue}
 Hackelia.suaveolens{sweet hound's-tongue}
 Hackelia.torva

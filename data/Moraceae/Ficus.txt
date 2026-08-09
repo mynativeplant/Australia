@@ -5,7 +5,7 @@ Ficus.baileyana
 Ficus.benghalensis{Bengal banyan}
 Ficus.benjamina{Ficus}
 Ficus.brachypoda
-Ficus.carica{İncir}
+Ficus.carica{Incir}
 Ficus.carpentariensis
 Ficus.cerasicarpa
 Ficus.concinna{Neat Fig}

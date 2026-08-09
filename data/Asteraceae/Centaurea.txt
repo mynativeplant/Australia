@@ -7,5 +7,5 @@ Centaurea.jacea{brown knapweed}
 Centaurea.melitensis{Maltese centaury}
 Centaurea.nigra{Common Knapweed}
 Centaurea.paniculata
-Centaurea.solstitialis{Peygamber çiçeği}
+Centaurea.solstitialis{Peygamber cicegi}
 Centaurea.stoebe{spotted knapweed}

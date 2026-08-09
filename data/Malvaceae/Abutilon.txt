@@ -1,7 +1,7 @@
 Abutilon.amplum
 Abutilon.andrewsianum
 Abutilon.arenarium
-Abutilon.auritum{Asian Indian mallow ا}
+Abutilon.auritum{Asian Indian mallow}
 Abutilon.australiense
 Abutilon.calliphyllum{Velvet Lanternflower}
 Abutilon.cryptopetalum

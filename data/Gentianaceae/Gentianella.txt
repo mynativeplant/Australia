@@ -8,7 +8,7 @@ Gentianella.demissa
 Gentianella.diemensis
 Gentianella.eichleri
 Gentianella.gunniana
-Gentianella.muelleriana{Mueller’s Snow-Gentian}
+Gentianella.muelleriana{Mueller's Snow-Gentian}
 Gentianella.pleurogynoides
 Gentianella.polysperes
 Gentianella.sylvicola

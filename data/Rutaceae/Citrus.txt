@@ -8,6 +8,6 @@ Citrus.australasica{Native Finger Lime}
 Citrus.australasica:var.sanguinea(Rainforest Pearl){Finger Lime}
 Citrus.australis
 Citrus.garrawayi{Mount White Lime}
-Citrus.glauca(Desert Lime){Desert Lime}
+Citrus.glauca(Desert Lime)
 Citrus.inodora
 Citrus[](D' emerald){Finger Lime}

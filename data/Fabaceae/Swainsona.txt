@@ -30,7 +30,7 @@ Swainsona.eremaea
 Swainsona.extrajacens
 Swainsona.fissimontana
 Swainsona.flavicarinata
-Swainsona.formosa{Sturt’s Desert Pea}
+Swainsona.formosa{Sturt's Desert Pea}
 Swainsona.forrestii
 Swainsona.fraseri
 Swainsona.fuscoviridis

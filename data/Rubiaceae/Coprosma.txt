@@ -8,7 +8,7 @@ Coprosma.ptotopetra
 Coprosma.pumila
 Coprosma.quadrifida{Prickly Currant-Bush}
 Coprosma.repens{Tree Bedstraw}
-Coprosma.robusta{Glossy Karamū}
+Coprosma.robusta{Glossy Karamu}
 Coprosma.savolainenii
 Coprosma.tadgellii
 Coprosma.talbrockiei

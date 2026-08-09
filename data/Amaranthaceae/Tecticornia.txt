@@ -45,7 +45,7 @@ Tecticornia.triandra{Desert Glasswort}
 Tecticornia.undulata
 Tecticornia.uniflora
 Tecticornia.verrucosa
-Tecticornia.willisii{Spencer’s Samphire}
+Tecticornia.willisii{Spencer's Samphire}
 Tecticornia.et
 Tecticornia.halocnemoides:subsp.catenulata
 Tecticornia.halocnemoides:subsp.caudata

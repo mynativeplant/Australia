@@ -105,7 +105,7 @@ Melaleuca.depressa
 Melaleuca.dichroma
 Melaleuca.diosmatifolia
 Melaleuca.diosmifolia{green honey myrtle}
-Melaleuca.dissitiflora{creek tea–tree}
+Melaleuca.dissitiflora{creek tea-tree}
 Melaleuca.ebracteata
 Melaleuca.ectadioclada
 Melaleuca.eleuterostachya{hummock honey myrtle}
@@ -310,7 +310,7 @@ Melaleuca.sericea
 Melaleuca.serpentina
 Melaleuca.sheathiana
 Melaleuca.shiressii
-Melaleuca.sieberi{sieber’s paperbark}
+Melaleuca.sieberi{sieber's paperbark}
 Melaleuca.similis
 Melaleuca.societatis
 Melaleuca.sophisma
@@ -415,7 +415,7 @@ Melaleuca.tuberculata:var.tuberculata
 Melaleuca.viminea:subsp.appressa
 Melaleuca.viminea:subsp.demissa
 Melaleuca.viminea:subsp.viminea
-Melaleuca[](Little Toughie ™){Little Toughie ™}
+Melaleuca[](Little Toughie)
 Melaleuca[arcana|saligna]
 Melaleuca[fluviatilis|nervosa:subsp.nervosa]
 Melaleuca[melaleuca|arenicola]

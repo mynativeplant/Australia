@@ -3,7 +3,7 @@ Erodium.aureum{Australian Stork's-bill}
 Erodium.botrys{Mediterranean Stork's-Bill}
 Erodium.brachycarpum{Hairy-Pitted Stork's-Bill}
 Erodium.carolinianum
-Erodium.cicutarium{Turna gagası}
+Erodium.cicutarium{Turna gagasi}
 Erodium.crinitum{Eastern Stork's-Bill}
 Erodium.cygnorum{Western Stork's-Bill}
 Erodium.janszii

@@ -3,7 +3,7 @@ Teucrium.argutum{Native Germander}
 Teucrium.betchei
 Teucrium.corymbosum{forest germander}
 Teucrium.daucoides{fern-leaved germander}
-Teucrium.diabolicum{Devil’s Germander}
+Teucrium.diabolicum{Devil's Germander}
 Teucrium.disjunctum
 Teucrium.eremaeum
 Teucrium.fallax
