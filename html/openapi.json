@@ -349,7 +349,7 @@
     "schemas": {
       "ResponseMetadata": {
         "type": "object",
-        "required": ["result", "creator", "compile_time", "run_time"],
+        "required": ["result", "creator", "compile_time", "database_time", "run_time"],
         "properties": {
           "result": {
             "type": "string",
@@ -362,6 +362,10 @@
           "compile_time": {
             "type": "string",
             "description": "Module build time in a human-readable timestamp format."
+          },
+          "database_time": {
+            "type": ["string", "null"],
+            "description": "UTC modification time of the configured Berkeley DB file, representing its build/install time; null when the file timestamp cannot be read."
           },
           "run_time": {
             "type": "string",
